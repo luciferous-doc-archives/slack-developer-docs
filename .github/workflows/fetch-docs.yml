@@ -1,0 +1,21 @@
+name: Fetch Slack Developer Docs
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 03:00 JST = 18:00 UTC
+    - cron: "0 18 * * *"
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set timestamp
+        id: timestamp
+        run: echo "value=$(date -u +'%Y%m%d-%H%M')" >> "$GITHUB_OUTPUT"
+
+      - name: Show timestamp (placeholder)
+        run: echo "Run timestamp (UTC) = ${{ steps.timestamp.outputs.value }}"
