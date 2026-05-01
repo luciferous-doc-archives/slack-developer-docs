@@ -30,4 +30,4 @@ jobs:
         env:
           BASE_TIMESTAMP: ${{ steps.timestamp.outputs.value }}
           PYTHONPATH: src
-        run: uv run src/handlers/fetcher.py
+        run: uv run src/handlers/fetcher/fetcher.py
