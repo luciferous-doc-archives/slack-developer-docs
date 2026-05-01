@@ -36,11 +36,16 @@ jobs:
         working-directory: docs/slack-developer-docs-${{ steps.timestamp.outputs.value }}
         run: find . -type f | sort | xargs sha256sum > ../../current_file_hashes.txt
 
-      - name: Upload hashes artifact
-        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7
-        with:
-          name: file-hashes
-          path: current_file_hashes.txt
+      - name: Compare hashes
+        id: compare
+        run: |
+          if diff -q file_hashes.txt current_file_hashes.txt >/dev/null 2>&1; then
+            echo "files_changed=false" >> "$GITHUB_OUTPUT"
+            echo "Files are identical. No update needed."
+          else
+            echo "files_changed=true" >> "$GITHUB_OUTPUT"
+            echo "Files have changed. Proceeding with update."
+          fi
 
   notify-on-failure:
     runs-on: ubuntu-latest
