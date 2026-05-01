@@ -14,6 +14,19 @@ class TypeDefinitionIntervalFetcher(Protocol):
 logger = create_logger(__name__)
 
 
+def extract_charset_from_response(resp: HTTPResponse) -> str:
+    """HTTPレスポンスの Content-Type ヘッダーから charset を抽出"""
+    content_type = resp.headers.get("Content-Type", "")
+
+    for part in content_type.split(";"):
+        part = part.strip()
+        if part.lower().startswith("charset="):
+            charset = part.split("=", 1)[1].strip()
+            return charset.strip("\"'")
+
+    return "utf-8"
+
+
 def make_interval_fetcher(*, sec: float) -> TypeDefinitionIntervalFetcher:
     dt_prev: datetime | None = None
 
@@ -32,7 +45,8 @@ def make_interval_fetcher(*, sec: float) -> TypeDefinitionIntervalFetcher:
 
                 body = resp.read()
                 if isinstance(body, bytes):
-                    return body.decode()
+                    charset = extract_charset_from_response(resp)
+                    return body.decode(charset)
                 elif isinstance(body, str):
                     return body
                 else:

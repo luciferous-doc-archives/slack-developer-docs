@@ -48,5 +48,5 @@ def fetch_and_save(*, url: str, path: str, base_timestamp: str):
     makedirs(name=dir_path, exist_ok=True)
 
     markdown = default_fetcher(url=url)
-    with open(file_path, "w") as f:
+    with open(file_path, "w", encoding="utf-8") as f:
         f.write(markdown)
