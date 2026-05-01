@@ -10,6 +10,14 @@ logger = create_logger(__name__)
 
 SITEMAP_URL = "https://docs.slack.dev/llms-sitemap.md"
 BASE_DIR = "docs"
+SKIP_URL_PREFIXES = [
+    "https://docs.slack.dev/super-secret.md",
+    "https://docs.slack.dev/super-secret/",
+]
+
+
+def _should_skip_url(url: str) -> bool:
+    return any(url.startswith(prefix) for prefix in SKIP_URL_PREFIXES)
 
 
 @logging_function(logger)
@@ -17,7 +25,14 @@ def main():
     base_timestamp = get_base_timestamp()
     markdown_content = default_fetcher(url=SITEMAP_URL)
     all_urls = parse_sitemap_markdown(markdown_content=markdown_content)
-    for url in all_urls:
+
+    filtered_urls = [url for url in all_urls if not _should_skip_url(url)]
+
+    skipped_urls = [url for url in all_urls if _should_skip_url(url)]
+    if skipped_urls:
+        logger.info(f"Basic認証が必要なURLをスキップ: {len(skipped_urls)} 件")
+
+    for url in filtered_urls:
         path = url_to_file_path(url=url, all_urls=all_urls)
         fetch_and_save(url=url, path=path, base_timestamp=base_timestamp)
 
