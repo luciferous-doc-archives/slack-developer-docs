@@ -1,9 +1,10 @@
-from urllib.request import urlopen
-from utils.logger import create_logger, logging_function
-from http.client import HTTPResponse
 from datetime import datetime
-from typing import Protocol
+from http.client import HTTPResponse
 from time import sleep
+from typing import Protocol
+from urllib.request import urlopen
+
+from utils.logger import create_logger, logging_function
 
 
 class TypeDefinitionIntervalFetcher(Protocol):

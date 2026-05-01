@@ -1,3 +1,3 @@
-from .sitemap_parser import make_sitemap_parser, default_parser
+from .sitemap_parser import parse_sitemap_markdown
 
-__all__ = ["make_sitemap_parser", "default_parser"]
+__all__ = ["parse_sitemap_markdown"]
