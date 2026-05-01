@@ -1,10 +1,10 @@
 from os import environ, makedirs
 from os.path import dirname
-from urllib.parse import urlparse
 
 from utils.http.interval_fetcher import default_fetcher
 from utils.logger import create_logger, logging_function
 from utils.parser import parse_sitemap_markdown
+from utils.path import url_to_file_path
 
 logger = create_logger(__name__)
 
@@ -25,19 +25,6 @@ def main():
 @logging_function(logger)
 def get_base_timestamp() -> str:
     return environ["BASE_TIMESTAMP"]
-
-
-@logging_function(logger)
-def url_to_file_path(*, url: str, all_urls: list[str]) -> str:
-    path = urlparse(url).path[1:]
-
-    if path.endswith(".md"):
-        stem = path[:-3]
-        prefix = f"/{stem}/"
-        if any(urlparse(u).path.startswith(prefix) for u in all_urls):
-            return f"{stem}/index.md"
-
-    return path
 
 
 @logging_function(logger)

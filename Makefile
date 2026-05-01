@@ -7,6 +7,9 @@ format:
 renovate:
 	renovate --platform=local
 
+test-unit:
+	uv run pytest -vv tests/unit 
+
 .PHONY: \
 	format \
 	renovate
