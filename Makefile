@@ -4,6 +4,10 @@ format:
 	uv run isort src/
 	uv run black src/
 
+renovate:
+	renovate --platform=local
+
 .PHONY: \
-	format
+	format \
+	renovate
 
