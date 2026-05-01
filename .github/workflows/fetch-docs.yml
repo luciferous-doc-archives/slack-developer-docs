@@ -9,6 +9,8 @@ on:
 jobs:
   fetch:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6
@@ -16,6 +18,10 @@ jobs:
       - name: Set timestamp
         id: timestamp
         run: echo "value=$(date -u +'%Y%m%d-%H%M')" >> "$GITHUB_OUTPUT"
+
+      - name: Set date
+        id: date
+        run: echo "value=$(date -u +'%Y/%m/%d')" >> "$GITHUB_OUTPUT"
 
       - name: Show timestamp (placeholder)
         run: echo "Run timestamp (UTC) = ${{ steps.timestamp.outputs.value }}"
@@ -46,6 +52,34 @@ jobs:
             echo "files_changed=true" >> "$GITHUB_OUTPUT"
             echo "Files have changed. Proceeding with update."
           fi
+
+      - name: Create release zip
+        if: steps.compare.outputs.files_changed == 'true'
+        run: |
+          mkdir -p dist
+          cd docs
+          zip -r -9 ../dist/slack-developer-docs-${{ steps.timestamp.outputs.value }}.zip slack-developer-docs-${{ steps.timestamp.outputs.value }}/
+
+      - name: Update file hashes
+        if: steps.compare.outputs.files_changed == 'true'
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          cp current_file_hashes.txt file_hashes.txt
+          git add file_hashes.txt
+          git commit -m "Update file hashes for docs updated on ${{ steps.timestamp.outputs.value }}"
+          git push origin ${{ github.ref_name }}
+
+      - name: Create GitHub Release
+        if: steps.compare.outputs.files_changed == 'true'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v${{ steps.timestamp.outputs.value }}
+          name: ${{ steps.date.outputs.value }} document updated
+          body: |
+            Document updated on ${{ steps.date.outputs.value }} (${{ steps.timestamp.outputs.value }})
+          draft: false
+          files: dist/*.zip
 
   notify-on-failure:
     runs-on: ubuntu-latest
