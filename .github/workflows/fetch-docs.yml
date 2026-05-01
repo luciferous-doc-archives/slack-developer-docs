@@ -37,7 +37,7 @@ jobs:
         run: find . -type f | sort | xargs sha256sum > ../../current_file_hashes.txt
 
       - name: Upload hashes artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7
         with:
           name: file-hashes
           path: current_file_hashes.txt
