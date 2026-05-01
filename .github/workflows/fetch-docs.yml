@@ -31,3 +31,20 @@ jobs:
           BASE_TIMESTAMP: ${{ steps.timestamp.outputs.value }}
           PYTHONPATH: src
         run: uv run src/handlers/fetcher/fetcher.py
+
+  notify-on-failure:
+    runs-on: ubuntu-latest
+    needs: fetch
+    if: failure()
+    steps:
+      - name: Notify Slack on failure
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_INCOMING_WEBHOOK_URL }}
+          WORKFLOW_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          REPO_URL: ${{ github.server_url }}/${{ github.repository }}
+          REPO_NAME: ${{ github.repository }}
+        run: |
+          PAYLOAD=$(printf '{"text":"<!channel> GitHub Actions workflow failed: Fetch Slack Developer Docs","blocks":[{"type":"section","text":{"type":"mrkdwn","text":"*Failed to fetch Slack Developer Docs*\n\nRepository: <%s|%s>\n\n<%s|View Details>"}}]}' "$REPO_URL" "$REPO_NAME" "$WORKFLOW_URL")
+          curl -X POST "$SLACK_WEBHOOK_URL" \
+            -H 'Content-Type: application/json' \
+            -d "$PAYLOAD"
