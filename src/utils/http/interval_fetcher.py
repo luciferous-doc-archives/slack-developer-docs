@@ -1,8 +1,9 @@
 from datetime import datetime
-from http.client import HTTPResponse
 from time import sleep
 from typing import Protocol
-from urllib.request import urlopen
+
+import requests
+from requests.adapters import HTTPAdapter
 
 from utils.logger import create_logger, logging_function
 
@@ -13,9 +14,15 @@ class TypeDefinitionIntervalFetcher(Protocol):
 
 logger = create_logger(__name__)
 
+# コネクションプーリング設定付きセッションの初期化
+_session = requests.Session()
+_adapter = HTTPAdapter(pool_connections=10, pool_maxsize=10)
+_session.mount("http://", _adapter)
+_session.mount("https://", _adapter)
 
-def extract_charset_from_response(resp: HTTPResponse) -> str:
-    """HTTPレスポンスの Content-Type ヘッダーから charset を抽出"""
+
+def extract_charset_from_response(resp: requests.Response) -> str:
+    """requests レスポンスの Content-Type ヘッダーから charset を抽出"""
     content_type = resp.headers.get("Content-Type", "")
 
     for part in content_type.split(";"):
@@ -40,17 +47,17 @@ def make_interval_fetcher(*, sec: float) -> TypeDefinitionIntervalFetcher:
             if wait > 0:
                 sleep(wait)
         try:
-            with urlopen(url) as resp:
-                resp: HTTPResponse
+            resp = _session.get(url)
+            resp.raise_for_status()
 
-                body = resp.read()
-                if isinstance(body, bytes):
-                    charset = extract_charset_from_response(resp)
-                    return body.decode(charset)
-                elif isinstance(body, str):
-                    return body
-                else:
-                    raise TypeError(f"レスポンスのタイプが不正です ({type(body)})")
+            body = resp.content
+            if isinstance(body, bytes):
+                charset = extract_charset_from_response(resp)
+                return body.decode(charset)
+            elif isinstance(body, str):
+                return body
+            else:
+                raise TypeError(f"レスポンスのタイプが不正です ({type(body)})")
         finally:
             dt_prev = datetime.now()
 
