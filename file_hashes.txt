@@ -338,7 +338,7 @@ e64626bb5c56735bd21457a3132b58c1707ac66b9fea151495ae9269375691bd  ./messaging/se
 f112108272c741f3dc1f4599fba18ae1c979aad8b424160dfcdf4610bfd66bf3  ./messaging/working-with-files.md
 a894b1ee38ab2ebe3d9a67794c1ec6cc265da36048b2c396ae369b24b8a8a2d7  ./other-ai-integrations.md
 7769da32cb87fa27702672590fbef2d6bf2de3e290dd511b7dc912a1714f3ca2  ./quickstart.md
-87cbd4eb6f615ce8afe262b883814b998f489f4519588c1cc47c9039b8b41207  ./reference/app-manifest.md
+702ebbff46f1bf3dc06d667e58849aa7979edf367583688f8a0c69d356f14d38  ./reference/app-manifest.md
 16179c8a96c719d90beffc73bb6c6cbce63d4d234cc3be28627433b4828a6ee2  ./reference/audit-logs-api/anomalous-events-reference.md
 62593bcfce0c24a47e52063c779eb7c95dc1e7398326995e878aae5c8bad3fcb  ./reference/audit-logs-api/index.md
 01a45f7286cd0406d2f94679eac2c00eb6e76a563b0a47d02214a18b18848a21  ./reference/audit-logs-api/methods-actions-reference.md
