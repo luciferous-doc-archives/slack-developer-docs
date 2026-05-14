@@ -256,8 +256,8 @@ de15084cd59a507255beef4b52ad192edeaa92d2b637952010e7b5f3820485ce  ./changelog/20
 8acb84af528bc4236f3a1b780abc9c98f34ff7528116cc4a664cefdbe1c54f48  ./changelog/2026/03/30/pkce.md
 143a237fc733e97065ad52ad3dd2ca0f976c65b0e025e3c30c306c2d6cf9ed75  ./changelog/2026/04/10/slack-cli.md
 3d2958ee9c731ce1fd8b589f6a9334a7611406b728fc3b0ae16fbe36a2990405  ./changelog/2026/04/16/block-kit-new-blocks.md
-3ca666cbcc18e2a123b6bd130dd6943748c149854b8af5e23f8b3ddc720be6ad  ./changelog/2026/05/13/new-mcp-tools.md
-c9954d725333f06368ee1068786e15212417a64be610b26890e3bae687886a4c  ./changelog/index.md
+4d3cd52803eed142e836f3666faf5b61413427ff44599964c723ebefb21f9da0  ./changelog/2026/05/13/new-mcp-tools.md
+78314322efb6ee79d8903c3daf5048c1ee06a94f2ab3bada1534ba8236323dca  ./changelog/index.md
 828818907ead101abdc83425afd8355366b7a8ba9ab7f4720cbb7016a9ab520b  ./changelog/tags/announcement.md
 78ef73b6fec03bea5cb7e03477270ec177e689284fef8f33fba64590456dd05f  ./changelog/tags/beta.md
 0fc74160b49dba09bfb611d5e0fceea2892259d87b5623c13a2b720fc5e85542  ./changelog/tags/block-kit.md
@@ -267,7 +267,7 @@ e124450e7e082203428b65433bdeb7effcab9b3553da6fbd29c953832a4a8f36  ./changelog/ta
 59d541aab87ba4ed0eedba12971bcf10ca2f4b5e3db8ec281eab3e029252dba3  ./changelog/tags/deno-slack-sdk.md
 0ec8290208f93356c75bf54d1b8e5600719d29e610f25138d72079717eafc8e8  ./changelog/tags/deprecation.md
 dc815cf29eb3649a989b3c7e5ff9f745c4f748264679386e74714be179b709db  ./changelog/tags/index.md
-d5b6b83c7261c84ce8ec141e5487f2a028955eed6e4f61d32e4b6b9f12da2635  ./changelog/tags/new-feature.md
+6d873d7876f31cf5de4f04605d2e020ae3082b901f4a7a1e06cb9c243ca216e3  ./changelog/tags/new-feature.md
 d02c28b4e29bfac98ae4e3e0353dcaf8e1eaf56cfd61a7da1449cc010cd3470c  ./changelog/tags/release.md
 f4672416ff23b0cfe11dd77f734572c321938ca5f534664773646331f1a8dab7  ./changelog/tags/slack-cli.md
 1f97acee51eca9f10c2ee571205d8a808bf1ec5568572630dafe084982660a51  ./community-code-of-conduct.md
@@ -471,7 +471,7 @@ eea1b357ee061e682e58d32974ecc2d018f0d34d7a906342143641f4b34dd47e  ./reference/ev
 91437cd8cc7a86e10ef5ac79a015839acadd8da156a28c3fdb593e6e8f17c08a  ./reference/events/message/channel_archive.md
 65f689d158969cada7d4ab22c9819f7d1715858c2699783de4daaf0c66d2f4bf  ./reference/events/message/channel_convert_to_private.md
 f99eeae86293cc32cfc20c0f90ab524909d388a3769e2fe2850a3ca4c381cfd4  ./reference/events/message/channel_convert_to_public.md
-7db02d944b34b3759fd01a9d796f507c383c0e96b9202ea9791657b1f103ca01  ./reference/events/message/channel_join.md
+f9950c0fb5e93633a02e2ad1f6e1f307f8906035eff4390d52559a410e045a6b  ./reference/events/message/channel_join.md
 1e630bf141dee369a5d2223cf49d7501144fa20b683f22169da945c4d4a5decd  ./reference/events/message/channel_leave.md
 61b78a335253efa08979fbdca1b6c8a8a2f9b2cb9e449e7e99d568777f6709dd  ./reference/events/message/channel_name.md
 3bf4692d6e1f399779d739549066a344a23c0fe966ab2c2069a72fe5c794059b  ./reference/events/message/channel_posting_permissions.md
@@ -1228,7 +1228,7 @@ e785a0a8f4302b0d169118ead7420c718aaf05ca8c2fbb0784f5e97ed9afb04e  ./tools/bolt-p
 01a16463d5f2401da04ee774082c8dc6ee758872a1a3825e6348b7c91b375f05  ./tools/bolt-python/tutorial/custom-steps.md
 e07e36dfea78f5bf96cc9b1bb79724afd9f5779abca5ee25f23b1a871a6b8acc  ./tools/bolt-python/tutorial/modals.md
 aaec4627ba4d21e4ba59adb0ec9ffbd29eafc2781a5c02c42a7ea7e5d2fc8513  ./tools/bolt-python/tutorial/order-confirmation.md
-b5f62bbf970df795d849368516196924c50026101b3ecd1c3d832043611c53bd  ./tools/community-developed-tools.md
+5f5bb68c4e531157a7c6fe4818c8fa302bc2b3b9bcdccf71d9929aa39a2fad40  ./tools/community-developed-tools.md
 01f5313baec64e52a82236816beb77e38301cda2f5a5b3f97d415acae6b446a7  ./tools/deno-slack-sdk/guides/adding-interactivity.md
 c42326d031be74c518565a030dafdb8fdb897debd823dd227125a8249f7ae513  ./tools/deno-slack-sdk/guides/adding-items-to-a-datastore.md
 79d1c045d1e1d50480dbed23e68ed64e207615740d43ec1786dab9c637743c24  ./tools/deno-slack-sdk/guides/calling-slack-api-methods.md
