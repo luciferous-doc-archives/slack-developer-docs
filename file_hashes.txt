@@ -1007,7 +1007,7 @@ fbff30c8b8c4a3c6db979104250c82ede30d78c6a5c9581ab356110624b20a62  ./slack-market
 b9629eb6f8061fb0607abb6cd76ef018d011c9b9f998f9435a3f3530d939d95c  ./slack-marketplace/marketplace-terms-conditions/index.md
 fdd3ea2b83b798902b22be37d39e434d862099e3a7632a0b30e559ea07520dc8  ./slack-marketplace/marketplace-terms-conditions/slack-marketplace-agreement.md
 2469d6a69b24a1bded097f7ae3d1f43168aefe7934492de7f239ff45ab0e2ef9  ./slack-marketplace/marketplace-terms-conditions/slack-security-review.md
-e42adfa4a5b24af9f1ee9bec8e16f607a94745674ada7576849cbed3398a86ca  ./slack-marketplace/slack-marketplace-app-guidelines-and-requirements.md
+f483affd92544d4ad6aaacacf545cb5675fe91ac1950eb11ae1ca3e2978ec3d0  ./slack-marketplace/slack-marketplace-app-guidelines-and-requirements.md
 2f15f30a2fb077ce4a577035f7b7469ca11d611e25743e07c285d7d3475f72d7  ./slack-marketplace/slack-marketplace-review-guide.md
 95627669b7595e4c7435cd420364f93b2b1fd92a0e10f0bdc871474f191f44b0  ./surfaces/app-home.md
 4e124b9628590ee1cf4675e5ac2c4a7413485545fc77b4bb96b6c43d1c7a0141  ./surfaces/canvases.md
