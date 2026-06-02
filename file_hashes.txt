@@ -5,7 +5,7 @@ d9e9b6c3d73a5743689bac690b18c92a87508f94a449d22f482556c3421d54bf  ./admins/audit
 67c543a3e1d92057890fb7af40e79abf5e3671ac352e5e7e1d8fc60280506213  ./admins/managing-app-approvals.md
 191f43296c7d32cbe32baab4d603c5c71faab7d5a4b8c5e20a2e4a630f9d965b  ./admins/managing-channels.md
 e161f277a5465fd5684b4805026d34e9976ecc8da35c7f16972a976cabccf9ef  ./admins/managing-invite-requests.md
-060ee26e352ddeab169d3dd4e512a33c3f56616ab88902e5e5f685f6dd136311  ./admins/managing-users.md
+8d114d8abcd7ed325ababd2cf1a8da1847b3431a4c0dbb26d37f594a267500e6  ./admins/managing-users.md
 ab3ec3b6e6ea581c9d55e6eae6e338b3bfa12cb45b99a61763be06dae4f877ca  ./admins/managing-workflow-and-connector-permissions.md
 abdd472d425770ad3dde449a688d496275d9e9691701a1b1bc3567e50e52c03d  ./admins/scim-api.md
 db937c9addc31af77aefcaf714ec98bd7b6a9b0017ccb25e36d1be4b6df57021  ./ai/agent-context-management.md
@@ -345,7 +345,7 @@ a894b1ee38ab2ebe3d9a67794c1ec6cc265da36048b2c396ae369b24b8a8a2d7  ./other-ai-int
 702ebbff46f1bf3dc06d667e58849aa7979edf367583688f8a0c69d356f14d38  ./reference/app-manifest.md
 16179c8a96c719d90beffc73bb6c6cbce63d4d234cc3be28627433b4828a6ee2  ./reference/audit-logs-api/anomalous-events-reference.md
 a9dd0843c7a1c89fb15bf444e5755e4eebc2282359643b4f89047e32d3ea8dad  ./reference/audit-logs-api/index.md
-c996d533d8f54a5ec2d08110da25d1c0a557dfd2324e951dd6e5d1496f0e68f8  ./reference/audit-logs-api/methods-actions-reference.md
+b9fa7f38c9132110ef937dda1231e5ddefe67737dc881559522266ec244b5c59  ./reference/audit-logs-api/methods-actions-reference.md
 22f61e41ba1d725c3a119b67ff35faafa172051bec115f518e3c0cc4497c0f17  ./reference/block-kit/block-elements/button-element.md
 0b60cc36b3ff17d427c638f2f0cc7eb80a5a74400a2b46d87056abd04fb93308  ./reference/block-kit/block-elements/checkboxes-element.md
 69f811436814005ff5bac153f0ce88755d86b37c14772a619ff244a16931fea4  ./reference/block-kit/block-elements/date-picker-element.md
@@ -598,7 +598,7 @@ c502195c6790dc891a36080094bd899a97af58864a3a01d6377399646b39f6b6  ./reference/me
 f833ed3be666794355df76dee0fe58935839ea030ebf7f09de909b2edef7a3a4  ./reference/methods/admin.conversations.lookup.md
 2d2c72c58869bdf0bd7576e8aece022fa5f2d7b9416c08206ab1ed8936d6829d  ./reference/methods/admin.conversations.removecustomretention.md
 671a740a739cf8826b05115d9f2680211ab01cc78db0a550dbc642b5340b5809  ./reference/methods/admin.conversations.rename.md
-2b08c0c66c9c4a5031e301eb46df523c4bd7324b1b7d74482a67cefe7a4a6d83  ./reference/methods/admin.conversations.restrictaccess.addgroup.md
+8fd0adcb42533720587ce7ed36d458a7dd55b487484cfc59f796874a5cbfcd7c  ./reference/methods/admin.conversations.restrictaccess.addgroup.md
 9c6bd9c2ef4a3b1d4a280251f43f5d5bf67e0a1dfc885506b4f5b6c38e35483b  ./reference/methods/admin.conversations.restrictaccess.listgroups.md
 0db04fabf56aaf0053ee9b0bae8103b5bd62e4449ba75adfce0bab6f1517a2a1  ./reference/methods/admin.conversations.restrictaccess.removegroup.md
 fd0ea5c5da0ac7e578e5dea284f53ce2ae5a1fe9dd5364b31530b058497c5612  ./reference/methods/admin.conversations.search.md
@@ -676,7 +676,7 @@ d76b0ae9a368898ef0f8d806e875a2030e82380051da7ec1f86372e3a9ec0cc3  ./reference/me
 d78bd003e705ac97f50b855f00eb9d817202116ba26bb7d8208d6a00ab4524bf  ./reference/methods/apps.datastore.query.md
 54797baf1d3aef3802663ef112d1d02775e72ccc94535ac7592f085b220ba7b0  ./reference/methods/apps.datastore.update.md
 71b45d222ce0a6f8c3ee8a1133e374659ffe25e1312298a834d27c1d33ca30c0  ./reference/methods/apps.event.authorizations.list.md
-ecffc5cd418c8d05a741444a1327ad807e3ba80e59ed965f24d2800a15c04481  ./reference/methods/apps.icon.set.md
+d9b58d967707e2a07d1593d10cf0b653ad78c82b4e3d552c57a48b4822d05d7b  ./reference/methods/apps.icon.set.md
 e4c615533b1439c962c51c6b781221b40100fe39f6915f5603f1cd6ac50555b4  ./reference/methods/apps.manifest.create.md
 932225d177dc0df335aa2b8ce108ca86cce45b99d6437d3b2f33010de26e0e0e  ./reference/methods/apps.manifest.delete.md
 9c07a7fa8b5d056d23cff696639fdd9962988ca9516bd0e9de7a1cd42af7cac2  ./reference/methods/apps.manifest.export.md
