@@ -47,7 +47,7 @@ ca475949c6756d3e44db136f8f887351a9fa8246d9c00fb5744f840a5127bee0  ./app-manageme
 69ee75532a2bc755f3ba64bde3660dae3fabebd17a1adc41d5d4a59e6534e900  ./app-manifests/index.md
 ac78bd8d55c382b8196f672ead62620d4b5121dc6a0c7466e8f305f2290948e7  ./authentication/authorizing-with-postman.md
 00ad0ff568f9b08ea2717d8739f93bc16c49c139b4e94f1e358f599e7b304355  ./authentication/binding-accounts-across-services.md
-ff27d57fc74fa8ba732245578163fcb7585e239943277a09d2e6f691aacb7f92  ./authentication/index.md
+90a1a03edb8380eef56b8c87e5f6b67f4805dae1545dcaff8068f193cf005d8b  ./authentication/index.md
 566ab8a76a6feef64ac8ac375e4f8b67bc7ffe7fdccb2cbee0d5cca1e732ffd1  ./authentication/installing-with-oauth.md
 613f9fbcffdf570d330edd1d51642a025293a4fd97d5bccd9be1094221dcf4f7  ./authentication/sign-in-with-slack/index.md
 415c1a8054bbf674c81444696ac0040990876ff18f07363dcdd9c6eb913a0884  ./authentication/sign-in-with-slack/setting-up-sign-in-with-slack-links.md
