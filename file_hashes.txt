@@ -38,7 +38,7 @@ d5b5c6b58083781bcbc0cf20386b505a4ff6e2165646bf9321706fb477a94f1e  ./apis/web-api
 424c7be49fc8d5603021e8f9eb4a8895df34b7f0704bfc0ecfda9218fed66cd2  ./apis/web-api/using-the-calls-api.md
 74728d34d88590e614923bb9642ec60716ce564a9f00d18a544ada4e8c1bef5b  ./apis/web-api/using-the-conversations-api.md
 45b8173b8dd0df176a2c7ebc7e90c477f6d928608ce18a5826b416ac613ba498  ./apis/web-api/using-web-api-with-postman.md
-cadd9160d1b57b42a5b216a6e1c6841d6e17790d35a3696b7fcd122377eae1d5  ./app-management/distribution.md
+97877338a91600efd50b5b918c388b8aaa861bedaa608eafd2eb90f33fab5fc7  ./app-management/distribution.md
 4b48066093aff8a6f947c8a8027c31a44d65a668d7ff31caa5d21c35e750f967  ./app-management/hosting-slack-apps.md
 530d3b5525c4a6773a37ac6837c67a1789005736dad7e53975d5f29e16a8d2d9  ./app-management/index.md
 bdfb021abd3232b6e6e36303e6467092bd7f65d2c39401b16ca178c317d4774c  ./app-management/onboarding-users-to-your-app.md
@@ -754,6 +754,9 @@ c5c31ac8a34b3f25d86a7994e7a1626fd659e532eba5c420d44d5748d25be443  ./reference/me
 4e5e37fb1636683f951c717a9bfe1491ab41d6c5c20e80622dd8aa8b3694709e  ./reference/methods/conversations.setpurpose.md
 a36517f8297a43c87ae3838cbff3c6e23a6471ae149d474a4b77a2c8fca0b1b9  ./reference/methods/conversations.settopic.md
 309d704ae1b88ba3c0814200919628f65b3fe5d249ac53611bcb93bae54610d2  ./reference/methods/conversations.unarchive.md
+fd75fab0cbbdbfd1e97b1366c24e8ac66fa93525a0eaba6f66255d4cc9f49664  ./reference/methods/developer.apps.owners.add.md
+1b5df0e04925e2f33575929188a13a4a7c85980ab51e0d1f08a847fb55f76cef  ./reference/methods/developer.apps.owners.list.md
+c543c6da82bd91b469bca50b4feb774a5fe15b574975d05c0be82e86caf47b57  ./reference/methods/developer.apps.owners.remove.md
 60b76ae217ce701f2a4ae6f289409a7340b11acdda3033b4f735cef6a2bcf8a9  ./reference/methods/dialog.open.md
 96b10176c06d821f4860f9d2de24cd11d63d09298e6a3c45f0a2b3c671d078f0  ./reference/methods/dnd.enddnd.md
 cda9f592bbb19f781a22fef4de3233ffe1e0b16170463f5f218bd3bca96b425d  ./reference/methods/dnd.endsnooze.md
