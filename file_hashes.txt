@@ -268,8 +268,9 @@ be430541fe7201316b645095dbb79563162a5941f4021e27ef51a9e3c109a5a3  ./changelog/20
 52a12755b1f3b5db43dd3e90dee448e15c026f3d087f95acc0a9181fca342397  ./changelog/2026/06/03/slack-cli.md
 63adc146e0e58361c55cbad730bc550079fbe71e427bb38c3d5da473418f209c  ./changelog/2026/06/16/block-kit-data-visualization-block.md
 e251c9614e1193ba9c64386b1d03987b0648945fbced66d3efcedbe0fb3da6cb  ./changelog/2026/06/17/system-notifications.md
+d8fce52b65d0c3f366f8fa4c980acddfa482c305371b888aab87c932ac26cd71  ./changelog/2026/06/18/slack-cli.md
 bb383460ffd80bd3e1aca8568e5fd8115d534fe04870d8bef0ee9ebd8921f5ef  ./changelog/2026/06/18/slackbot-mcp-client.md
-bf73e28f4a7633cb7430ab699c1de8e2165d1d12e01f83a78a36c393c219eb59  ./changelog/index.md
+ed65a866a7412b17e035fe38e652b5f328f4edb98764c15c6346f008a917dd3d  ./changelog/index.md
 91a8250d7133f012d8a6afb7884637330b3e3c4c04236a919db523528a240b5e  ./changelog/tags/announcement.md
 78ef73b6fec03bea5cb7e03477270ec177e689284fef8f33fba64590456dd05f  ./changelog/tags/beta.md
 90d7ea055a5fc8b07b65db0baefd1bb927c8363a737b324458949b11672dbd8c  ./changelog/tags/block-kit.md
@@ -281,8 +282,8 @@ bf73e28f4a7633cb7430ab699c1de8e2165d1d12e01f83a78a36c393c219eb59  ./changelog/in
 9483baeb8ab879de7af08fae56fca7576054733c7eed5ac04e9863bb6831d6fa  ./changelog/tags/index.md
 98d55cb5876089a1b19f150f6f0a24838033fde86901cd964bd39a4f63fd2c80  ./changelog/tags/java-slack-sdk.md
 0a2ef4ec21ce24f1e8813a6ce5c9f5a7ffd6a51dd9b990357084ecd15c64e9cc  ./changelog/tags/new-feature.md
-f74e8ac5617433d66514a34c0c2a866677b5890a28576de5a0feb800d2c61056  ./changelog/tags/release.md
-8d4402abd94db474630939f6a12706868f8b76df78f53943f20c44b5b7582106  ./changelog/tags/slack-cli.md
+d7516cef4245e166491720d869a88a3e144de4de986baf95e67151d73f3b697c  ./changelog/tags/release.md
+289e7867f1546c51764a0a72f3b849e04582a3238f733b6238e11be14ffa9f29  ./changelog/tags/slack-cli.md
 1f97acee51eca9f10c2ee571205d8a808bf1ec5568572630dafe084982660a51  ./community-code-of-conduct.md
 113e3b25ff3ec99ce70201161fae6ee19d82a99becffd831993c5d695e8c103d  ./concepts/agent-design.md
 6d86f100434ce2daf235459b3ed87ca83a645273e3fd77121132b9b56266fee7  ./concepts/app-design.md
