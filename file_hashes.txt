@@ -763,9 +763,6 @@ c5c31ac8a34b3f25d86a7994e7a1626fd659e532eba5c420d44d5748d25be443  ./reference/me
 4e5e37fb1636683f951c717a9bfe1491ab41d6c5c20e80622dd8aa8b3694709e  ./reference/methods/conversations.setpurpose.md
 a36517f8297a43c87ae3838cbff3c6e23a6471ae149d474a4b77a2c8fca0b1b9  ./reference/methods/conversations.settopic.md
 309d704ae1b88ba3c0814200919628f65b3fe5d249ac53611bcb93bae54610d2  ./reference/methods/conversations.unarchive.md
-fd75fab0cbbdbfd1e97b1366c24e8ac66fa93525a0eaba6f66255d4cc9f49664  ./reference/methods/developer.apps.owners.add.md
-1b5df0e04925e2f33575929188a13a4a7c85980ab51e0d1f08a847fb55f76cef  ./reference/methods/developer.apps.owners.list.md
-c543c6da82bd91b469bca50b4feb774a5fe15b574975d05c0be82e86caf47b57  ./reference/methods/developer.apps.owners.remove.md
 60b76ae217ce701f2a4ae6f289409a7340b11acdda3033b4f735cef6a2bcf8a9  ./reference/methods/dialog.open.md
 96b10176c06d821f4860f9d2de24cd11d63d09298e6a3c45f0a2b3c671d078f0  ./reference/methods/dnd.enddnd.md
 cda9f592bbb19f781a22fef4de3233ffe1e0b16170463f5f218bd3bca96b425d  ./reference/methods/dnd.endsnooze.md
@@ -797,7 +794,7 @@ b67348df6a92eea35c48ac0e6fc016387afa8763323945d97934a9f4107ceccf  ./reference/me
 912f2c9212e8223b2845a7c316eeab616c26f8e641962c59b55ae11b478b6a60  ./reference/methods/functions.distributions.permissions.set.md
 77c9834000eac95acd7b298286b52f4c03f2b910669c3fb32df0a95f259dfc2c  ./reference/methods/functions.workflows.steps.list.md
 41ac513547cd9d095979f084f6d3c2d39815cae084c481f4a7dd6584bfdb966b  ./reference/methods/functions.workflows.steps.responses.export.md
-4f584a87ecf8bdefbfd78b6ad63b34278bff1c7c699863ce4f87b98e211b9fcb  ./reference/methods/index.md
+48b256537a3feb2e4047747be270aeb6edaa926424b93e29743979cad3141b26  ./reference/methods/index.md
 04da272d6a971264e6b178d08ccb16d80d943d42b9bc2d509f4fafdf1c9683ea  ./reference/methods/migration.exchange.md
 ad4bb1be162318ddb82a1d7de845760f4dcbf59c5981f07451bede5ce2a633af  ./reference/methods/oauth.access.md
 8ac97770c147d59780886a3b34829050746e5e8483d65e0194ab27fea77b69b2  ./reference/methods/oauth.v2.access.md
