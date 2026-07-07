@@ -293,7 +293,7 @@ c6e5becb62f7f546699602f45f5c3169eaadf5a53ec257847ff72b550d0a84dd  ./community-co
 6d86f100434ce2daf235459b3ed87ca83a645273e3fd77121132b9b56266fee7  ./concepts/app-design.md
 644090026d91a19e51adff6e1e138b1b2c16ae10cb87dc12ffa10571f01a9322  ./concepts/choosing-the-right-surface.md
 210fd6d1a4e7fca2bcd5fb7a4f21c54d52b827e45097655fbd5de2ab5d996d90  ./concepts/designing-with-block-kit.md
-5e9e83a3775233e1d48d1eb2ebc45d4ab8f387e35098d23f34a7a91d9bf626c5  ./concepts/overview.md
+0aa490b8687e2fa864902e4eb01717ff49f0be463e0234125d38e80aa9da9334  ./concepts/overview.md
 5b4f2f542fe28207cb00cd92a8b79b5cf5082a8bc60885dd138c1d173d327d5a  ./concepts/security.md
 d050b0ec0f1b71336aaa22b864f3c0f07a429b91dc9092d14fd6ac5ee5df752c  ./developer-policy.md
 ebdba96e5d9b2834d33c66f0208d1cb7c3e4379b25518775bd6e9fce97d417ab  ./developer-support.md
@@ -1499,7 +1499,7 @@ e59adbcff3652ed87ca4c9eb7ee7d9553c6e764facb0310ab0f32e0716090ccb  ./tools/deno-s
 03faddd6855688ed30231afe380da23cf7e44e7881159137b35039b7691e69e6  ./tools/deno-slack-sdk/tutorials/workflow-builder-custom-step.md
 059946771adfe37fc68914d6d6db9627212b46562a27d39c77688a78d3739e1d  ./tools/deno-slack-sdk/tutorials/workflows-with-ai-integrations.md
 f2925b6cde185c59c85d831fb7346769f4f2ba473b268a0c526a0a2966bb0fd1  ./tools/developer-sandboxes.md
-c47a19045c7d04560414923bd777b3f987d546ebc8ee22b468a19bbd88425ac7  ./tools/index.md
+24ab7ad64e1f359ddc498c253203972010dd96eef3664f20a6c1b76a65dfa834  ./tools/index.md
 bd10c2fe68ebe6b44f27b9b2db2f948bbd01a3e608200b1c0cf951002043f0e4  ./tools/java-slack-sdk/guides/ai-apps.md
 b7ccf8af141d2af865452a0b9f91959f059dc6c87dd8f80cbec48abea0bfe537  ./tools/java-slack-sdk/guides/app-distribution.md
 b284ffacfd8077c354304f6e6d6c4a187f5727da5fa59cd9cab3f746814cf278  ./tools/java-slack-sdk/guides/app-home.md
@@ -1904,7 +1904,7 @@ a76789c5c7622b6f83d5463c50cd681d23fdb908d37aa9a61fbffddcd177d5ce  ./tools/node-s
 9b5ae7dcd237fe46a4afbccbcda733092b597b40e19b81c86fb82c2f0cae8d27  ./tools/node-slack-sdk/reference/web-api/enumerations/loglevel.md
 ad674eecefe8fe020b361017e977b847e7b3c18d3bb957f67122283f4ea5c8dc  ./tools/node-slack-sdk/reference/web-api/enumerations/webclientevent.md
 1f28de27f16d6f77077ce248c683802fcd1a24a0504d5dea4f1cb6f602859b44  ./tools/node-slack-sdk/reference/web-api/functions/addappmetadata.md
-aafe5d0074891d5d6e13b63f4388be2502e02c6b1d08d7548d8669dc30693057  ./tools/node-slack-sdk/reference/web-api/index.md
+6cb63c6008c73e6534d2d80aa6c11a4ffee41f46edcba8242ff217652da14f93  ./tools/node-slack-sdk/reference/web-api/index.md
 27d554e16b07754f6911ac7dc488953bc302648ea5e168a87c22ad9a5b9167e3  ./tools/node-slack-sdk/reference/web-api/interfaces/action.md
 f7b3a165ed27c992d2e94360c4b5df592c978d9473497a4f3b0d901058e0530d  ./tools/node-slack-sdk/reference/web-api/interfaces/actionable.md
 90f7a9a0a742d237f6f6b021be80bb997f33de05a05af61f654d073aef747190  ./tools/node-slack-sdk/reference/web-api/interfaces/actionsblock.md
