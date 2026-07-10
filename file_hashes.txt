@@ -293,7 +293,7 @@ d932c92f834e7cf1099cb3ee2cebe25e463e25a80b80746209832ad6dfce3139  ./changelog/20
 a17b85d41ac17076098850a1d1e6126dcdb4a309e73c468b926af3e07873356d  ./changelog/tags/slack-cli.md
 c6e5becb62f7f546699602f45f5c3169eaadf5a53ec257847ff72b550d0a84dd  ./community-code-of-conduct.md
 113e3b25ff3ec99ce70201161fae6ee19d82a99becffd831993c5d695e8c103d  ./concepts/agent-design.md
-6d86f100434ce2daf235459b3ed87ca83a645273e3fd77121132b9b56266fee7  ./concepts/app-design.md
+8988331cf92777f32835c050451a9b595530ddb5e021966161d57d03eecf3536  ./concepts/app-design.md
 644090026d91a19e51adff6e1e138b1b2c16ae10cb87dc12ffa10571f01a9322  ./concepts/choosing-the-right-surface.md
 210fd6d1a4e7fca2bcd5fb7a4f21c54d52b827e45097655fbd5de2ab5d996d90  ./concepts/designing-with-block-kit.md
 adbc08a85f71fadd939104f70e86b83c3299eb69c2a178e5b3aee60320ba2d3d  ./concepts/overview.md
