@@ -355,7 +355,7 @@ a0370f6d75872ce7642773e0b2c7a34a36e1591f0e34054ba77d0dc9f8543c67  ./messaging/mo
 ddebcd3eddae19d2260ae5adea6eb52ea7192d469aaab1a04ca0e6660933d3e8  ./messaging/sending-and-scheduling-messages.md
 e64626bb5c56735bd21457a3132b58c1707ac66b9fea151495ae9269375691bd  ./messaging/sending-messages-using-incoming-webhooks.md
 b4b3d0c1cdb7fcba4d4fa837dd3b2dd34a46b7e42026b9386b156eee8146a41d  ./messaging/unfurling-links-in-messages.md
-65350e7014ad6e42d5e82b573664765e6c7bc6e67631d366498a911333e782ea  ./messaging/work-objects-comments.md
+b47c378fce604e9a8b55410bff870114f7a25e4a14f8dc3a1dd0e269e520706c  ./messaging/work-objects-comments.md
 d203cec99e0fc168f1a27eb32eacb0e55a46b24a567057e02c3ae483efbe09e6  ./messaging/work-objects-implementation.md
 5cdd8ed34a4cbaaaaf0a3af9c62e29750b952d20dba227cc62a8d5f2b80cd51e  ./messaging/work-objects-overview.md
 59d880bd87fa39639adc8e1d3b54ec5b1f13665b24b624a0b1c72cb4668ccc3f  ./messaging/working-with-files.md
