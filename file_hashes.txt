@@ -280,7 +280,8 @@ d932c92f834e7cf1099cb3ee2cebe25e463e25a80b80746209832ad6dfce3139  ./changelog/20
 9121f1261d6a28920676671253b483680924351a086aeb2f2f60c17959c3f285  ./changelog/2026/07/13/notification-changes.md
 b9a50dccc7ff5fee7b1fd4d1d0903b1ddba97cf6f8235a7edace6cd0fc49f769  ./changelog/2026/07/14/node-slack-sdk-release.md
 1a19ca98a251c860921dcdf3d67679df6b4be24e0fd359a6177b35e01ca34d78  ./changelog/2026/07/15/bolt-js-release.md
-c3cb6f06a8a226515fec364800d487cc3de6b258f50b2876fd5bdb7982cebaff  ./changelog/index.md
+d20ded360df56f5fd386a9559fd01acd0756beae0aacf25cf491950e27005a68  ./changelog/2026/07/21/slack-cli.md
+272449eee5d4e2564371e67dd5f8fa0bb559cbb0e3463a482460d2656e988471  ./changelog/index.md
 fc0b811141b5efab334b5554f56d1bc8239594d57f40e1c449802a9559c4003c  ./changelog/tags/announcement.md
 78ef73b6fec03bea5cb7e03477270ec177e689284fef8f33fba64590456dd05f  ./changelog/tags/beta.md
 98ae96a94533ff1a6ba56c89c7a7fabe553691a49568e5727a1142fdf4e6eb3a  ./changelog/tags/block-kit.md
@@ -295,8 +296,8 @@ fd9422aa99bf33d5bbe6aabd2bed2902b4c0ce87c28338ce7da4ffbaf5fd6137  ./changelog/ta
 713e5635f055bafc4d3c3a019d01c85b33f0d1d5027d7ed288ff77ac7a220592  ./changelog/tags/new-feature.md
 2336e3853d372fbe91ad858ff82d79ad935af5e6966ec75fabbc8c70eb136548  ./changelog/tags/node-slack-sdk.md
 237013a11871385628ae9384699d3f99557c072e6753f8af34b9eeef05fe6d16  ./changelog/tags/python-slack-sdk.md
-e69688b3ef05b26cf9bf81d8a3bdf7d8531b575f7326058721044545a6685205  ./changelog/tags/release.md
-a17b85d41ac17076098850a1d1e6126dcdb4a309e73c468b926af3e07873356d  ./changelog/tags/slack-cli.md
+b42c8971c19dda6ee455f2d2c656ef7bc92ad2ff598e0784efd51dacd0f91ca1  ./changelog/tags/release.md
+7ae8c9bc92e3c0b844ac32aee86da0d0de2fbd2fc4af04d8c57146a5396e47cb  ./changelog/tags/slack-cli.md
 c6e5becb62f7f546699602f45f5c3169eaadf5a53ec257847ff72b550d0a84dd  ./community-code-of-conduct.md
 113e3b25ff3ec99ce70201161fae6ee19d82a99becffd831993c5d695e8c103d  ./concepts/agent-design.md
 8988331cf92777f32835c050451a9b595530ddb5e021966161d57d03eecf3536  ./concepts/app-design.md
