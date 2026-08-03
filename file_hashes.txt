@@ -26,8 +26,8 @@ dfde326cf87ae56c4be1ad9d21aba4672f69fdd1b4bc4ffdd51135a96015f279  ./ai/slack-mcp
 1df9c2ddf4a23eea56a16a593a0cc8359f3e660ce5462778794ca1eb8e63d508  ./ai/slack-skills-plugin.md
 6c058b5d74c1c5d974a3934b154640f013133505c1130db3f42665fdb5712536  ./ai/slackbot-mcp-client/admin-approval.md
 08ac1f50b243b3ba7171ffef61e3710761b8618da76517ae7f9991a7b8a90f59  ./ai/slackbot-mcp-client/distributing.md
-93dc7ab5a6ea85698e88173c9a15d8f59f3dbbda5e3b897268ffca13de3329b3  ./ai/slackbot-mcp-client/index.md
-040cce10869b8abce46f1ba1d3e02a235a893bbf8f9e20180473f6547e52cb5e  ./ai/slackbot-mcp-client/returning-rich-responses.md
+8acd1d991d92a4e761bc36031eca348e44ea604c67ef3d511a95097616065e5d  ./ai/slackbot-mcp-client/index.md
+ddb0527d65620d3463337f21fe08953220116497e4c08a223512d6f19c56b4fd  ./ai/slackbot-mcp-client/returning-rich-responses.md
 ca8b0ebfb3f6a327d7017cf826dad6b1a2223dac4aae23222c73fca22f84167a  ./ai/vercel-slack-agent-skill.md
 6d41711e95e7f20b59051e939c7fc914b41a3944ae72b8e467c93c76684bc502  ./ai/workflow-ai-integration.md
 7b4b20eddc82a0ff40fcc04913e7f297ee12b060f998499eb92a48430a8cb061  ./apis/events-api/comparing-http-socket-mode.md
