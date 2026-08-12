@@ -371,7 +371,7 @@ fc46b5ebe963c932257d9038f3cb173efe748e1e62d89b92420bc5ac2e31d2e5  ./messaging/wo
 7ff7c035f43f3b70a13898105b1e45bff68aad4da84292a675fb10f49f4bac00  ./messaging/work-objects-overview.md
 59d880bd87fa39639adc8e1d3b54ec5b1f13665b24b624a0b1c72cb4668ccc3f  ./messaging/working-with-files.md
 f55f255e62598c04ca8b2e1d3394bbc22c388386d528bd9ca8ed7d939ba6934e  ./other-ai-integrations.md
-d820bc865b10b2aa7d9e749597fc0c7352ba41dc7709c4123bd257159d76b9af  ./quickstart.md
+83c377adc15c5cb012640064e4a45a042c20a15e15e7a34f364e5b20de76bcb9  ./quickstart.md
 af29ee3d2674ac44bda49af89b5f6f4adeb8f456d9adde980c6560a9578f435c  ./reference/app-manifest.md
 16179c8a96c719d90beffc73bb6c6cbce63d4d234cc3be28627433b4828a6ee2  ./reference/audit-logs-api/anomalous-events-reference.md
 a9dd0843c7a1c89fb15bf444e5755e4eebc2282359643b4f89047e32d3ea8dad  ./reference/audit-logs-api/index.md
@@ -3059,7 +3059,7 @@ dd8b912fd7b01126380fb98b18393ba8ce4019b9f485f9ccc1536a6bd1887844  ./tools/slack-
 89e4ce6feecb036c48d57daecd6478125f1a35b6da31193c3efc553485338a44  ./tools/slack-cli/reference/errors.md
 62d936bf17c1e90b1dd6204848018a6d8451b20ebea640caab92c5388d039d5e  ./tools/slack-cli/reference/experiments.md
 f6aedb0b1ff769d16bb22a1f13706eb008320ae3b95ff90b1ec5dca391a34990  ./tools/slack-cli/reference/hooks.md
-4c16214ebaca31a5e3355f33f18b9f7ae6c112333d69716f51cb3c7d8fb127a2  ./tools/slack-github-action/additional-configurations.md
+6cb2bd7cadaf7e7b8fd4554dd581553bf96d57a7b2677a8a00fe3cccdd3a96f9  ./tools/slack-github-action/additional-configurations.md
 cf518f4549945591f9877aebce22aa9a8052b6ac8ed2880fe194051cecac70bf  ./tools/slack-github-action/gathering-variables.md
 219532773804238e8b992a3339646f5a68a82302b82e79530174d5c6501dd882  ./tools/slack-github-action/index.md
 52383acd439e30050964bea8161ecff52b315f80327412e88b83eedff4c0205e  ./tools/slack-github-action/running-slack-cli-commands.md
