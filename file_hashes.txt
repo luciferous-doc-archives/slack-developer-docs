@@ -55,8 +55,9 @@ ef3db2c90fa586df604529f97bfa92095b6ee58b38d766a0d23a06332c0fafbb  ./app-manageme
 c06e067983d47c9318783a6b80bef45747cec911e05980dd6c932fc806493fc9  ./app-manifests/index.md
 ee2f8788cca07126bd7a440f5b985fb3e54748c85912564d90a9f8bf33558572  ./authentication/authorizing-with-postman.md
 0090c11cdafa424376e59087a6a7198282828035878c180a6a048733839f092f  ./authentication/binding-accounts-across-services.md
+f2c0dd8334f6f5e6b6f60f7ad1617c6c502b811bd101e86cc67ad50580773d3b  ./authentication/enterprise-managed-authorization.md
 d3ddde541753e07a32f81da423eda893937647b6a9b42859ace414ee0281a21d  ./authentication/index.md
-cf419cf318e739c91d007dbce3f55ad5a7986d5532522b169d59714af5f2ac61  ./authentication/installing-with-oauth.md
+65dd7eeede1548000bb2b8ae869bd45726d8f432f39de9ceac3bb585252482cc  ./authentication/installing-with-oauth.md
 83b12fdcc0b8190dc7b25d5de51915959075853bb11c55e5ec32c3f3d7b57c61  ./authentication/sign-in-with-slack/index.md
 806d3dfd4e8d5bfc13310f5f3830ba6ba7353ee8d8a5f28ef3cc565601336d06  ./authentication/sign-in-with-slack/setting-up-sign-in-with-slack-links.md
 3e2d1db4c0395c3ddbde58a886de281f51dafda5a10fc9cdb214206a89fbbef8  ./authentication/sign-in-with-slack/using-auth0-for-sign-in-with-slack-links.md
@@ -2983,7 +2984,7 @@ d96cd1a7f2d508afe43a5cf06c745bf30fc07b435c2c6e9c8389962abbc4136b  ./tools/slack-
 422bf56a48794b8a881b17f6622a4142054391b50291c670e4f8e2bc45737348  ./tools/slack-cli/guides/using-environment-variables-with-the-slack-cli.md
 ebd5a5e7af3044a2ec0b067d0634f8da5a6b0f1dc6463f6d31c55ef2437f92f5  ./tools/slack-cli/guides/using-slack-cli-on-an-enterprise-grid-organization.md
 95dcd84594f34bb2fa14ed1a5ac0f4925f23e8ca75da6cf7eddf78a2d3d27658  ./tools/slack-cli/index.md
-e1dccded2640043e605493cc86800e3507a264585e278f1dc2bc401bb1ad6d9b  ./tools/slack-cli/reference/commands/slack.md
+b9791326bb6659fe52bfac7e973ac72f502a6c13ad53f8df7fd781c4d7ba96d5  ./tools/slack-cli/reference/commands/slack.md
 33b1da277aebe769c450497435ea3997b6e018796855099c1f60269636c9d7a5  ./tools/slack-cli/reference/commands/slack_activity.md
 afa977c14084817fd79b0cfae4e0c9e942fe6559f851c6b570ba3189539065e0  ./tools/slack-cli/reference/commands/slack_api.md
 60de0afcf8e2e080a7c59e6eb2ed467bedf75029a0a2f3d9de2aea933582ea32  ./tools/slack-cli/reference/commands/slack_app.md
@@ -3000,6 +3001,8 @@ b23e5af801bb32e45b1c4ef19dc5323aa8992f486f86dc027f209c0debe50fac  ./tools/slack-
 0602e99ed94cb7f5371b5944a64e3a14874fde1c21b51dd5e7ef8de82a0b5b68  ./tools/slack-cli/reference/commands/slack_auth_logout.md
 3f97a1aed756f00037dffc91cdb384a62c98b4f1610f2698cc6fdf4eff272b33  ./tools/slack-cli/reference/commands/slack_auth_revoke.md
 fc6453d1f8c96168f54af9a50ccbd9b5a1c17076c8f21377054a63ca832fd9ef  ./tools/slack-cli/reference/commands/slack_auth_token.md
+945f0ad1f3e5ec50471d8bd37c5574923535f603986eb519cd58d9270aa07f81  ./tools/slack-cli/reference/commands/slack_blocks.md
+19f4701aa9b8215250fb387f6141788cc6a76c142e424a5e2f7aa8aff2e55393  ./tools/slack-cli/reference/commands/slack_blocks_preview.md
 385a99f7834540881ab82c15eebd3cd1a4d7561ce43705539e522c995306fc84  ./tools/slack-cli/reference/commands/slack_collaborator.md
 5288b549929e416e75b5ac8c66e6d045558c6014d7b8e5812f10b2fc4ac08805  ./tools/slack-cli/reference/commands/slack_collaborator_add.md
 b2bc7973947e34e7f3dd671c66ad9a732dd3a8ea39c855cbc6f3ab4556d2dff0  ./tools/slack-cli/reference/commands/slack_collaborator_list.md
