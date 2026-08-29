@@ -365,7 +365,7 @@ b6713d7fa18b603af7852dabd8ac3d9bb58b2e40d10957e62e5302838753814e  ./legacy/legac
 cb001a55217d2eaeb697b266db99068edde3ce17b708ad37ce19bfc2d88cf98b  ./messaging/message-metadata/designing-metadata-event-schema.md
 7f794d07e0b2e9f52988c4b18a3b261571da5f6ab799fbd3f0f99a090fa315ed  ./messaging/message-metadata/index.md
 c37442a3cc8d29524bc6db84e43294428a9c9ed45cef64f1c157a056d663b76c  ./messaging/migrating-outmoded-message-compositions-to-blocks.md
-6a36e35d74855c77999c25406c8e54e332a9180ae088fca7d9bf589388c9b1ef  ./messaging/modifying-messages.md
+9ba43eee06fc86d5cce4dac690fa4154294080ae69f936fa3e417eae7b6cc6f9  ./messaging/modifying-messages.md
 56e6ee0183ee507a78a0498d3474dfee089350153dc6cff702baf69523699994  ./messaging/retrieving-messages.md
 0de6a006c6ca0280e4f04bd02510ad038608f385a1e742e2e0adfe23538b16e2  ./messaging/sending-and-scheduling-messages.md
 9e53c671f3ab2bfd93324ac35090b5f495cfc9268de084c93db96f3fb7d349cf  ./messaging/sending-messages-using-incoming-webhooks.md
@@ -800,7 +800,7 @@ a2da51051f68f106cb18be47b667400d7b519bd8a7fb34fa71320ca99ce2a9ad  ./reference/me
 6808348eafa7e152090d03be92ecfc58e408c25c01237177a29b9a07a1f3f306  ./reference/methods/chat.startstream.md
 de81aeab39296b34b5e280d034592e90a435a05d7289a94f1feb204477016aa4  ./reference/methods/chat.stopstream.md
 2c5ba92a446cd026f66205cca38f587100563e76a04e5423f0878bde3f4db13b  ./reference/methods/chat.unfurl.md
-17b5e8708e33a76c2be6423674c0241b203ef6c3203415088c1b9d62958f0111  ./reference/methods/chat.update.md
+dec67d2c928db0961468c24ee3fbb590e1975049debd32ac80f832c7e169f2ad  ./reference/methods/chat.update.md
 6bef17d96578cad8153060e8d12ef3194eda6cc79eda2b2c419f87fa67a272ac  ./reference/methods/conversations.acceptsharedinvite.md
 d11d29ee7eea60d36367de0f2332405d1b06646286588708b0f79b765bab05e7  ./reference/methods/conversations.approvesharedinvite.md
 9b75a5b709af91a1bf8cecc886a228f73573806593373494ab5e7e1005b48979  ./reference/methods/conversations.archive.md
@@ -2922,7 +2922,7 @@ ae02c489a5c4bfdccfa5e74005eae28a68850b567cdeee6d7869317f8801a965  ./tools/node-s
 d8a556dfdb9c9fe258e0afab24e796427db394d17e8ee16bed809f299c1d043d  ./tools/node-slack-sdk/typescript.md
 35c6b33b93ba37ad2352d117babaa89b2089983c388d76e0fac195b916758f62  ./tools/node-slack-sdk/web-api.md
 f569b5376ec66b64a278b88add99b6ec549819f99ba8456df9ae59b26781d2d6  ./tools/node-slack-sdk/webhook.md
-ca95631c961fbf12a2d34c8bea2a07d39416716a4e63ee893c794bd33a1ee118  ./tools/partner-sandboxes.md
+2a3dc8e88e9d51629c03de45d9a1a31494ce6a138d10b057dd0b2addb1e50f93  ./tools/partner-sandboxes.md
 98bf8fb1132173b42d3a83b11ee6ac6bfce8a95da6397bb8831a7a885c0ca707  ./tools/python-slack-sdk/audit-logs.md
 d678fbcc2879d8351108d4a566f6cbbe7cd6f0e26018153731c417450e510374  ./tools/python-slack-sdk/index.md
 3b447127772a7038673be04c30f41ccb96e4e12cdf5c465e95341d15e2368a8d  ./tools/python-slack-sdk/installation.md
@@ -2990,8 +2990,8 @@ a9662f59f2b4a3426a6044c864d9e8b5b6acbaebeb1a144637dda0d066f8e822  ./tools/python
 db0156a9c294c35118eff75c9cf3ce4434381e42148f08ac40eee3e21a500d6e  ./tools/slack-cli/guides/authorizing-the-slack-cli.md
 a35956e30da0c36b93d0d1df2a94cc477dd5e5f307b561afc72dde837b20d391  ./tools/slack-cli/guides/deploying-the-slack-cli-with-github-actions.md
 19bd5f59cf72026fef799788a42d986ffd10a368851001e0d973cdb7f787602a  ./tools/slack-cli/guides/developing-locally.md
-a3450bc20a23c2f421b9acb11d7239b1f35a40b064f0052c37ea877ec29720b8  ./tools/slack-cli/guides/installing-the-slack-cli-for-mac-and-linux.md
-e3ea10b92cf8f383d0a1d11f71878c8451c5ea955bb8d737ec170d8518b6fe0b  ./tools/slack-cli/guides/installing-the-slack-cli-for-windows.md
+7c50065e66df76523ff6f9f0af52720a2017fafd4a0eec60f0e7bb4f8b835e7b  ./tools/slack-cli/guides/installing-the-slack-cli-for-mac-and-linux.md
+49ac4bab06ab7e559616676d1ee2028709077ebdaf6eb77bcde01ebcb5ee1c99  ./tools/slack-cli/guides/installing-the-slack-cli-for-windows.md
 9538c378607d9c37b6f27ca63e5536eec2294a848eb726beaf82d3910c7ab941  ./tools/slack-cli/guides/removing-an-app.md
 e74145a388f4653fd9cb2ad924b3bde1ae934cb0bf6fc70d0a3563df7fc39cba  ./tools/slack-cli/guides/running-slack-cli-commands.md
 e18e7659cba7863168cdc28f37ac14f4aeea2113d93bb223c7cc288538acdd23  ./tools/slack-cli/guides/setting-up-ci-cd-with-the-slack-cli.md
@@ -3002,11 +3002,12 @@ ebd5a5e7af3044a2ec0b067d0634f8da5a6b0f1dc6463f6d31c55ef2437f92f5  ./tools/slack-
 b9791326bb6659fe52bfac7e973ac72f502a6c13ad53f8df7fd781c4d7ba96d5  ./tools/slack-cli/reference/commands/slack.md
 33b1da277aebe769c450497435ea3997b6e018796855099c1f60269636c9d7a5  ./tools/slack-cli/reference/commands/slack_activity.md
 afa977c14084817fd79b0cfae4e0c9e942fe6559f851c6b570ba3189539065e0  ./tools/slack-cli/reference/commands/slack_api.md
-60de0afcf8e2e080a7c59e6eb2ed467bedf75029a0a2f3d9de2aea933582ea32  ./tools/slack-cli/reference/commands/slack_app.md
+976d6cdf236b77fa9aedf334b4b8a5428f27de167db0a8e2317ed294d23a1eba  ./tools/slack-cli/reference/commands/slack_app.md
 6903ad4afa996f7f112ab9c9f26e8aae7f3bdf583d5efcf2d7d9581c0dfea100  ./tools/slack-cli/reference/commands/slack_app_delete.md
 85c1ddc8bc3469c524aa78875df3a313ebf9e4c3937babed3ea4d7f8d4043e6c  ./tools/slack-cli/reference/commands/slack_app_install.md
 cf1d9353f1908764a9679f447ca8e494393208fa769c099908cf935659d8c3d0  ./tools/slack-cli/reference/commands/slack_app_link.md
 21de64b4a195110ae414e0cde37d4bc106246b54c7d4f77b4a71fd0b35ce6334  ./tools/slack-cli/reference/commands/slack_app_list.md
+3cad1e291928a9fdc50575097ff305147414833c83441188d8c59e64279e1bb2  ./tools/slack-cli/reference/commands/slack_app_request.md
 d6565d3b0b12a5866b50b0eb545763ca3ddd9af3e4fc693fdab23dba0420165b  ./tools/slack-cli/reference/commands/slack_app_settings.md
 b4a2cd652e931d398f60acb81b65601a9b78ef3927b13807bce5796aa4c657fe  ./tools/slack-cli/reference/commands/slack_app_uninstall.md
 48a6b76b115654d5ff427e704beb34d6ec60910f9657ddabe43d0fa2c5c91eda  ./tools/slack-cli/reference/commands/slack_app_unlink.md
@@ -3084,7 +3085,7 @@ eb5d3f519ae229310350546555e3685dd1b6e668fc35f8ad6af9dafc76c4265c  ./tools/slack-
 fa244cb6af44893f104b0d3848950af7e174f6968691b30a6abbe912132d8dab  ./tools/slack-cli/reference/commands/slack_uninstall.md
 d6e84c7fbe757342b6a856f8ae0a2e9476c1d36c7151983a221b231441c11306  ./tools/slack-cli/reference/commands/slack_upgrade.md
 babbc0ca45164b769b78d4de86b07997e8fd5516ec677ddeb9fb0cf09ab557be  ./tools/slack-cli/reference/commands/slack_version.md
-7a810d8fb94faacecbd324d03ba3d4290c68e1f426b61394f86476f103444870  ./tools/slack-cli/reference/errors.md
+525eeef904db316a626c574a3bbebc523369d7c9fa7fabdba1221bff00cea5e3  ./tools/slack-cli/reference/errors.md
 b3351f6c158ff345db1811fd122558705b8737011ea12e353aaf62be369e2f75  ./tools/slack-cli/reference/experiments.md
 442e72dcd1cd281413dd61690409a858cfcbe91659170a6b643e6a3337f3581b  ./tools/slack-cli/reference/hooks.md
 44abc5c14c32a04bedc8ba94f23df141c0a56fbcf456aef2ed67cd6b35f89bbc  ./tools/slack-github-action/additional-configurations.md
