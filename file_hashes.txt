@@ -290,8 +290,9 @@ ff8e71d7906ae40b17236d5bdb283145a8a0bf25fb4fdb946ee83f7cc660714f  ./changelog/20
 00f3b4a4143da07789bdd3f28880260499cd938ae4136f70cf1869f06d724452  ./changelog/2026/08/20/agent-updates.md
 13d27665f3ac7fdaca97b3575c217743e92bfb05db364c014429dfe4962e80c3  ./changelog/2026/08/20/slack-code.md
 8c6d8616f96f25e8d61892eccbcdbf3e82c8edb35df6c70b32f4ff9182f5d11f  ./changelog/2026/08/28/slack-cli.md
-33f05885b4c6263089a4c0648d426f2aa4c62882086652aa0c930f8fab746d77  ./changelog/index.md
-231ba93552b04a2942a5db929e46b22658b2041aa261ef35568a0e7ad64b60a7  ./changelog/tags/announcement.md
+f9041db558212b62112146e46b85c066b6f4f3de16f9ad042581e703b4a9f789  ./changelog/2026/09/01/slack-marketplace-install-requirement.md
+ab40de59c739c2c10c4d2a7eea712afc52d2bfb805b2543d0e8d2a018ae06a55  ./changelog/index.md
+e9aeac0146efd65b333cc413d144a80f33eaacbe84b3e8a15646d89699925524  ./changelog/tags/announcement.md
 bf824e9aa531596d963fc696e244f8b0f3ebe16b62098c4101c8bac95b45163c  ./changelog/tags/beta.md
 4d734a0deb069ea88b2ab38074771ec793f7e604650492b14ce8cc59cb7a30ad  ./changelog/tags/block-kit.md
 2df18d42041bd0d3b3b41c906ffeac2b38ceef8222e0dffeccdfe77d9465baa7  ./changelog/tags/bolt-js.md
@@ -300,7 +301,7 @@ c18d6d405e7b98fd5168c660a9feee7b6c0b12b229d3dcba99f8fd7ad616f91a  ./changelog/ta
 dbdc5ca6d1d857cdda00b2da51f18c9e6000685f64fe6c3f6b61b98967a96649  ./changelog/tags/deno-slack-api.md
 28effde5b9aed68184a31ce5dfbe7215bd19b5b3a60f2cca2331347324538622  ./changelog/tags/deno-slack-sdk.md
 2043051c680dd7a4bf089edf23a761778817356a33d0f5c218465e87197ebdc9  ./changelog/tags/deprecation.md
-8431a1964290e28f689e92db7aeee55dff88e64b7102337de9667c451a316e07  ./changelog/tags/index.md
+4a466d302966144f7ef8fac2c4899c164bcdff6ecb1991cf08a8e29aff1e98c4  ./changelog/tags/index.md
 32ac2d2ef75bfea1eb09e42d27912f4d9530459dbdff3137e644591cdfadf35a  ./changelog/tags/java-slack-sdk.md
 e15a57167e89c8952a37feca5f6a934215412bb77321928ac8e9761edcd5d59e  ./changelog/tags/new-feature.md
 4b8e2d1aa0e2bb0ee5da16ec6761b47503a1c2847ecaac62aa187cd7ee9805ce  ./changelog/tags/node-slack-sdk.md
@@ -372,7 +373,7 @@ c37442a3cc8d29524bc6db84e43294428a9c9ed45cef64f1c157a056d663b76c  ./messaging/mi
 9e53c671f3ab2bfd93324ac35090b5f495cfc9268de084c93db96f3fb7d349cf  ./messaging/sending-messages-using-incoming-webhooks.md
 fdcd149fb3b8368b43b2079805b8d6daf0e7506f8e1618e4c6905b36bfcbf187  ./messaging/unfurling-links-in-messages.md
 67b78fdf76cec6cd39bc2faa2393efeea35eea655a38f3f939a539b3e1084d5a  ./messaging/work-objects-comments.md
-a24eb58b3401f5a77cc77d51f90019bb1dfe1f394578c94d67c377ef083f901a  ./messaging/work-objects-implementation.md
+6f14f390bdfe07a71d14d0ec42d0f8c5f7e1692114ed3089b9cc609951cca682  ./messaging/work-objects-implementation.md
 4495159b637fc9b46f1910389dd6c6587e7093532f7c9139143b120d3342a9be  ./messaging/work-objects-overview.md
 580a09ce5c0c6393e1d8aa804d99b6a2a9c2af7a1ae5a9ce5a77a6a5fa18d3be  ./messaging/working-with-files.md
 cb5ee4725e31dcef34d32c45b58ee6a34441c31eded333c89b67fd5f1b64bbea  ./other-ai-integrations.md
@@ -380,7 +381,7 @@ cb5ee4725e31dcef34d32c45b58ee6a34441c31eded333c89b67fd5f1b64bbea  ./other-ai-int
 a4e823136b10a4823f51cdfbef7e8bc357db47eeb1bab6f6a2f0ba59c996df07  ./reference/app-manifest.md
 b5d91ffc42e21bbf169abcc745ba0b87d91bb5d4c7c92e3d7ebdc70efe20fe4b  ./reference/audit-logs-api/anomalous-events-reference.md
 33b26e85bfd0418693b08fbd0ff4cdfab37e5c1a6fd67fdb9b5abae8369f9a07  ./reference/audit-logs-api/index.md
-caa4d0d81f3472bad25f387ce908e260f8ec5838837302cf77b2702933adfc07  ./reference/audit-logs-api/methods-actions-reference.md
+ed465daac42b334f27a47ef8dcb872b10cd961046eb94062ebc2bed30106cd71  ./reference/audit-logs-api/methods-actions-reference.md
 75b10ebeb9a77f60646cdcbeeabb4ec086515e75536714a9de0f9d82cf2e54c5  ./reference/block-kit/block-elements/attachment-mention-element.md
 6a2213bacb03ca2e721204d536f7a52c2c5c75de5e2a70196f0b270ad7d4334a  ./reference/block-kit/block-elements/broadcast-element.md
 665ca5d0282e9678f77c66f29a76d86a606ae9b899b6581c5847fbb694b1e06a  ./reference/block-kit/block-elements/button-element.md
