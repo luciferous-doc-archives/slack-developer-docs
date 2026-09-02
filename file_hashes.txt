@@ -22,6 +22,7 @@ d85a7bb75cb69a01cfe4e071305e67c9f60157f0d8fa4d5c86edeaa91387dd5b  ./ai/index.md
 15772e0acfbd5297049e64cd7989a7ef541014fb5cb24578a0c3bc03b967d4be  ./ai/openclaw-slack-plugin.md
 7c32c52dffaa9eb71d235cb0e47cbc733e443fe0717ece12887abd13c9b790a7  ./ai/slack-mcp-server/connect-to-claude.md
 07cd0bed14fd287cb4e82d2c221aef86a03797f13e76603381fdaf10aec48adc  ./ai/slack-mcp-server/connect-to-cursor.md
+694930ec1fd93ebd48e0dbefc77adff64ae5bb990bee0bf2646b671fd8dd31b9  ./ai/slack-mcp-server/connect-to-harnesses.md
 2683f370b6288c7667585ec3ac5e71fc411aadbe001bed4d4322081949ccac3c  ./ai/slack-mcp-server/developing.md
 cc64967155133bb2afed3777e97a7c4aba0a4b4b40b291cc09319ab38b889d8d  ./ai/slack-mcp-server/index.md
 4329add738d418f912f048b9dc196810037f5983628f5e972473e1aa0d81733a  ./ai/slack-skills-plugin.md
@@ -1122,7 +1123,7 @@ dfbafd2dddbd1cc8706773f718d07ae13dd0f0fc2793d1b0b66d2fd1a3b87fd4  ./reference/vi
 c54bead1801254364925f424f32a5815a61b1645355a579a351f1497bf119265  ./slack-marketplace/marketplace-terms-conditions/index.md
 e04ad37202e6a8b28a55bd40df99f9082e3a32dca425ff45b1152795b40b8e15  ./slack-marketplace/marketplace-terms-conditions/slack-marketplace-agreement.md
 8c502d28d5eb711e8109a5abded93dc1ac220b0073701d61e9d3db094284e92a  ./slack-marketplace/marketplace-terms-conditions/slack-security-review.md
-bb674ee5290f53e1d6a0923a5b23056b27d6318d1ebfde8afd2b0ca181775ffe  ./slack-marketplace/slack-marketplace-app-guidelines-and-requirements.md
+dad093619b6e4b98b2930c80f6b851429d3a34af45aa4195fd8aaa9de09fd24e  ./slack-marketplace/slack-marketplace-app-guidelines-and-requirements.md
 d0306e999d2266099769dd93c858986c6555ff91c97414163a000bee42256ac7  ./slack-marketplace/slack-marketplace-review-guide.md
 01b4ba916d06e296b4082a20d75fd459e86e883ad7c3482b00371ffc5da494ed  ./surfaces/app-home.md
 97443b99364e76a699eec9142d4e86b8bb980670961539634278af2949beb30b  ./surfaces/canvases.md
@@ -1206,7 +1207,7 @@ af2fffbf66a31b62d0e1c227c1074bc2d92e9574417bceca3c1fd66c02e1c7d2  ./tools/bolt-j
 beebc1729c777b3d63dac28b4e750d777188acee5485a35cd63af34a981ffc67  ./tools/bolt-js/migration/migration-v3.md
 00995bb128f6bc1cb4dc7851e5af60b8c6442a0c8b1f1baa2090b3b39ac251a8  ./tools/bolt-js/migration/migration-v4.md
 1ab32dc0efa7457065857c2a826883458a00e4da3f506919f0a0effdcc624d54  ./tools/bolt-js/migration/migration-v5.md
-3a32a496b98f67c1f490e60418d0736495fdfc42b052bec987d8503ecb399aa4  ./tools/bolt-js/reference.md
+39fa84f7d0792cc1e3d0f884a78d066593bb1b436a19543411b6dafaf53c435d  ./tools/bolt-js/reference.md
 667fe2a44effa0c155c954c4c40ff1998a732d91cc0c3ffef821f15a8c681e35  ./tools/bolt-js/tutorials/ai-assistant.md
 a7202a503bd5b4eb9df4b521fb04176799971845bc622a6012a8578a4b0e81e8  ./tools/bolt-js/tutorials/code-assistant.md
 5efb96f0f5ac03ff139af4cd97c6eac1daecea4814cca0e40b167d990cfdddfb  ./tools/bolt-js/tutorials/custom-steps-workflow-builder-existing.md
