@@ -25,7 +25,7 @@ d85a7bb75cb69a01cfe4e071305e67c9f60157f0d8fa4d5c86edeaa91387dd5b  ./ai/index.md
 694930ec1fd93ebd48e0dbefc77adff64ae5bb990bee0bf2646b671fd8dd31b9  ./ai/slack-mcp-server/connect-to-harnesses.md
 2683f370b6288c7667585ec3ac5e71fc411aadbe001bed4d4322081949ccac3c  ./ai/slack-mcp-server/developing.md
 cc64967155133bb2afed3777e97a7c4aba0a4b4b40b291cc09319ab38b889d8d  ./ai/slack-mcp-server/index.md
-78e870a497e38c3eab7080cae2ef43e88a8f6be8d6755b81a415716e93a6d244  ./ai/slack-skills-plugin.md
+c41aaa95336ce2afedfe381343b8d9f18e659e37838954dc7615cefce36690ab  ./ai/slack-skills-plugin.md
 f1d2783e71e53e56f48955eca7238cb7f586a5f5532da69e1272f197e817fe41  ./ai/slackbot-mcp-client/admin-approval.md
 e0779566274c63891bd80a81cb17fde900eb14f86e82e1bec124f9ede7650305  ./ai/slackbot-mcp-client/distributing.md
 46c24f649903fd7b00bc81cd13b829147517e348d1d50b6060b1f50e80d59e32  ./ai/slackbot-mcp-client/index.md
