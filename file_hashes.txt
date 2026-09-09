@@ -421,8 +421,8 @@ d9e756ef5a4fc6c24540d654b7aee5c0226d085f23f38f51c111220d13b39131  ./reference/bl
 aadca064aa442138049f123688a5a08e7cd696e126fc28f8f7d062f5e7a6924f  ./reference/block-kit/block-elements/salesforce-data-field-element.md
 a1598ae579d6f6e87c85fab5021d5744f0d51b8aef0167aafd18428623be7443  ./reference/block-kit/block-elements/select-menu-element.md
 b3f17dfc6077c3b2281fdb994bbb36f4ee7f4fbd20f4bce4b986696f89e12b2e  ./reference/block-kit/block-elements/tag-element.md
-79093c03de6a4451c612e46a962a3f566a09dfdd709bcf34f56afa77058882fc  ./reference/block-kit/block-elements/team-element.md
-28b0fef9690be341efe02d6b2c1e1056f44073ffb787fb923d04b5c10034fa9b  ./reference/block-kit/block-elements/text-element.md
+c533a11ea7767ddf9eb036f25e2fd05bd0c2edfcd4bb8e0be82529051196bd0c  ./reference/block-kit/block-elements/team-element.md
+57e7e39a1a157b628eb789e47d57857ae84fac6c555981712dc6682cf0916d7c  ./reference/block-kit/block-elements/text-element.md
 80ec93180e0f4dcfeb9d1dc6c246969c0db277ce2bb239e817edd3a1ce6c6738  ./reference/block-kit/block-elements/time-picker-element.md
 da8246dccb5ef0c086e215c5e7f427a1b6a649a574d15a65586efe006c63b912  ./reference/block-kit/block-elements/url-input-element.md
 e224961de7d10ce3b9e6d4d87fc63477de042cba28bee24eb791d3391cae7379  ./reference/block-kit/block-elements/url-source-element.md
@@ -434,7 +434,7 @@ a1411a39eaf6fd1205f3f015417e3b3e4bab9867c4f78117dc518a04f3c7cfc7  ./reference/bl
 9f1a28660580a3977fb0f1c4d0c03863a12baeaaae62543f2c52af7e78aeb108  ./reference/block-kit/blocks/actions-block.md
 220e9ecbd2a3b7838144343b432855a28980722b3dd5310e5448cb711af7d71b  ./reference/block-kit/blocks/alert-block.md
 e02709f8ae07cc0d0a76d61675dfc46b81f9880c844babf23a9e9dd40b2d9dff  ./reference/block-kit/blocks/card-block.md
-1171d967d604e25c9ddecda895b3f71e61efefc294943e64809540c9775da808  ./reference/block-kit/blocks/carousel-block.md
+55f773380dcde99eeff9a8aa1ea4db99daaa5bb158102e74dce1f58f2b62c943  ./reference/block-kit/blocks/carousel-block.md
 be028f881bf71f23face218ca0475ee9462bc8b8ac10f98d6637f15afc6f3629  ./reference/block-kit/blocks/container-block.md
 41af1bd2ed464198ab8e17c0b511c035935592402d8afd52ec03e5186c234e3d  ./reference/block-kit/blocks/context-actions-block.md
 a43a832251fce42a730f81e4cd657c8dabf41cb11053f0848d8ab026a3f4ee15  ./reference/block-kit/blocks/context-block.md
@@ -1124,7 +1124,7 @@ dfbafd2dddbd1cc8706773f718d07ae13dd0f0fc2793d1b0b66d2fd1a3b87fd4  ./reference/vi
 c54bead1801254364925f424f32a5815a61b1645355a579a351f1497bf119265  ./slack-marketplace/marketplace-terms-conditions/index.md
 e04ad37202e6a8b28a55bd40df99f9082e3a32dca425ff45b1152795b40b8e15  ./slack-marketplace/marketplace-terms-conditions/slack-marketplace-agreement.md
 8c502d28d5eb711e8109a5abded93dc1ac220b0073701d61e9d3db094284e92a  ./slack-marketplace/marketplace-terms-conditions/slack-security-review.md
-dad093619b6e4b98b2930c80f6b851429d3a34af45aa4195fd8aaa9de09fd24e  ./slack-marketplace/slack-marketplace-app-guidelines-and-requirements.md
+745c1620dcb2b0939b2d39339cf5ebf26e77dba531bd9c847e6dbeb2e877618d  ./slack-marketplace/slack-marketplace-app-guidelines-and-requirements.md
 d0306e999d2266099769dd93c858986c6555ff91c97414163a000bee42256ac7  ./slack-marketplace/slack-marketplace-review-guide.md
 01b4ba916d06e296b4082a20d75fd459e86e883ad7c3482b00371ffc5da494ed  ./surfaces/app-home.md
 97443b99364e76a699eec9142d4e86b8bb980670961539634278af2949beb30b  ./surfaces/canvases.md
