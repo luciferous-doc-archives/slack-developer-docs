@@ -223,7 +223,7 @@ a0e1e5ec56f1cf8751efc3ffc47e62332f9aeabd3fe899e1776e1d9b59aafa0a  ./changelog/20
 90768ef30488cc4bb0286a06d99ee46852805d7ffeab36b751ba674228742786  ./changelog/2025/04/24/slack-cli.md
 482e2e83a9f78ee122d732197f13f47ac9f824e5ea850de6c9efd4f0f220d233  ./changelog/2025/05/08/slack-cli.md
 e60948c12cc83c701565134a264aefe088eb5ecd7e7aa4a4e62ea251e0780ebd  ./changelog/2025/05/22/slack-cli.md
-97213de9f4cbfc413e30d4bc18440fa074a6f3464ebf37246b642620cf03f2e4  ./changelog/2025/05/29/rate-limit-changes-for-non-marketplace-apps.md
+648fca5745bcd449444f4380bde5cce8642b55898571fa6e21a609d7afc5ab08  ./changelog/2025/05/29/rate-limit-changes-for-non-marketplace-apps.md
 dfa63ef908d3c4a7e2be22cd833f607ae1474e7c77df9a16abe0b9b460546047  ./changelog/2025/05/29/tos-updates.md
 3a9e638826a1d5640ee7d6204c5589dc79cd4de973dd89c54a264c7d9cd74128  ./changelog/2025/06/03/rate-limits-clarity.md
 a077f9d3298c702405dfc98fef9a01e0c61fe4a1fa2406588dff056417f0f2c0  ./changelog/2025/06/05/api-site-sunsetting-update.md
@@ -338,7 +338,7 @@ daf0f192f42e025cefcecb1b0aee6e56e188ba7cf3fb5d54a7de09ae8dd2c051  ./interactivit
 5b62f0aba7f56f0116eee85615c5ff97c16df3f6bee1e9cc0a17647d9d854272  ./interactivity/implementing-slash-commands.md
 a0323be8e897325b1f83c1ae9c1324f0b9e59e2e687af75a3047f18e1da26a29  ./interactivity/index.md
 704c849d5a525533efc49b1939b2ecb490a539f7d2501f05a77201b14c3ae9b2  ./ja-jp/2025-05-terms-rate-limit-update-and-faq.md
-2cb932c03e6141811c49272005becd698453b89568dea20db6c0fc812d23413e  ./ja-jp/index.md
+419e5252891ca628d2062c6eb59a914143c7336b1d0bae6887b64f00486648b1  ./ja-jp/index.md
 a4a314aac4273943ee64094e65122cbeadf78c09ab4b56b6d416a3ff096c1861  ./legacy/index.md
 9fef3682303486a0c7c526260f7b3f5a6c6b4519eaffd35101791e3befbc0a55  ./legacy/legacy-app-migration/differences-between-classic-apps-and-granular-slack-apps.md
 c222bae5254a8a70f00e75d88481cbb23fae5d30c9b0e1ac92e41932b7843665  ./legacy/legacy-app-migration/migrating-classic-apps.md
@@ -432,9 +432,9 @@ bd45788f3f4a588b2de5e6be9986d34956abc822e2a7b0e0a54c270ca20f87d6  ./reference/bl
 8d9d169da727e5037e68cc596191021e6db0868f521a39cabc5d3e3de5c176ea  ./reference/block-kit/block-elements/workflow-button-element.md
 a1411a39eaf6fd1205f3f015417e3b3e4bab9867c4f78117dc518a04f3c7cfc7  ./reference/block-kit/block-elements/workflow-mention-element.md
 9f1a28660580a3977fb0f1c4d0c03863a12baeaaae62543f2c52af7e78aeb108  ./reference/block-kit/blocks/actions-block.md
-220e9ecbd2a3b7838144343b432855a28980722b3dd5310e5448cb711af7d71b  ./reference/block-kit/blocks/alert-block.md
-e02709f8ae07cc0d0a76d61675dfc46b81f9880c844babf23a9e9dd40b2d9dff  ./reference/block-kit/blocks/card-block.md
-55f773380dcde99eeff9a8aa1ea4db99daaa5bb158102e74dce1f58f2b62c943  ./reference/block-kit/blocks/carousel-block.md
+d1f3de7c6b1a10df02c31fb3baa461ea393d63ef2c25bb7e4f365550cede3e76  ./reference/block-kit/blocks/alert-block.md
+f603402a53585723644fd03199fac15537552879d3fe5b400d917faa059c16ef  ./reference/block-kit/blocks/card-block.md
+881b12462e394d1516ddc9100113a0c5831ec33d50b0993c1ec783aad52c5bf8  ./reference/block-kit/blocks/carousel-block.md
 be028f881bf71f23face218ca0475ee9462bc8b8ac10f98d6637f15afc6f3629  ./reference/block-kit/blocks/container-block.md
 41af1bd2ed464198ab8e17c0b511c035935592402d8afd52ec03e5186c234e3d  ./reference/block-kit/blocks/context-actions-block.md
 a43a832251fce42a730f81e4cd657c8dabf41cb11053f0848d8ab026a3f4ee15  ./reference/block-kit/blocks/context-block.md
