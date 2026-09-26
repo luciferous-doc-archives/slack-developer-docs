@@ -21,11 +21,12 @@ f9fc982ce73221f878f92c30fba3df84bb533ce9b4a7d95f350edd19a2cad161  ./ai/customizi
 15644f2747a44964b8b03f4abf81a25ffec686a009e4d729cd1c22ef9de62f8f  ./ai/mcp-overview.md
 4ee131967c9978796b1d0036f91a10453bf7655ff9e8ba51a02f2e9c216d979a  ./ai/migrating-to-agent-messaging.md
 15772e0acfbd5297049e64cd7989a7ef541014fb5cb24578a0c3bc03b967d4be  ./ai/openclaw-slack-plugin.md
+4748398c9634dfbdc88699ebfb1ba3307accdf0f5494d4ac06099e3b3b222af7  ./ai/openshell-slack-admin-bridge.md
 7c32c52dffaa9eb71d235cb0e47cbc733e443fe0717ece12887abd13c9b790a7  ./ai/slack-mcp-server/connect-to-claude.md
 07cd0bed14fd287cb4e82d2c221aef86a03797f13e76603381fdaf10aec48adc  ./ai/slack-mcp-server/connect-to-cursor.md
 694930ec1fd93ebd48e0dbefc77adff64ae5bb990bee0bf2646b671fd8dd31b9  ./ai/slack-mcp-server/connect-to-harnesses.md
 4c205e6915d3e3b8a6412340eee3fffbf43dee597da1a174d6943ba3e691c915  ./ai/slack-mcp-server/developing.md
-cc64967155133bb2afed3777e97a7c4aba0a4b4b40b291cc09319ab38b889d8d  ./ai/slack-mcp-server/index.md
+f03f55c8519d8f41f77adf0418b11584163e9b5b0516b7573b9fd051d1b05d2b  ./ai/slack-mcp-server/index.md
 99a85225484a7a375e3360059c1ecadf89822975807f8611b4a92ebbc84e96a2  ./ai/slack-skills-plugin.md
 f1d2783e71e53e56f48955eca7238cb7f586a5f5532da69e1272f197e817fe41  ./ai/slackbot-mcp-client/admin-approval.md
 e0779566274c63891bd80a81cb17fde900eb14f86e82e1bec124f9ede7650305  ./ai/slackbot-mcp-client/distributing.md
