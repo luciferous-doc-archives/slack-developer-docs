@@ -64,9 +64,9 @@ e8c2c560db4a028181bf7061e5a6b9ac5c92a1d7b607ca8111d696868ce532a8  ./authenticati
 83b12fdcc0b8190dc7b25d5de51915959075853bb11c55e5ec32c3f3d7b57c61  ./authentication/sign-in-with-slack/index.md
 806d3dfd4e8d5bfc13310f5f3830ba6ba7353ee8d8a5f28ef3cc565601336d06  ./authentication/sign-in-with-slack/setting-up-sign-in-with-slack-links.md
 3e2d1db4c0395c3ddbde58a886de281f51dafda5a10fc9cdb214206a89fbbef8  ./authentication/sign-in-with-slack/using-auth0-for-sign-in-with-slack-links.md
-33450f42205d626a08123cd99c7cfee8fa00c102165199f840b6c1af1ca72e9e  ./authentication/tokens.md
+58180fd307215c60ffb155101390db335e041504ec789d65f6b8ec53906307f5  ./authentication/tokens.md
 5e249d309014da647e8bfd7ba27a6cbe82a2c26569731934b10cb56e1b0cb685  ./authentication/using-pkce.md
-d8e2a91e6017c45a6ca70301feb097ea20b00b1443fdec07a35a12109cce6837  ./authentication/using-token-rotation.md
+cfffbb1274170b98f93f78c31a7e7852a7d73b97730221ade3f2e0b232ab5787  ./authentication/using-token-rotation.md
 b66070d9aee80374d9f35e7e26bef291a88c430bc558d578733ea29f06a291e2  ./authentication/verifying-requests-from-slack.md
 f9fe9421337d559cae6a1be698fa560d9b21725ec858dbcf8b80398e2efd8215  ./block-kit/formatting-with-rich-text.md
 9ee6b7cd6a5da622b03423a227f89bb26dd503a99071a92a9086dc138a009bad  ./block-kit/index.md
@@ -387,7 +387,7 @@ b5d91ffc42e21bbf169abcc745ba0b87d91bb5d4c7c92e3d7ebdc70efe20fe4b  ./reference/au
 4ad1ae0585c6fcd1f5d358674783a83cd107ebb620237f2fb6c9dfcbadcf8aca  ./reference/audit-logs-api/methods-actions-reference.md
 75b10ebeb9a77f60646cdcbeeabb4ec086515e75536714a9de0f9d82cf2e54c5  ./reference/block-kit/block-elements/attachment-mention-element.md
 22fcaa2a0a62a7656b4069dcd5e41d981fc9760366ddc029e2d86204450c8c5f  ./reference/block-kit/block-elements/broadcast-element.md
-15811a9cdcd86339a8e93e17c12cd399c43a5fc106702751343908e353d5c12f  ./reference/block-kit/block-elements/button-element.md
+9c7a952ab98f60862b27d64bf5bd8f94a5c85fbc106c28508c09661981b65f66  ./reference/block-kit/block-elements/button-element.md
 1891acce8b8d807fefd391248c858c1902e70a258fc2c03c9d51fa9dccc8b74e  ./reference/block-kit/block-elements/canvas-element.md
 71b3f0cfd0779d5752d907dde9c70cfb8df994b6341ac5c660d83d469c491e6f  ./reference/block-kit/block-elements/canvas-message-unfurl-element.md
 64c0787d018cb11835c22bc17bdfc9646926262072b8e515b98b37eb46737553  ./reference/block-kit/block-elements/canvas-user-mention-element.md
@@ -439,7 +439,7 @@ f603402a53585723644fd03199fac15537552879d3fe5b400d917faa059c16ef  ./reference/bl
 be028f881bf71f23face218ca0475ee9462bc8b8ac10f98d6637f15afc6f3629  ./reference/block-kit/blocks/container-block.md
 41af1bd2ed464198ab8e17c0b511c035935592402d8afd52ec03e5186c234e3d  ./reference/block-kit/blocks/context-actions-block.md
 a43a832251fce42a730f81e4cd657c8dabf41cb11053f0848d8ab026a3f4ee15  ./reference/block-kit/blocks/context-block.md
-b47060b126cb0ca4411016bd49cfe61a533fbf2c4997260a426495aa5bf4364e  ./reference/block-kit/blocks/data-table-block.md
+6e2ff2cbfb8fa07e80c7899ea8d654bdd01a1c50d9e3a267f6b72ac3b1ca4778  ./reference/block-kit/blocks/data-table-block.md
 0c08da33f4553a2b58fba0822b68682675aaecab5b205aaec0762bccc5625f73  ./reference/block-kit/blocks/data-visualization-block.md
 6ec6ac90f74b43765acb18d4c62daf8d9dcc9adfd1676fd624c8006703439165  ./reference/block-kit/blocks/divider-block.md
 5a4e0190111c26998d4d1e9dcf25482db422af9af6ce738dfa19245cff0509d1  ./reference/block-kit/blocks/file-block.md
@@ -821,7 +821,7 @@ d11d29ee7eea60d36367de0f2332405d1b06646286588708b0f79b765bab05e7  ./reference/me
 9bd4ddffb38b434eafc5cd6e9253df8148ac9835e65ae81504083c1208d7ec18  ./reference/methods/conversations.create.md
 c667a1401b7cd443f6c2325382c0a294d8386998a3d371d44dcda9f10e5a50ca  ./reference/methods/conversations.declinesharedinvite.md
 b414a5e6ee17e59a9bab448efd919ccc848bb8758683d626a337b720d7b39935  ./reference/methods/conversations.externalinvitepermissions.set.md
-1140817682c66a47f2c7283defdc9e7b3fe32af649770a0d5ccf583566d639fb  ./reference/methods/conversations.history.md
+beaf11640cc3c0445c8c104776a0654c4150fedbbafd2627e278449808ab43c9  ./reference/methods/conversations.history.md
 9743dabd57695406c2000c389807b0fbe3d0f6b4cb76432e622a1ccc8d9aa678  ./reference/methods/conversations.info.md
 3417d8ca4b8cdf7cc36d2e5db04e53866bbb0695eebec2dc5e20a8164f5a3b7c  ./reference/methods/conversations.invite.md
 71936367fa5ce839dfc89c26e314bf377f36b88064bab6b72021f22df1d82a5c  ./reference/methods/conversations.inviteshared.md
@@ -832,7 +832,7 @@ b414a5e6ee17e59a9bab448efd919ccc848bb8758683d626a337b720d7b39935  ./reference/me
 3fa053ea270b4bd3d1f7b43fac7477013b241da5877969276604a90c6c8c01c6  ./reference/methods/conversations.listconnectinvites.md
 00092c1c660eaa3b0905131e081cc472f4531c4105bd848aaa5be2df39e7b169  ./reference/methods/conversations.mark.md
 0919e02146399eae7fa75833bf77b15d1f9aa9e049a237a6005c7621859ff93a  ./reference/methods/conversations.members.md
-f88d843ab89cbd92c24564368f80e5ec29e22888b324ff6e76f04fbff9782084  ./reference/methods/conversations.open.md
+85f2a33856cf22cd3f873235443b481551c81a0294d25ccb5ab88d4d1c0ff8eb  ./reference/methods/conversations.open.md
 8898032facf4e989a6ee10175d0759cd6bdeeb97f7015f960ec6da0c9cf71f34  ./reference/methods/conversations.rename.md
 f84e76f52795088e8ce3e5549d630216bb293801f6ef94edc16f21e30e32e1de  ./reference/methods/conversations.replies.md
 39919ab0495f7d9be118f509658343d8bc46f56a7726f1d90cd852b6908f1368  ./reference/methods/conversations.requestsharedinvite.approve.md
@@ -881,7 +881,7 @@ d49f9f64d2835f83b58f3e52c5a1f720d23a55e3825d1fbb5f078dab0012e6da  ./reference/me
 1ae9180416bb7e1c803440e7e5d0b710a7c7be07ed50697c090429007787e215  ./reference/methods/oauth.v2.beginshorttokenrotation.md
 38ec94bec0c30702d6bf56fcf2799a3784d257ca549c54daeba81cad022af9df  ./reference/methods/oauth.v2.completeshorttokenrotation.md
 e71f994af77463867250629c7518ff4fd76a6d8125d3cfeb7ca97aa54da06e3b  ./reference/methods/oauth.v2.exchange.md
-f3f722e89028c561c4f8e2044d673cd779c1eacc820dd3d1d2e241e6ccc39d9d  ./reference/methods/oauth.v2.user.access.md
+565398ef47963e93d6d5d44fc590c96ea3cf4469db3f3f19c56f6997b7980e89  ./reference/methods/oauth.v2.user.access.md
 9950687caddc028f9175ecdd0ec4666c1df8222ceda60d1ddd4667001b1833a3  ./reference/methods/openid.connect.token.md
 41ad43b029b0a3f3607f4724b77251aa7deb6401aea5db48017b2813b38d5b3c  ./reference/methods/openid.connect.userinfo.md
 7b1a994de8ab8e42db84821cb685a25bb8d2f81cd146a79ed5358c17e89f48d5  ./reference/methods/pins.add.md
@@ -889,7 +889,7 @@ f3f722e89028c561c4f8e2044d673cd779c1eacc820dd3d1d2e241e6ccc39d9d  ./reference/me
 79eda2fd9b77faf2b6cc50f012ae490a54356c064fbbf475e8fd9e9ff7b64039  ./reference/methods/pins.remove.md
 bdd10e69f6cf5755603b24813d8971e9c96a01546968b2aa62435159bbcd9067  ./reference/methods/reactions.add.md
 471dde91ba6eb66c6cfbcdae2ca4696e5e7c3582f61b23c72f31963d87b435ee  ./reference/methods/reactions.get.md
-e06f67b9a0ea536d1bec0cc87e44f1a335cc7b76230152690b5c0a1126ba02e4  ./reference/methods/reactions.list.md
+97a95ac1c0c9acb32529d2cb96692393af58bf3e46ac60f96e1eda0ad1a8e01d  ./reference/methods/reactions.list.md
 a924e05624d68c6d7253308f8b0deda5d5ddac146ddff543925af7d372c99157  ./reference/methods/reactions.remove.md
 5160d78d94e98950493403bf304252e183457f8bf273af79a9ecac6cc197771d  ./reference/methods/reminders.add.md
 f8b48b593e7b0530e4793e01bfe724e777a736db11d3ac8eeb2b6dad3584639d  ./reference/methods/reminders.complete.md
@@ -911,7 +911,7 @@ b23a8f404bfaa88b5a65029678919da6e448c50fcfcef25c8274fca8ebaaaa93  ./reference/me
 ab55465fbfa5385503bf017568a50857eab80f527b91feee1962aa03eebce537  ./reference/methods/slacklists.items.deletemultiple.md
 a917e9956af31d8504e438b5814f39a0eb63222c2238fadc160a264cfc4c9a2b  ./reference/methods/slacklists.items.info.md
 6ec9c935a1216f5ff1dce67acb10827b3b680e17e1cc01cb5c4391d3c2263364  ./reference/methods/slacklists.items.list.md
-74c420329ea3ebf648ae031af9954adc72de13e8e5b8d6e5397d3995e639d9b6  ./reference/methods/slacklists.items.update.md
+1f6b3fabe0df9fc02e31ca123959a9941e61b5eb893d2443514035c6723f73b3  ./reference/methods/slacklists.items.update.md
 e19fe72ed096931b6428f21400b9acc01820eae8528dad14e90e18bdc27ba140  ./reference/methods/slacklists.update.md
 791269c15b3f03f3c7c0471d716ea40a6e5daf707c6a0bcaa22a029e4b7db882  ./reference/methods/stars.add.md
 705630f944203e716e8a47f182c36ee043e524a3107b8ebbe579d62bfcfa6bbd  ./reference/methods/stars.list.md
