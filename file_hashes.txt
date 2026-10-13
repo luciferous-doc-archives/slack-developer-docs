@@ -64,7 +64,7 @@ ee2f8788cca07126bd7a440f5b985fb3e54748c85912564d90a9f8bf33558572  ./authenticati
 0090c11cdafa424376e59087a6a7198282828035878c180a6a048733839f092f  ./authentication/binding-accounts-across-services.md
 5e31f101a149701902c9d9c565a2c92a8967b895070bdba07285314ccfe9fdbc  ./authentication/enterprise-managed-authorization.md
 d3ddde541753e07a32f81da423eda893937647b6a9b42859ace414ee0281a21d  ./authentication/index.md
-e8c2c560db4a028181bf7061e5a6b9ac5c92a1d7b607ca8111d696868ce532a8  ./authentication/installing-with-oauth.md
+45d61722cc0fc8b8886073bd02eea7e2fc02bcb7b4ac90a23895edec9dba58b1  ./authentication/installing-with-oauth.md
 83b12fdcc0b8190dc7b25d5de51915959075853bb11c55e5ec32c3f3d7b57c61  ./authentication/sign-in-with-slack/index.md
 806d3dfd4e8d5bfc13310f5f3830ba6ba7353ee8d8a5f28ef3cc565601336d06  ./authentication/sign-in-with-slack/setting-up-sign-in-with-slack-links.md
 3e2d1db4c0395c3ddbde58a886de281f51dafda5a10fc9cdb214206a89fbbef8  ./authentication/sign-in-with-slack/using-auth0-for-sign-in-with-slack-links.md
@@ -300,7 +300,8 @@ f9041db558212b62112146e46b85c066b6f4f3de16f9ad042581e703b4a9f789  ./changelog/20
 4794e0368033e656aeb042912a540961ccb85cb31969784e9fed4e69dbe524d8  ./changelog/2026/09/15/slack-cli.md
 ae702cbdb22ffead57b58ebd95718893d61aa3b3b5d368eddd8282bc05d1c579  ./changelog/2026/10/02/slack-cli.md
 a0b6b47f474c4f883baa986b72d628f2ea62ca7833bb94be40815ff54d5061f3  ./changelog/2026/10/07/slack-code-for-devs.md
-269ee43c727147d4f7adf73bf87088da3daea953bd8f6dd7a0090c5c7e2f513a  ./changelog/index.md
+b3352dd5fd9dbb9d1ba454486f370709a099e5e0f9614fa5de3148a7fc4bb1ce  ./changelog/2026/10/13/slack-cli.md
+7ebbeb61fa8ba22ad4fb07bc0a91f657573f7771fece15a139beb24ff756301d  ./changelog/index.md
 e9aeac0146efd65b333cc413d144a80f33eaacbe84b3e8a15646d89699925524  ./changelog/tags/announcement.md
 bf824e9aa531596d963fc696e244f8b0f3ebe16b62098c4101c8bac95b45163c  ./changelog/tags/beta.md
 4d734a0deb069ea88b2ab38074771ec793f7e604650492b14ce8cc59cb7a30ad  ./changelog/tags/block-kit.md
@@ -315,8 +316,8 @@ dbdc5ca6d1d857cdda00b2da51f18c9e6000685f64fe6c3f6b61b98967a96649  ./changelog/ta
 4047b6c466bed611fdc4cd8d4889c5c8b0680593c3a0537e72068d6240f3ef8a  ./changelog/tags/new-feature.md
 4b8e2d1aa0e2bb0ee5da16ec6761b47503a1c2847ecaac62aa187cd7ee9805ce  ./changelog/tags/node-slack-sdk.md
 24b0ba6a7b216bf59eed528082877fb6918121d396556355d0eb2a88997088e3  ./changelog/tags/python-slack-sdk.md
-0559c356b240971f43f087dcdd0f0a7e10c05061a6c2325318572922057259e4  ./changelog/tags/release.md
-a2a4fcb034e2212eb55c1a5de03e847f85c897839e17e766383f17413c5543ab  ./changelog/tags/slack-cli.md
+8b36f69bdbeec187da5119bb99b5763c8e570d841c55e01709698193a35af094  ./changelog/tags/release.md
+8240fb4339d4752a551d02ed6cd6c99878e8cecdee7b789817a484dd7eccb562  ./changelog/tags/slack-cli.md
 dd503224d5ba169b85e6fc5add948ea9accf26770d9d3fc5a30de1af23df0741  ./community-code-of-conduct.md
 84a840a5f4f948216949ec3c47810e5bff3b3dea4df1f8eeff3a704342b63a09  ./concepts/agent-design.md
 6b04da4e7fdb5daf0c5382513a19a8010e7fcba16e2d6480d352a72a727c84cd  ./concepts/app-design.md
@@ -1883,9 +1884,9 @@ a95794c0b7f84d378f013f4e2f188d5c3a7c0a16048c54803cafc39f75ab037d  ./tools/node-s
 27b529c9c0088087e1e1ec9342bee25c6bcbd2e967e1cea254ed1fe75abbf6e2  ./tools/node-slack-sdk/migration/legacy/migrating-to-v5.md
 0d6e21c42a9f6be2978ff69d5a925706ed7894224590bff2b3fea7814c446085  ./tools/node-slack-sdk/migration/legacy/migrating-to-v6.md
 f528432f7599e5913f31d5acde2d42d4c436626d40e80b176284d490d9672e0b  ./tools/node-slack-sdk/migration/socket-mode/migrating-socket-mode-package-to-v2.md
-a2225b63d9712a73bf0dc5f6495cd1cd8dd6bef8d6f4065998eb75b9ecd1b2a0  ./tools/node-slack-sdk/migration/socket-mode/migrating-socket-mode-package-to-v3.md
+9d7038b90296ae2ad83009bd077b2ff90f1a0aa302164973278d9c35bdfb51b7  ./tools/node-slack-sdk/migration/socket-mode/migrating-socket-mode-package-to-v3.md
 4eb16b9c8eb192c5753ddf728c2681a539bda164788aa321928504a6f300d6a7  ./tools/node-slack-sdk/migration/web-api/migrating-web-api-package-to-v7.md
-1d6fc4e481352efa8bebf91784c44bc4e42a0477a4a6a94e3c2d3d8057298c92  ./tools/node-slack-sdk/migration/web-api/migrating-web-api-package-to-v8.md
+e13a639d96ffe9e71806d87a038b38882caae5b870a6fd12922b22ed3885e016  ./tools/node-slack-sdk/migration/web-api/migrating-web-api-package-to-v8.md
 14f4ae8303049ebdf938e322b0e208e56dd6e0a0fb697a174c61e8367bea6852  ./tools/node-slack-sdk/migration/webhook/migrating-webhook-package-to-v8.md
 62cde523a4d38d98671bf392fea073ad5512f786a1cd75d72509cd28b3d155fb  ./tools/node-slack-sdk/oauth.md
 8a2d472379dc4cf0021f0ee77161323d0e2e44ebaa225712b5113719143bb7e7  ./tools/node-slack-sdk/reference/cli-test/classes/slackcliprocess.md
@@ -3244,8 +3245,8 @@ a9662f59f2b4a3426a6044c864d9e8b5b6acbaebeb1a144637dda0d066f8e822  ./tools/python
 db0156a9c294c35118eff75c9cf3ce4434381e42148f08ac40eee3e21a500d6e  ./tools/slack-cli/guides/authorizing-the-slack-cli.md
 a35956e30da0c36b93d0d1df2a94cc477dd5e5f307b561afc72dde837b20d391  ./tools/slack-cli/guides/deploying-the-slack-cli-with-github-actions.md
 19bd5f59cf72026fef799788a42d986ffd10a368851001e0d973cdb7f787602a  ./tools/slack-cli/guides/developing-locally.md
-6dfe90791992ffa7607b6855fbb022bfd8069a1dd3fcda4de9976bc58c91d820  ./tools/slack-cli/guides/installing-the-slack-cli-for-mac-and-linux.md
-5bc5a1602394a4da0f4fdbd59519b570099219d6df1fcf7c00781d60e2cdc98e  ./tools/slack-cli/guides/installing-the-slack-cli-for-windows.md
+2dabc6fd8ee05f61ef97e55c954f24b0bbe4f15e9ae238a10130f41119e1ab0e  ./tools/slack-cli/guides/installing-the-slack-cli-for-mac-and-linux.md
+1dcddfef79cbdc9a612fae893a2c68fd078d79b06bb457bfb1f9a64795a5858b  ./tools/slack-cli/guides/installing-the-slack-cli-for-windows.md
 9538c378607d9c37b6f27ca63e5536eec2294a848eb726beaf82d3910c7ab941  ./tools/slack-cli/guides/removing-an-app.md
 e74145a388f4653fd9cb2ad924b3bde1ae934cb0bf6fc70d0a3563df7fc39cba  ./tools/slack-cli/guides/running-slack-cli-commands.md
 e18e7659cba7863168cdc28f37ac14f4aeea2113d93bb223c7cc288538acdd23  ./tools/slack-cli/guides/setting-up-ci-cd-with-the-slack-cli.md
