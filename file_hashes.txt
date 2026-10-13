@@ -1036,6 +1036,7 @@ e0af2bd2a686dcbf06aa8e4e0d27dd6d27aafb5311cadb3cd7d0ef59c14f0101  ./reference/sc
 c1b9771cf0183a83731ac5fc19b0c97b98bb91b2fe124ce955130a07f814fc04  ./reference/scopes/chat.write.md
 3b2f3cedc629e69b04160baad30f928647a1aeda172030b4569bce24c6dd1425  ./reference/scopes/chat.write.public.md
 71caae520c7c179757b199fa3b351022841878dd23806d6d7a07d0359f04e2cc  ./reference/scopes/client.md
+3bcf92d1b537926ee79976c11fd610180b12670f96c7cd60aa3d317c59510296  ./reference/scopes/code_channels.manage.md
 42fc55f69468eafc6362835be20a16922f6a7335386bada9dc2145432245505d  ./reference/scopes/commands.md
 328c42da10ede706e439f7faacb7fc8a74bba1a4abc30c735b0c246c35da5d2f  ./reference/scopes/connections.write.md
 0bcbf64f7d2dd447137cc0a7787d08e81bf518b68241e38117df6611b218db49  ./reference/scopes/conversations.connect.manage.md
@@ -1062,7 +1063,7 @@ a579a2209526d5fa7ffb35b9ccc802e094c0f1387dd2aa42515061f6bcd6852b  ./reference/sc
 f052084afb459ad67c8151aeadb11e2cecadf6435019cdbe71dc429d69d66001  ./reference/scopes/im.write.md
 c6eeca02b2567bc6dbf48c36d98c5ac02518dbc0e8c09302e3f950462d08f633  ./reference/scopes/im.write.topic.md
 05dd1e2a99bdc54a7bc1d67588fe8a0a210871a21246a31e3304923355e14dc1  ./reference/scopes/incoming-webhook.md
-dbaa60e2f0a83b8f1e4bea01a3d0850548edd51c8be814b673bd383aa1b3c3a3  ./reference/scopes/index.md
+4398eba422bf3fda8af2be462b8b25a5f16aceae795b21a760605c4d25248976  ./reference/scopes/index.md
 d5fae91674af94a3b8456276681db8f2308e11ce42bc1f5b1c6d4173bb3bdf22  ./reference/scopes/links.embed.write.md
 e1155ff05284c897a41684b99b6d9729cc36506dfafb77864e054f5b41819fd6  ./reference/scopes/links.read.md
 58a81fedcbf6c34e701eb4e30ab9c33aa1a5c59e159bd81d0b2b0fe1ece45097  ./reference/scopes/links.write.md
