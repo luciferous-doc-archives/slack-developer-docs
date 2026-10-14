@@ -31,7 +31,7 @@ b27b817540985bfb3f0ab4b3b823249c1ad0d368b6a3b27822d8204f82a8243d  ./ai/slack-cod
 602b99e39c0b5b380c8359d57a25af31a55cc8ef3bb19722526274a835fde8cc  ./ai/slack-mcp-server/connect-to-harnesses.md
 4c205e6915d3e3b8a6412340eee3fffbf43dee597da1a174d6943ba3e691c915  ./ai/slack-mcp-server/developing.md
 f03f55c8519d8f41f77adf0418b11584163e9b5b0516b7573b9fd051d1b05d2b  ./ai/slack-mcp-server/index.md
-99a85225484a7a375e3360059c1ecadf89822975807f8611b4a92ebbc84e96a2  ./ai/slack-skills-plugin.md
+3fa7bf799373beaf13e1e68d7c3f5eba7600696e49969be66b28459f09165be7  ./ai/slack-skills-plugin.md
 f1d2783e71e53e56f48955eca7238cb7f586a5f5532da69e1272f197e817fe41  ./ai/slackbot-mcp-client/admin-approval.md
 e0779566274c63891bd80a81cb17fde900eb14f86e82e1bec124f9ede7650305  ./ai/slackbot-mcp-client/distributing.md
 46c24f649903fd7b00bc81cd13b829147517e348d1d50b6060b1f50e80d59e32  ./ai/slackbot-mcp-client/index.md
@@ -756,7 +756,7 @@ faf114dfa5c3959030758d51fb1f05851c9ad6ced50c7b64f4311df2e1b6108b  ./reference/me
 32186011941e7f2caf7d86b7037178ca0e799529282db34c500d87fd8e4de54f  ./reference/methods/admin.workflows.triggers.types.permissions.set.md
 91646b0845667dad174acd8669988d2235a1974ce0118399581f7f45e2180e70  ./reference/methods/admin.workflows.unpublish.md
 f64ff0929a8d10458d443c15cd3f123618605dad909f8aecf9cedd17b2f27877  ./reference/methods/agents.conversations.archive.md
-cd2bd2131963416ac537d66bea6cf9c5828c545c940cfcabf91425302d2d25a1  ./reference/methods/agents.conversations.create.md
+6c62b4e04a9e94b9753a5fae91d8fffa94e6fa57a9a63b6fffe75152a9b09713  ./reference/methods/agents.conversations.create.md
 49eb6a86d4866b2081601b4e4033c045dbf23b988b98b2f8ef1c2ba6a4cd1df5  ./reference/methods/agents.conversations.getcanvas.md
 f661924573503d1d47aa544e133f1e37e4f9411187ac54b85cb6e289158483b4  ./reference/methods/agents.conversations.listviews.md
 555d1dccd61e4b34946cf91e36580a65d0de377c2644c1c87957bfdf05a601b7  ./reference/methods/agents.conversations.removeview.md
