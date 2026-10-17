@@ -1063,14 +1063,13 @@ ac08dad9ae6942c3ee280898a9b1b080e40558466c6b39060084f4acf73dae8b  ./reference/sc
 674fd4d8ad85ba82343da616418eabbcaaf8ced24cbdd595e4495a54d9bd2441  ./reference/scopes/groups.write.md
 2a86c4d4eb1cfd1464d4c486e6ef1ea37fe23d8a563102cd771c896ccf55fee7  ./reference/scopes/groups.write.topic.md
 a7c1926133260d2ab6b655a1163944708b06ac53e608edee0b61ece5ae7616b9  ./reference/scopes/hosting.read.md
-1f6cf80aa876d777e2f171f19bd21642a81a0af652c32666300b1d429423493d  ./reference/scopes/hosting.write.md
 a579a2209526d5fa7ffb35b9ccc802e094c0f1387dd2aa42515061f6bcd6852b  ./reference/scopes/identify.md
 20a3615d8e2fdafb15b306c29345fc8a4166eba80c6f35da454d4ea0b288bb0f  ./reference/scopes/im.history.md
 2c6a5f846cbcb19fb480ca6bf396bb12499f6032fd158b5dd94b0e28460171ee  ./reference/scopes/im.read.md
 f052084afb459ad67c8151aeadb11e2cecadf6435019cdbe71dc429d69d66001  ./reference/scopes/im.write.md
 c6eeca02b2567bc6dbf48c36d98c5ac02518dbc0e8c09302e3f950462d08f633  ./reference/scopes/im.write.topic.md
 05dd1e2a99bdc54a7bc1d67588fe8a0a210871a21246a31e3304923355e14dc1  ./reference/scopes/incoming-webhook.md
-6ed642b68c34e69c6812f943aef04215e87bd8fa57aa14b6cc3c73dd079a05d7  ./reference/scopes/index.md
+8786f882e9dde5c915964444a0d60813385dd9a01582cb43d9ceb95ccbe8463a  ./reference/scopes/index.md
 d5fae91674af94a3b8456276681db8f2308e11ce42bc1f5b1c6d4173bb3bdf22  ./reference/scopes/links.embed.write.md
 e1155ff05284c897a41684b99b6d9729cc36506dfafb77864e054f5b41819fd6  ./reference/scopes/links.read.md
 58a81fedcbf6c34e701eb4e30ab9c33aa1a5c59e159bd81d0b2b0fe1ece45097  ./reference/scopes/links.write.md
