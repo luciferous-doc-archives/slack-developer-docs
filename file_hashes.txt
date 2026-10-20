@@ -48,7 +48,7 @@ f422c8fd360341f297b3ab07db16ca803a45261ced8ca675e3fb97b27957ea6d  ./apis/events-
 bb9ef445c757415860a7acc4f6092a65a347fc036cd13f12b2c106bf133bbbc7  ./apis/slack-connect/using-slack-connect-api-methods.md
 4e7379b0458198f421b997ad5bbc863105916105080b94f29a8139b93f25fe6a  ./apis/web-api/index.md
 2c2e944cb4d0bd82f619f0fc7262fc696f870f0af0e57789eaecbc5feffbb4f9  ./apis/web-api/pagination.md
-14e26d177f6b8861a935ff1202c9c1849f94f805a92c4376c8cbb345b07a3541  ./apis/web-api/rate-limits.md
+e1d3dd2008ffc4e02b6ac7562b418ec20ce6a705eb565997db197035b55d2acd  ./apis/web-api/rate-limits.md
 ce4be7e8bbeaa01b0abaffc7c310ecf07fc0df9d034ebf6fe565de39d117d1df  ./apis/web-api/real-time-search-api.md
 28f978dbf4a7ad63a037d3c119e50829972e661184e9288de02f9654c01b1a0c  ./apis/web-api/user-presence-and-status.md
 6a972e511753d76ee2278621772c3b81bd36b95f43053eb282ed4021996f8874  ./apis/web-api/using-the-calls-api.md
@@ -124,7 +124,7 @@ aeb23e7ed8f1133f0662b3c2dc3bf29daa3ddd6cd3fe4f30e3a292862dbaa260  ./changelog/20
 9be78f74dd1444646276b98c108bd98c5e9939f66ae8f2a20ba3c20ca433422d  ./changelog/2020-11-no-more-tokens-in-querystrings-for-newly-created-apps.md
 501b3060dcd17938c43b7cfe293e3bf2d65edb78860ace83b3de4871f9a8293e  ./changelog/2020/09/01/full-state-on-view-submisson-and-block-actions.md
 4e8febe8bd8d59377304a3a31630810226a5258ce0643e5b96ede72878fa65ea  ./changelog/2020/09/01/minor-developer-policy-update.md
-9ec182b480565383bffea145855252ccfaa2ed1a1626d747eafc83c55d4205cc  ./changelog/2020/11/01/app-unfurls-everywhere.md
+3fb36cc5b2af177259fbe243e7693191aae991f3050b74a74a9e45c7ab6d1fa0  ./changelog/2020/11/01/app-unfurls-everywhere.md
 e0e77353a74eb3e42e73c7a246f619ac531a4e33ff5fc205e1b2c91ae572e0ee  ./changelog/2020/12/31/compilation.md
 c67552ca2d1b85e0be51c40dafc68d90ccf82852899babbb50d73ec22999c00d  ./changelog/2021-01-workspace-apps-retiring-the-platform-graveyard-in-aug-2021.md
 840a1905de6aa3d3828cd08b1c3309323997222bb7da870fca2d2e77468a328a  ./changelog/2021-02-how-we-broke-your-slack-app.md
@@ -299,9 +299,9 @@ ff8e71d7906ae40b17236d5bdb283145a8a0bf25fb4fdb946ee83f7cc660714f  ./changelog/20
 1e28425b6b47783298bfe96f39e0a7fa1427f4d03ca44ad1c19c4c86a1a42926  ./changelog/2026/08/28/slack-cli.md
 f9041db558212b62112146e46b85c066b6f4f3de16f9ad042581e703b4a9f789  ./changelog/2026/09/01/slack-marketplace-install-requirement.md
 4794e0368033e656aeb042912a540961ccb85cb31969784e9fed4e69dbe524d8  ./changelog/2026/09/15/slack-cli.md
-8d9bc5b186f36f01fb3e7ff82d751eb44018fb70f4fbdcf8eeb2f754cc186804  ./changelog/2026/09/30/node-sdk.md
-2d358a6aa44b3c8f7b044027769efc6e9705e9e879cebccb6896ddf49dc23da0  ./changelog/2026/10/01/java-sdk.md
-3f0a31bd9de8a7b3db732c4f611bca923eb8c2670741837d24c9b280ec806521  ./changelog/2026/10/01/py-sdk.md
+96a5877da911aeaff8a7d1a4287a07680d71ee7a3045543852f43454f8b0f6f5  ./changelog/2026/09/30/node-sdk.md
+b41e2c3c7d50effa757fd572807ca8370c9cf8105c5c1c7f5e37bc24f673ddba  ./changelog/2026/10/01/java-sdk.md
+4becfc738c5f6ebe42268a277a66ed9a4c7ad19b87499c56cd036dfa285c3f22  ./changelog/2026/10/01/py-sdk.md
 ae702cbdb22ffead57b58ebd95718893d61aa3b3b5d368eddd8282bc05d1c579  ./changelog/2026/10/02/slack-cli.md
 a0b6b47f474c4f883baa986b72d628f2ea62ca7833bb94be40815ff54d5061f3  ./changelog/2026/10/07/slack-code-for-devs.md
 b3352dd5fd9dbb9d1ba454486f370709a099e5e0f9614fa5de3148a7fc4bb1ce  ./changelog/2026/10/13/slack-cli.md
@@ -316,13 +316,10 @@ dbdc5ca6d1d857cdda00b2da51f18c9e6000685f64fe6c3f6b61b98967a96649  ./changelog/ta
 98b22bb8fc2953d9901bff5bd4626a919dc231b314641764eb214e12571fe331  ./changelog/tags/deno-slack-sdk.md
 2043051c680dd7a4bf089edf23a761778817356a33d0f5c218465e87197ebdc9  ./changelog/tags/deprecation.md
 4a466d302966144f7ef8fac2c4899c164bcdff6ecb1991cf08a8e29aff1e98c4  ./changelog/tags/index.md
-6ea0e1d6dc4f711557b6cb03789af78a82cfe955afc1a7e7c0f123842030641a  ./changelog/tags/java-sdk.md
-32ac2d2ef75bfea1eb09e42d27912f4d9530459dbdff3137e644591cdfadf35a  ./changelog/tags/java-slack-sdk.md
+48ab53c13ca1e3e7f474063ece85e8197d2686916ade28b5f0ad32587cab681f  ./changelog/tags/java-slack-sdk.md
 4047b6c466bed611fdc4cd8d4889c5c8b0680593c3a0537e72068d6240f3ef8a  ./changelog/tags/new-feature.md
-03884625ad2c928e6228683a66044bdd8be7fbba99dea3f311f2f370e99faa19  ./changelog/tags/node-sdk.md
-4b8e2d1aa0e2bb0ee5da16ec6761b47503a1c2847ecaac62aa187cd7ee9805ce  ./changelog/tags/node-slack-sdk.md
-07ca079ada6675fa1208d46bc35ade5598ca66aef7783e111eeb62e7a5fae847  ./changelog/tags/python-sdk.md
-24b0ba6a7b216bf59eed528082877fb6918121d396556355d0eb2a88997088e3  ./changelog/tags/python-slack-sdk.md
+2150d670d06442f044599e262c7e24316044d0ff90e14ed65e604f52d29a5afc  ./changelog/tags/node-slack-sdk.md
+cbc82d3dd13ba9432aba7f762f38c9d31a1fcce62f2eaab6d7ae8eef8fc4b122  ./changelog/tags/python-slack-sdk.md
 65b57c03a88501c638b0bf1b1a00b1f1d4f1ebd245eb3abc0454357212d42364  ./changelog/tags/release.md
 8240fb4339d4752a551d02ed6cd6c99878e8cecdee7b789817a484dd7eccb562  ./changelog/tags/slack-cli.md
 dd503224d5ba169b85e6fc5add948ea9accf26770d9d3fc5a30de1af23df0741  ./community-code-of-conduct.md
@@ -382,7 +379,7 @@ b6713d7fa18b603af7852dabd8ac3d9bb58b2e40d10957e62e5302838753814e  ./legacy/legac
 f04430801aa32119951ab215dbb0e98f101f110104fcc40d7f03b0a8c015b316  ./messaging/formatting-message-text.md
 21329e29677759dc66578cecbad72e2938ea4311ee0f092baca35edc758f4140  ./messaging/index.md
 cb001a55217d2eaeb697b266db99068edde3ce17b708ad37ce19bfc2d88cf98b  ./messaging/message-metadata/designing-metadata-event-schema.md
-fce3daa07946050492de4c2ae3dc82e656e345f5fc1e57363d5e6d7dade7e2db  ./messaging/message-metadata/index.md
+1e64a57545679f215114df5da8c46f3b55b8fdea5871cd8078b381332f664c9b  ./messaging/message-metadata/index.md
 bd77522749f1048df6c0bcc4bd3bc35a3433239e1c233afe0519c4dcb67300e1  ./messaging/modifying-messages.md
 56e6ee0183ee507a78a0498d3474dfee089350153dc6cff702baf69523699994  ./messaging/retrieving-messages.md
 0de6a006c6ca0280e4f04bd02510ad038608f385a1e742e2e0adfe23538b16e2  ./messaging/sending-and-scheduling-messages.md
@@ -395,7 +392,7 @@ e46695b52f27bd5dfd9568135c62b3695501d875958abb71926d19149f1bcb0b  ./messaging/wo
 580a09ce5c0c6393e1d8aa804d99b6a2a9c2af7a1ae5a9ce5a77a6a5fa18d3be  ./messaging/working-with-files.md
 cb5ee4725e31dcef34d32c45b58ee6a34441c31eded333c89b67fd5f1b64bbea  ./other-ai-integrations.md
 66830aafb3846d82fa08b5ffea23891c7c5dc3f7d3791af49d7b1840bb682bf7  ./quickstart.md
-96e8a80360acfa73c283aca12ec0b3adea3c5d02c558f55ff70c9d68df06260a  ./reference/app-manifest.md
+0a25c3e89f4ebb16441f2b91b90aaf1aaca74c87bc01e6f7b3f6d3364539dcf8  ./reference/app-manifest.md
 b5d91ffc42e21bbf169abcc745ba0b87d91bb5d4c7c92e3d7ebdc70efe20fe4b  ./reference/audit-logs-api/anomalous-events-reference.md
 33b26e85bfd0418693b08fbd0ff4cdfab37e5c1a6fd67fdb9b5abae8369f9a07  ./reference/audit-logs-api/index.md
 c5c3a1b4e1b56b6c3c0fece38c0dbafd50662c9dda87ebd58b8b8208624913a3  ./reference/audit-logs-api/methods-actions-reference.md
@@ -642,8 +639,8 @@ ce69f0f6df22d5465a501a25720bb601983d4563e5d35ca1c86cca5f5f0fda98  ./reference/in
 dfd51010f26a46ab1147629fad72980509afbe29abd0a3cb3262a1b7b3194a9b  ./reference/interaction-payloads/view-interactions-payload.md
 7874e6005898b4a733ec4352bd533f4c3bad4516ce10a1ff8b3972a066cecd99  ./reference/legal-holds-api-reference.md
 d5ce4613807a9b224f76abdb58152584627b7b51ccfd7359e993f0f18fc7c7a5  ./reference/methods/admin.analytics.getfile.md
-c8b61044cdd51beeee05fa289c6aa6342ef0689eefa0399cb98c1c1bc4d5805f  ./reference/methods/admin.analytics.messages.activity.md
-734e3ce835b30b28c87c32c3f5c94ee53083c1dce4670fc24bb7aace56b7bd6d  ./reference/methods/admin.analytics.messages.metadata.md
+75d186c0c369a10a13bd4627c0a80e675d8f122fdacc2b6f8728102862f5de5f  ./reference/methods/admin.analytics.messages.activity.md
+c91b045c712d705b9c74800e15a081ff01236f7455dcdf8ebd42a12c67be1fa5  ./reference/methods/admin.analytics.messages.metadata.md
 beeb0b0b115b513c3bdb5ec59aa8c94068a70add136c388481f974f9f37609f3  ./reference/methods/admin.apps.activities.list.md
 dfbf6e2321dbd55095657d34171ef2a76fba41bc4965d6d0b240119688aab78c  ./reference/methods/admin.apps.approve.md
 19410595a9224db73bebbf1f51e09527349434507df8a77e0037cb4d4f87d3b1  ./reference/methods/admin.apps.approved.list.md
@@ -845,7 +842,7 @@ d11d29ee7eea60d36367de0f2332405d1b06646286588708b0f79b765bab05e7  ./reference/me
 9bd4ddffb38b434eafc5cd6e9253df8148ac9835e65ae81504083c1208d7ec18  ./reference/methods/conversations.create.md
 c667a1401b7cd443f6c2325382c0a294d8386998a3d371d44dcda9f10e5a50ca  ./reference/methods/conversations.declinesharedinvite.md
 b414a5e6ee17e59a9bab448efd919ccc848bb8758683d626a337b720d7b39935  ./reference/methods/conversations.externalinvitepermissions.set.md
-778451e5a4560b065c0224a53547ca7bac3754843a09cfa1ffaf67d475b861c9  ./reference/methods/conversations.history.md
+7469f138eddadc5a5865a0bda7f0caeee08ed9279982a1f3c66cf26f3f52b182  ./reference/methods/conversations.history.md
 9743dabd57695406c2000c389807b0fbe3d0f6b4cb76432e622a1ccc8d9aa678  ./reference/methods/conversations.info.md
 3417d8ca4b8cdf7cc36d2e5db04e53866bbb0695eebec2dc5e20a8164f5a3b7c  ./reference/methods/conversations.invite.md
 610a651895d7537721f20731062c9e1f387a84f81e876a697986a8b586f0a1fa  ./reference/methods/conversations.inviteshared.md
@@ -858,7 +855,7 @@ b414a5e6ee17e59a9bab448efd919ccc848bb8758683d626a337b720d7b39935  ./reference/me
 0919e02146399eae7fa75833bf77b15d1f9aa9e049a237a6005c7621859ff93a  ./reference/methods/conversations.members.md
 85f2a33856cf22cd3f873235443b481551c81a0294d25ccb5ab88d4d1c0ff8eb  ./reference/methods/conversations.open.md
 8898032facf4e989a6ee10175d0759cd6bdeeb97f7015f960ec6da0c9cf71f34  ./reference/methods/conversations.rename.md
-f84e76f52795088e8ce3e5549d630216bb293801f6ef94edc16f21e30e32e1de  ./reference/methods/conversations.replies.md
+8adc058e89d645e7a504072194acc8a674fe25c66a1c6a014c89b9d067835621  ./reference/methods/conversations.replies.md
 39919ab0495f7d9be118f509658343d8bc46f56a7726f1d90cd852b6908f1368  ./reference/methods/conversations.requestsharedinvite.approve.md
 93d5b899338bc8ad0672c01bae8a1c7fe1bd6faf51b4e8e9fd0ef88404f537ec  ./reference/methods/conversations.requestsharedinvite.deny.md
 bbe0118afde795d076a6b0191c5146ecaf345da3448f780df9ff8f43504ee85e  ./reference/methods/conversations.requestsharedinvite.list.md
