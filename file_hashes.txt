@@ -26,7 +26,7 @@ be1c42d6b2fffacb787e744b89529c8d9db39117cffe55afdbcc32eeb01cf909  ./ai/developin
 b27b817540985bfb3f0ab4b3b823249c1ad0d368b6a3b27822d8204f82a8243d  ./ai/slack-code/agent-slash-commands.md
 23c3d6943d80bc1f16139ed8e1dd7081d347d7001caba6fb5f14872723924cac  ./ai/slack-code/code-channel-properties.md
 1594d4c3d82ec197b9af6d4d914467a894f1496800bf53f854cfe5dd14dbefda  ./ai/slack-code/index.md
-2ae92a4be7e741daca7588c3154003ba0bc196ce6bc1cc289373f3d934a2734a  ./ai/slack-code/lifecycle.md
+ca85bb0a7f0c237cf0bc18fff30cef15c152c0e40259584c82759d67052aba00  ./ai/slack-code/lifecycle.md
 7c32c52dffaa9eb71d235cb0e47cbc733e443fe0717ece12887abd13c9b790a7  ./ai/slack-mcp-server/connect-to-claude.md
 07cd0bed14fd287cb4e82d2c221aef86a03797f13e76603381fdaf10aec48adc  ./ai/slack-mcp-server/connect-to-cursor.md
 602b99e39c0b5b380c8359d57a25af31a55cc8ef3bb19722526274a835fde8cc  ./ai/slack-mcp-server/connect-to-harnesses.md
@@ -395,7 +395,7 @@ cb5ee4725e31dcef34d32c45b58ee6a34441c31eded333c89b67fd5f1b64bbea  ./other-ai-int
 0a25c3e89f4ebb16441f2b91b90aaf1aaca74c87bc01e6f7b3f6d3364539dcf8  ./reference/app-manifest.md
 b5d91ffc42e21bbf169abcc745ba0b87d91bb5d4c7c92e3d7ebdc70efe20fe4b  ./reference/audit-logs-api/anomalous-events-reference.md
 33b26e85bfd0418693b08fbd0ff4cdfab37e5c1a6fd67fdb9b5abae8369f9a07  ./reference/audit-logs-api/index.md
-c5c3a1b4e1b56b6c3c0fece38c0dbafd50662c9dda87ebd58b8b8208624913a3  ./reference/audit-logs-api/methods-actions-reference.md
+8ed50f27ff24c2a3e90930ca645cdd12eac6e7e8b53cd91a4face865309d29f6  ./reference/audit-logs-api/methods-actions-reference.md
 75b10ebeb9a77f60646cdcbeeabb4ec086515e75536714a9de0f9d82cf2e54c5  ./reference/block-kit/block-elements/attachment-mention-element.md
 22fcaa2a0a62a7656b4069dcd5e41d981fc9760366ddc029e2d86204450c8c5f  ./reference/block-kit/block-elements/broadcast-element.md
 9c7a952ab98f60862b27d64bf5bd8f94a5c85fbc106c28508c09661981b65f66  ./reference/block-kit/block-elements/button-element.md
@@ -760,7 +760,7 @@ faf114dfa5c3959030758d51fb1f05851c9ad6ced50c7b64f4311df2e1b6108b  ./reference/me
 32186011941e7f2caf7d86b7037178ca0e799529282db34c500d87fd8e4de54f  ./reference/methods/admin.workflows.triggers.types.permissions.set.md
 91646b0845667dad174acd8669988d2235a1974ce0118399581f7f45e2180e70  ./reference/methods/admin.workflows.unpublish.md
 f64ff0929a8d10458d443c15cd3f123618605dad909f8aecf9cedd17b2f27877  ./reference/methods/agents.conversations.archive.md
-6c62b4e04a9e94b9753a5fae91d8fffa94e6fa57a9a63b6fffe75152a9b09713  ./reference/methods/agents.conversations.create.md
+7b10eddacb3e1142fc7df9209557824f3405682f0ab4373478a8c33213cd2f8c  ./reference/methods/agents.conversations.create.md
 a5b5d1e93a657f4f3f0fbaa990202b2bd33671876d525a6d71fcb3a233177028  ./reference/methods/agents.conversations.getcanvas.md
 f661924573503d1d47aa544e133f1e37e4f9411187ac54b85cb6e289158483b4  ./reference/methods/agents.conversations.listviews.md
 555d1dccd61e4b34946cf91e36580a65d0de377c2644c1c87957bfdf05a601b7  ./reference/methods/agents.conversations.removeview.md
@@ -3355,6 +3355,6 @@ b8c8a0d3108626e60206070fbd95a481c03475b49421f131fb0c5fbd01c27fc2  ./tools/slack-
 6717b66987f7e4e608c936a6b9a87fc63104a7c9cdda77b8966b3c460a03280d  ./tools/slack-github-action/sending-data-webhook-slack-workflow.md
 a0d09db7a9820bb18703e12034acc2b10f753becc53b8480e603328249302b3e  ./workflows/comparing-workflows-apps.md
 9b0a25994261a037ee5a26257ebe2cbecdd3cf568ac270ea67278eb6df68af9e  ./workflows/index.md
-a95fdd66264b88b20c74c808936709a86d4eff699268ca011ccc4b901c2b09c5  ./workflows/run-on-slack-infrastructure.md
+0496f0e7d82b373bdd7fa4bbc41d3dbbe26a3c94a6274f747887be1bc529ad92  ./workflows/run-on-slack-infrastructure.md
 4e9e0b54158093f8cd61b523dc2b085e37dcf1671aa5189c44336bc7ba6ec795  ./workflows/workflow-builder.md
 27005fe561023a496b8c26ab7a46ace43a37dacf9f32c8548c02e2d37213ad06  ./workflows/workflow-steps.md
