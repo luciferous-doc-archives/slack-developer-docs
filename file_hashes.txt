@@ -18,7 +18,7 @@ bc4eba4a6f10f020dde3c112ce1d30b8af3df5bc793218cb7f4655d8325153a5  ./admins/manag
 76289c214181f1ea0a6cfb858bd859e2c9c4a2dcaee7a097e34a3eac144e78ae  ./ai/build-with-ai.md
 f9fc982ce73221f878f92c30fba3df84bb533ce9b4a7d95f350edd19a2cad161  ./ai/customizing-agentforce-agents-with-custom-slack-actions.md
 31bb67488bc770150897075eee741593ba5faf3a603ee2f1d378f1cec8fae5aa  ./ai/developing-agents.md
-81e5b7249146e01b8719e5903c33f823abf492aacea98e64f09184356b3dfc71  ./ai/index.md
+4c0834979191a50f0c966fe793adf7de9d05cb4ef4636e4256c619d7fa8cb79a  ./ai/index.md
 15644f2747a44964b8b03f4abf81a25ffec686a009e4d729cd1c22ef9de62f8f  ./ai/mcp-overview.md
 4ee131967c9978796b1d0036f91a10453bf7655ff9e8ba51a02f2e9c216d979a  ./ai/migrating-to-agent-messaging.md
 15772e0acfbd5297049e64cd7989a7ef541014fb5cb24578a0c3bc03b967d4be  ./ai/openclaw-slack-plugin.md
@@ -37,6 +37,7 @@ f1d2783e71e53e56f48955eca7238cb7f586a5f5532da69e1272f197e817fe41  ./ai/slackbot-
 40c9e9119f828372129f2929d6da746e1512b50ace1a1d6be5a5c9e2a5f98fe8  ./ai/slackbot-mcp-client/distributing.md
 46c24f649903fd7b00bc81cd13b829147517e348d1d50b6060b1f50e80d59e32  ./ai/slackbot-mcp-client/index.md
 66dae16d311ca711aa87a4d7fbcd6fdc9d78409dd1883b730d58ee7832c9f3c5  ./ai/slackbot-mcp-client/returning-rich-responses.md
+5d38cf6c07117536f7d14652e9a2653ce446972f2279f4b5d43c06b69a95706c  ./ai/slackbot-skills.md
 2ccc147ee85d95b3e935d03a5aa90de636f8f2d52be4e360f414b3d128844ca2  ./ai/vercel-slack-agent-skill.md
 4468e5d66d267c00bf090642e6e77188a068b708272c2564a9e5f00c782103f4  ./ai/workflow-ai-integration.md
 e2c139c7288f2a387eeb8f8bafb4e8734907e2f2dcada254746fcad4af8e123b  ./apis/events-api/comparing-http-socket-mode.md
@@ -306,8 +307,9 @@ ae702cbdb22ffead57b58ebd95718893d61aa3b3b5d368eddd8282bc05d1c579  ./changelog/20
 a0b6b47f474c4f883baa986b72d628f2ea62ca7833bb94be40815ff54d5061f3  ./changelog/2026/10/07/slack-code-for-devs.md
 b3352dd5fd9dbb9d1ba454486f370709a099e5e0f9614fa5de3148a7fc4bb1ce  ./changelog/2026/10/13/slack-cli.md
 a8fbd9e8433a4eb28c5122c6eff877900707ae9c898bbec458ebc6aaa6a90562  ./changelog/2026/10/22/slack-cli.md
-80ef1a98d486ebe91733d79dfc6a5ad21757029f1947eb96ab467edaa2f469c6  ./changelog/index.md
-e9aeac0146efd65b333cc413d144a80f33eaacbe84b3e8a15646d89699925524  ./changelog/tags/announcement.md
+8d31ba9ecc4449d049ec9aebb76cdb25d3f8c596ace9ba70f7a6b45732752916  ./changelog/2026/10/28/slackbot-skills-api.md
+e7c071c40975532b99d24b3e2dc2c42dceab18a9c473bc67e81dd9c1f1385adc  ./changelog/index.md
+55ba95c4f41ba9a8f139fc83d0396313093a7d08edeb0eb10065ed11a18ae9c5  ./changelog/tags/announcement.md
 bf824e9aa531596d963fc696e244f8b0f3ebe16b62098c4101c8bac95b45163c  ./changelog/tags/beta.md
 4d734a0deb069ea88b2ab38074771ec793f7e604650492b14ce8cc59cb7a30ad  ./changelog/tags/block-kit.md
 2df18d42041bd0d3b3b41c906ffeac2b38ceef8222e0dffeccdfe77d9465baa7  ./changelog/tags/bolt-js.md
@@ -316,9 +318,9 @@ c18d6d405e7b98fd5168c660a9feee7b6c0b12b229d3dcba99f8fd7ad616f91a  ./changelog/ta
 dbdc5ca6d1d857cdda00b2da51f18c9e6000685f64fe6c3f6b61b98967a96649  ./changelog/tags/deno-slack-api.md
 98b22bb8fc2953d9901bff5bd4626a919dc231b314641764eb214e12571fe331  ./changelog/tags/deno-slack-sdk.md
 2043051c680dd7a4bf089edf23a761778817356a33d0f5c218465e87197ebdc9  ./changelog/tags/deprecation.md
-4a466d302966144f7ef8fac2c4899c164bcdff6ecb1991cf08a8e29aff1e98c4  ./changelog/tags/index.md
+c9439fe280e7d0e09373cc5801de70a773f618c998e2696d17f2a83b2ac3c608  ./changelog/tags/index.md
 48ab53c13ca1e3e7f474063ece85e8197d2686916ade28b5f0ad32587cab681f  ./changelog/tags/java-slack-sdk.md
-4047b6c466bed611fdc4cd8d4889c5c8b0680593c3a0537e72068d6240f3ef8a  ./changelog/tags/new-feature.md
+790c7805d464282009b9e7abfd76cd3cf0ac1b029b84ad08a3d796a5edff9c53  ./changelog/tags/new-feature.md
 2150d670d06442f044599e262c7e24316044d0ff90e14ed65e604f52d29a5afc  ./changelog/tags/node-slack-sdk.md
 cbc82d3dd13ba9432aba7f762f38c9d31a1fcce62f2eaab6d7ae8eef8fc4b122  ./changelog/tags/python-slack-sdk.md
 f057423a4df06ec49c4f8ceaac6be9d848e8fc5d847af473ce732c3023303865  ./changelog/tags/release.md
@@ -328,7 +330,7 @@ ca301c785865a3abdf2dc76d206950433f70d2fad737851bf40061f2a2ee2f93  ./concepts/age
 6b04da4e7fdb5daf0c5382513a19a8010e7fcba16e2d6480d352a72a727c84cd  ./concepts/app-design.md
 33c00796633c5f1079b6f1b798ce01f78b687dc694d650dc30930f8a405b26c3  ./concepts/choosing-the-right-surface.md
 f95cf9a765cd31609a507c0847c6344cca85aaa610580a9220d61d419ed2867c  ./concepts/designing-with-block-kit.md
-1c25354a28f6683f04299094b30488113b09be0d384a2288ad69d2ea854da578  ./concepts/overview.md
+90c75aa55a61d7ce6d9e1a2b586306282af3ad4538e77b20b4284d5e3de07aab  ./concepts/overview.md
 4585d5106eb599dde4e6bc81a068f1d9abf02c702148ad7d51eb45a3300b63c7  ./concepts/security.md
 37804ba99a3da3e1b45bb4434358bd8894d36474c51b3ce4e4358b0ab8ab2cbc  ./developer-policy.md
 736ff9ddaaa7d5b3616724b8d839ab26205929fb19539ea611fb9958d05a4c73  ./developer-support.md
@@ -715,6 +717,10 @@ ba8ce8092d513ce1b8aac1cf7cc26f962936d47f49c533551b47a4b9fe7c5414  ./reference/me
 7a985eb470e07c760df64de3b75aa3ef9e0ea5d263c59af708124a503d06a3b7  ./reference/methods/admin.roles.addassignments.md
 16d1846680d9aee6f6e8fff3855d002e0c84cfd308aa192a565165fd13b0a943  ./reference/methods/admin.roles.listassignments.md
 7e7e07370720c53e13152edb20ba95446d8131b14618f1d893e3420b9b53e619  ./reference/methods/admin.roles.removeassignments.md
+e0f9ea75e0492d16af3d51b190629e4d795f7b542a6c9557ef3c6a1c7bfddc6d  ./reference/methods/admin.slackbot.skills.list.md
+caa158cf6c3de9a75eff09c01e927f036d02461baaa0fae8b72232da2e22c5b0  ./reference/methods/admin.slackbot.skills.publish.md
+fa0c2c59fd81378e219554005a9002b0d504bddc8b3072b0c58ea8d203e37044  ./reference/methods/admin.slackbot.skills.setautoenabled.md
+120cc3714421a8f06e150bf0cfafa1e254b961f127ff3f8f0eb7169f6210c994  ./reference/methods/admin.slackbot.skills.unpublish.md
 cfc8e7a1fd18c324d6a2beb6b3bd6e2e41c74129046ac614695ecb713c312da4  ./reference/methods/admin.teams.admins.list.md
 72c832d597b050eb29b331dcd14c84b88671fb1551e435f1a4ef963e5c321418  ./reference/methods/admin.teams.create.md
 fe97caa71b56deee9397852db21b928fe5e065df4f4a936c5e93ee18fe7823dd  ./reference/methods/admin.teams.list.md
@@ -899,7 +905,7 @@ e547172d2149c6830550dc861f964359df15c3dea6159f54ba22410b2a0849fe  ./reference/me
 db7d6b6f91346d9b142cb3306941a86d70ba3a9b0de7bd37b05eb41c48700379  ./reference/methods/functions.distributions.permissions.set.md
 378a2c924f60e96c70d8f5f4a5127991aa8fb74320cfc1e22449859a120fc9b5  ./reference/methods/functions.workflows.steps.list.md
 832730c3f0291834522c2abc5f3282abf7027605c79c02c092b51ad5c63e1aa0  ./reference/methods/functions.workflows.steps.responses.export.md
-748157c493feb6cf90b7ece2b8ee6bdaf9ed2577bd136a49c216ac6959f497e2  ./reference/methods/index.md
+e47c7b1ab2c9cb1e7f51982b5268549fd3b1e2d4bb23fef29348b047bf8add6a  ./reference/methods/index.md
 c5046c5ba4ec7c66695056f8cda9aea221288fe2fd550236d5da8827c1cb8c76  ./reference/methods/migration.exchange.md
 d49f9f64d2835f83b58f3e52c5a1f720d23a55e3825d1fbb5f078dab0012e6da  ./reference/methods/oauth.access.md
 2401c4a7910c17af392997bb398c1a5d7f6111c8f4a51ffa06fc4cee8c4e2a23  ./reference/methods/oauth.v2.access.md
@@ -926,6 +932,13 @@ dcd0cedb140dbddfbcc5a99471536d097c3dc85141db97ed0249c38cca8262a8  ./reference/me
 dbefe66ace008b6559e0c6bb1b08125458ae8e0145cc4b61e5ed9a113d0d2eb1  ./reference/methods/search.all.md
 9db147f01a062dad55f8602be1683b763c204a0c4a20c5c21cc3f065773f11cd  ./reference/methods/search.files.md
 0a7edbf25f8a6fee80ffad87d87dd8dcecc98480eff70d96de8c594e1ebcef1d  ./reference/methods/search.messages.md
+0e83c915468ce1808539d71ee1b680b75e6fae02d618af1f8dc7a0c07c856555  ./reference/methods/slackbot.skills.create.md
+46657a8e786bf3bf668421ab9303608da05d6d9c4d7b3b0c075175e4528832e2  ./reference/methods/slackbot.skills.delete.md
+f24406d418fe355cc4acbaee7568c9a1038d9487e4c2f39ee1ded645b52f6c49  ./reference/methods/slackbot.skills.info.md
+9db6b3812565016592cabc01be867f66d42bbdb7641b3f67eb054db62bbb9a76  ./reference/methods/slackbot.skills.library.add.md
+1e4b241f9fbf67b039a3008c5804f3e4d75e1eb12560a4e5ff52c3f687293296  ./reference/methods/slackbot.skills.library.remove.md
+194baf4ae78589145fbf6fc781e0462b355581ad4d023241964152205454d4c2  ./reference/methods/slackbot.skills.list.md
+4053c9f4bbbdcfd9bd07d4365808af6506dd7f13632e9002606e3134b0337224  ./reference/methods/slackbot.skills.update.md
 7156e38a3edbd0349b4b6b9f644179b2e47977e968cac792c5f5558ef17f16ae  ./reference/methods/slacklists.access.delete.md
 c7e38a8d5c8b354e65da1ec1efe61a889663cb5a85f2812709c3824688cc9e8f  ./reference/methods/slacklists.access.set.md
 b407c4c423b7845664e0aee06acdbbcf5c263425684de0d6f45fa14884d5f2fa  ./reference/methods/slacklists.create.md
@@ -1012,6 +1025,8 @@ e7b8d5edf0e82a5768e693e65ef7cf5473895a897226fa222d295518b510eb90  ./reference/sc
 0c6798d678e0046ab9862e093625b1174455bdb7b8f200ea45bc2ce0d7a95675  ./reference/scopes/admin.md
 a34c290e65905fccece59cd8256d784d86bcef190d1479140bb150114544cd0b  ./reference/scopes/admin.roles.read.md
 511296f74e2997702300888bf10827a2f6701c7d2ac3b5b4166bc4b9335ab19a  ./reference/scopes/admin.roles.write.md
+33e880802fe5bf2048772399ffc03f0998d7c3403f184c5cef5d4c7ae8d861c1  ./reference/scopes/admin.skills.read.md
+cd59a254f521dedd7bb6503e2014e4747c3a0e0397162477f628c4113fd170ae  ./reference/scopes/admin.skills.write.md
 6463e4bdf781d11276e1918e95f9767b0fd99921f420039ed2270831295ac88d  ./reference/scopes/admin.teams.read.md
 90c640ab978974c21b8acd2f107e6be34758bf6de4dcbeb3eca1a2c5ca1f34e1  ./reference/scopes/admin.teams.write.md
 5cef55d5832981cccda709ad98ca4b6fc80a06b36d4f0289e192d15eb3adec3d  ./reference/scopes/admin.usergroups.read.md
@@ -1070,7 +1085,7 @@ f4eef32f9d0e9ef8ce4b6f1b3cc84a2b74648044e2ad38b4bfabb51df3996996  ./reference/sc
 e83a2a638e35ddb09022bd522e0f54a5967aaf16ddbadcfe125127bb3a10dc43  ./reference/scopes/im.write.md
 c6eeca02b2567bc6dbf48c36d98c5ac02518dbc0e8c09302e3f950462d08f633  ./reference/scopes/im.write.topic.md
 05dd1e2a99bdc54a7bc1d67588fe8a0a210871a21246a31e3304923355e14dc1  ./reference/scopes/incoming-webhook.md
-8786f882e9dde5c915964444a0d60813385dd9a01582cb43d9ceb95ccbe8463a  ./reference/scopes/index.md
+53fa5cca36c8b53ee5219ba42ea068802f600e4c6f1aa0abc3080f799351009a  ./reference/scopes/index.md
 d5fae91674af94a3b8456276681db8f2308e11ce42bc1f5b1c6d4173bb3bdf22  ./reference/scopes/links.embed.write.md
 e1155ff05284c897a41684b99b6d9729cc36506dfafb77864e054f5b41819fd6  ./reference/scopes/links.read.md
 58a81fedcbf6c34e701eb4e30ab9c33aa1a5c59e159bd81d0b2b0fe1ece45097  ./reference/scopes/links.write.md
@@ -1102,6 +1117,8 @@ ab3b6a67f42c419f8a1c41c9a90f27b53bbf835b67e8d57776f9175d8a56303f  ./reference/sc
 322d7968dcf7ab95e88d465ad2518a033aba626ad5d7fc52433228a752a5e8b0  ./reference/scopes/search.read.private.md
 b823828e7f5dafc35ecdcb6e01683efb5a7ef67bc45bf02cba7930fdbaca8526  ./reference/scopes/search.read.public.md
 47c0d951ff6db0b95f739eb8c3119a96f730f3062b05cd6caf2d64f9fad4ea08  ./reference/scopes/search.read.users.md
+bf9143d6040751ad7515b8bdeb8d82900dc8a4d00a443bd724d823667c4edb52  ./reference/scopes/skills.read.md
+d6116c0af8b9762d9cb68d5488d669873c4f4aba531fe23a82bb69e230f2b6c0  ./reference/scopes/skills.write.md
 63895e3b1bc00b200b941722cef45834dd92bf067acf23a4a9d1e28c28f7874e  ./reference/scopes/stars.read.md
 e9e7901f7201f55ccb02d8003b4ad28b206e04aa0fb4a0db13fa27d9102aa873  ./reference/scopes/stars.write.md
 581bb4d35d92f4bda8e56ddb0ede41aebe70790dad32a99ff729b265db3673e6  ./reference/scopes/team.billing.read.md
@@ -1446,7 +1463,7 @@ fd6b55186c05b5adb7d931d10bc29db40ee287a1b6527f3d7d7e0ff1c67030cf  ./tools/bolt-j
 a7202a503bd5b4eb9df4b521fb04176799971845bc622a6012a8578a4b0e81e8  ./tools/bolt-js/tutorials/code-assistant.md
 5efb96f0f5ac03ff139af4cd97c6eac1daecea4814cca0e40b167d990cfdddfb  ./tools/bolt-js/tutorials/custom-steps-workflow-builder-existing.md
 0862d135d922af44646640b142a02a05932dcc9ff08fe962d9f37e813f6908a0  ./tools/bolt-js/tutorials/custom-steps-workflow-builder-new.md
-72595d9be6dd484b243951a5f6a9292274214fee4953585978e88e6427e11f30  ./tools/bolt-js/tutorials/custom-steps.md
+8b421737f24ab45d9ffb92797f051e87d0c7e733630f3a501c258bc1d6bc48de  ./tools/bolt-js/tutorials/custom-steps.md
 4ceccab8bc7e21093094ee2902b3201be5ad6262f63e18f0d4c1fd8f221987c1  ./tools/bolt-js/tutorials/random-fact-generator.md
 d76b9468380b1518218bfd256cc23a4a88f1d34ea589975b1a5779133d0059cd  ./tools/bolt-python/concepts/acknowledge.md
 98d02b54c0e1697c0528b5b26ebf9c3ea1cb87df135950495027e1da5ccda432  ./tools/bolt-python/concepts/actions.md
