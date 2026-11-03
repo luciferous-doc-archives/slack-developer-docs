@@ -8,7 +8,7 @@ bc4eba4a6f10f020dde3c112ce1d30b8af3df5bc793218cb7f4655d8325153a5  ./admins/manag
 192132af699cdd08a40115c6ed6d5a2f649d728d7f1d702ed7b1f32159afb22c  ./admins/managing-invite-requests.md
 815a1e82748f3daf0dd8c5de866851f1a6ce1e413b2982712d33b9dcfa692afd  ./admins/managing-users.md
 590ab15f464373f00fc63be2361b4065a750b7690fce28dac62dadf21fb204c3  ./admins/scim-api.md
-3c7522b27ff65258199fd9db9a4a3300c0842d52885cea6e582deed431abfd61  ./agent-setup/prompt.md
+00b3ba2a1b93b6f8d4d3bed80421a4e111df115cc119d4d04e0537830cb77914  ./agent-setup/prompt.md
 7093b71146f102be48c0081653fdb9f3d30a6065abc61772b2b8b09500c0e69b  ./ai/agent-context-management.md
 6afb973b5d601527529841be086f0a02fab5e682bd0a9c9188052cf6631ed541  ./ai/agent-governance.md
 69686fcb30c6992ef9a3d524e97a0fd1daa8c08cabb510399500f9d7e3157480  ./ai/agent-quickstart.md
@@ -310,8 +310,9 @@ a8fbd9e8433a4eb28c5122c6eff877900707ae9c898bbec458ebc6aaa6a90562  ./changelog/20
 c5be0943b5c016c2d906ceb93f6c5f987feed0d3980717cb0a8e5fb9ecfd5c37  ./changelog/2026/10/28/slackbot-skills-api.md
 18eef49d5eae036d9fd4bc14bbe7ac6c044aa36e575c419560eebca8debfb05f  ./changelog/2026/10/29/block-kit-layout-block.md
 246b1a65cb11d69294dafc6ce4573c707554ae831ed0113c5e3ca28e81b787c6  ./changelog/2026/10/30/slack-cli.md
-f39f9bec11ea3a919b762be1f64d36895817fbc85d0e97bc0f96b68d9b685e70  ./changelog/index.md
-6d817520c8bab6a34f5e907e34961ba8d87a355734e5e3e6417a4113e87c3d28  ./changelog/tags/announcement.md
+8fa3821db689dc80b9d27a6fe75863a1fa04ab349f401712ff1d762006834dfb  ./changelog/2026/11/02/slack-marketplace-submission-criteria.md
+9ed9171f82def0bec6e72866cedb821177929af51fe55b8b834dcc6913b49b22  ./changelog/index.md
+a181c048952464e6a0e2a55bcdde8692fb2ffe030d440d669e0545bbc9d58a03  ./changelog/tags/announcement.md
 bf824e9aa531596d963fc696e244f8b0f3ebe16b62098c4101c8bac95b45163c  ./changelog/tags/beta.md
 fbf069e83a067622abfb93b2008b16904fe30d89967705204632928f9b8b771c  ./changelog/tags/block-kit.md
 2df18d42041bd0d3b3b41c906ffeac2b38ceef8222e0dffeccdfe77d9465baa7  ./changelog/tags/bolt-js.md
@@ -320,7 +321,7 @@ c18d6d405e7b98fd5168c660a9feee7b6c0b12b229d3dcba99f8fd7ad616f91a  ./changelog/ta
 dbdc5ca6d1d857cdda00b2da51f18c9e6000685f64fe6c3f6b61b98967a96649  ./changelog/tags/deno-slack-api.md
 98b22bb8fc2953d9901bff5bd4626a919dc231b314641764eb214e12571fe331  ./changelog/tags/deno-slack-sdk.md
 2043051c680dd7a4bf089edf23a761778817356a33d0f5c218465e87197ebdc9  ./changelog/tags/deprecation.md
-c9439fe280e7d0e09373cc5801de70a773f618c998e2696d17f2a83b2ac3c608  ./changelog/tags/index.md
+4389708ddb7707a237d1c2cf5d487f5cc33ae79958ae85ba9756c7bbe1a9d6f4  ./changelog/tags/index.md
 48ab53c13ca1e3e7f474063ece85e8197d2686916ade28b5f0ad32587cab681f  ./changelog/tags/java-slack-sdk.md
 2780fb0ac9bddff9810ec29acce9302fe6cf6e495421462cc852126265e36015  ./changelog/tags/new-feature.md
 2150d670d06442f044599e262c7e24316044d0ff90e14ed65e604f52d29a5afc  ./changelog/tags/node-slack-sdk.md
@@ -397,7 +398,7 @@ a6729829dc5a291d7013c847fa218f5fc1fd2b27fa985eeeb029ba666bec8854  ./messaging/wo
 9c7620e33121abaedaa4cc0d3e41659547c25cf1b783572f3690f98811c99ab6  ./messaging/working-with-files.md
 cb5ee4725e31dcef34d32c45b58ee6a34441c31eded333c89b67fd5f1b64bbea  ./other-ai-integrations.md
 66830aafb3846d82fa08b5ffea23891c7c5dc3f7d3791af49d7b1840bb682bf7  ./quickstart.md
-0a25c3e89f4ebb16441f2b91b90aaf1aaca74c87bc01e6f7b3f6d3364539dcf8  ./reference/app-manifest.md
+ce2c4ae2ad9fa6af97cc5c3c4c4e29a803daa5d060fbebd99c2a18a8d0d0b52c  ./reference/app-manifest.md
 b5d91ffc42e21bbf169abcc745ba0b87d91bb5d4c7c92e3d7ebdc70efe20fe4b  ./reference/audit-logs-api/anomalous-events-reference.md
 33b26e85bfd0418693b08fbd0ff4cdfab37e5c1a6fd67fdb9b5abae8369f9a07  ./reference/audit-logs-api/index.md
 f229178119f1f3f6b70f83845197397cc16c412e35154d96c715dde3400c6145  ./reference/audit-logs-api/methods-actions-reference.md
@@ -698,7 +699,7 @@ e1c9350af5ef7b9014b37be561b45f4d0abca5cbc1891bee80085cba6a4abbeb  ./reference/me
 a4fdbf8a9a42e905f3291863c2c147401358b99e2f9061cbad1836b2512b55fa  ./reference/methods/admin.conversations.restrictaccess.addgroup.md
 a80edee23d8ac496eec3fd7e41623b514f23af7a1e88971d789a77de4018a9b1  ./reference/methods/admin.conversations.restrictaccess.listgroups.md
 8ebc45616ca247d450b083e8cd3a04092c62f8367f1c78ea79bc5622cd538dd8  ./reference/methods/admin.conversations.restrictaccess.removegroup.md
-40c6b30a253e3775486fe7a33bbd3369913876eeba980abcdaf6eaaff405edab  ./reference/methods/admin.conversations.search.md
+f7df05ca4987b2b74be0af0ddedadf2450cb473ce48e7d0e7ffbf34a7e3d2171  ./reference/methods/admin.conversations.search.md
 0f308bb4c390f28d304299d1140e8e7164c2c7475afb78f847e711e2aefe7978  ./reference/methods/admin.conversations.setconversationprefs.md
 b83c285a652e52832e19e0454fc947ad972f3e6a95bd82cb5024357d45ad0f27  ./reference/methods/admin.conversations.setcustomretention.md
 b7b41655a672205a842ba17e9a8a7821915dfb853b135ecf39834ef124bc8b75  ./reference/methods/admin.conversations.setteams.md
@@ -840,7 +841,7 @@ f0995b888d9fd0ad03c90e872797e8f9e0fa72c2abc6d4fdcdf79626fa1c4a4b  ./reference/me
 aef123a69089444f883cc37ff6be11440262ddd437010cd17694aafcde522b93  ./reference/methods/chat.getpermalink.md
 a2da51051f68f106cb18be47b667400d7b519bd8a7fb34fa71320ca99ce2a9ad  ./reference/methods/chat.memessage.md
 40dace1b55aee0af39c019dbccb6f3807bf7d3d3ca8c59fa4184b4f91e60f416  ./reference/methods/chat.postephemeral.md
-2a2625773c8d734d453f750150cd56f4bdc16e88568b7c4693263face16534bf  ./reference/methods/chat.postmessage.md
+4bd8b1d37672ad4a1be0f91eb29093782e0e18743c444ed97ad5e4afb511ce3e  ./reference/methods/chat.postmessage.md
 3899d5570d5f9286e1c4da590be7252540f6f6489a23399b13461b08660d9511  ./reference/methods/chat.scheduledmessages.list.md
 73e69eaa915b06915f8301999860cc80d57efc31df3b3668e40cff8fe649a1bf  ./reference/methods/chat.schedulemessage.md
 400b2ebca0fbb81a4628910f5dbfa808adf59d98c2d1eca149cfe005c4f2ec81  ./reference/methods/chat.startstream.md
@@ -1176,8 +1177,8 @@ dfbafd2dddbd1cc8706773f718d07ae13dd0f0fc2793d1b0b66d2fd1a3b87fd4  ./reference/vi
 c54bead1801254364925f424f32a5815a61b1645355a579a351f1497bf119265  ./slack-marketplace/marketplace-terms-conditions/index.md
 e04ad37202e6a8b28a55bd40df99f9082e3a32dca425ff45b1152795b40b8e15  ./slack-marketplace/marketplace-terms-conditions/slack-marketplace-agreement.md
 331671b74c90a028b3403a7f5c24fc0d827c0f8f5d67870fa1aebb1282ce8af6  ./slack-marketplace/marketplace-terms-conditions/slack-security-review.md
-819391b27572773b194e8b2dfbe555bbc19d0c75f3148411404439d5e37731c4  ./slack-marketplace/slack-marketplace-app-guidelines-and-requirements.md
-a1a7dd15354387d634ef0f6ffaa7e68b751d3c4641f58418ba4d2783ef86c624  ./slack-marketplace/slack-marketplace-review-guide.md
+6f2e653d11ed33228a7f04ea7ea7452002a461b21cc6105d5870027ebcf8ef31  ./slack-marketplace/slack-marketplace-app-guidelines-and-requirements.md
+b07bb6d8b67b4ac15de88e75d1f60eba0b051367cea407b03210f2efcdcfd571  ./slack-marketplace/slack-marketplace-review-guide.md
 a783b3561f775b268c4be5921433b4b84d0bed1a46f10543879b7c183a384d6d  ./surfaces/app-home.md
 c93c5fe67695c7fa64f1e75fb51981d13e944c49567d5fbbc32629cf256f2eae  ./surfaces/canvases.md
 91c0516cd8ad401d0bb99093a864483a334e178093d1dcf189f4c45bc327b7ed  ./surfaces/index.md
