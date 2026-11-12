@@ -17,7 +17,7 @@ ffde99b138b9250b0739edf4eabe73a0173bb54d7169d8b9cb6b852d1683dffd  ./ai/agent-qui
 3c70895db49025945f15f23a387c0f31a78ece855ba68b2d9f8da72f92d467b7  ./ai/ai-integrations.md
 76289c214181f1ea0a6cfb858bd859e2c9c4a2dcaee7a097e34a3eac144e78ae  ./ai/build-with-ai.md
 f9fc982ce73221f878f92c30fba3df84bb533ce9b4a7d95f350edd19a2cad161  ./ai/customizing-agentforce-agents-with-custom-slack-actions.md
-9939eae2ce37c6abe738bf3253cf392f28cc9dc1cfe85fbcd81607d2ecb8fef9  ./ai/developing-agents.md
+bda8cae6863ec8a4fb4e62e85d97addb9f398f5a323178d47ee80fc883bf1d77  ./ai/developing-agents.md
 3c5f6c2475cb63880def915753daf4159fe6c9e2a1fc1a9672cb1c3a9524eba4  ./ai/index.md
 15644f2747a44964b8b03f4abf81a25ffec686a009e4d729cd1c22ef9de62f8f  ./ai/mcp-overview.md
 4ee131967c9978796b1d0036f91a10453bf7655ff9e8ba51a02f2e9c216d979a  ./ai/migrating-to-agent-messaging.md
@@ -53,7 +53,7 @@ bb9ef445c757415860a7acc4f6092a65a347fc036cd13f12b2c106bf133bbbc7  ./apis/slack-c
 e1d3dd2008ffc4e02b6ac7562b418ec20ce6a705eb565997db197035b55d2acd  ./apis/web-api/rate-limits.md
 ce4be7e8bbeaa01b0abaffc7c310ecf07fc0df9d034ebf6fe565de39d117d1df  ./apis/web-api/real-time-search-api.md
 ea8386a7032573524deb2a2b891e8fad491e0e9748461055812b55c841236857  ./apis/web-api/user-presence-and-status.md
-8318666bc20e29c6ab5458b0e97fd823575a85d15723aa1b481376e8e5c28d00  ./apis/web-api/using-the-calls-api.md
+48ffdbd6394692b141296e3826b6f15b51881de58fdf769a17b4a8214ea61d81  ./apis/web-api/using-the-calls-api.md
 3db194478dbc70c3a38fd2a83b289e50ecc54156666ac782a94f70d0a3e709ed  ./apis/web-api/using-the-conversations-api.md
 290130792e4b77812713d2fd5cbae580b8d7b07cc6c348612db01992e4a82c75  ./apis/web-api/using-web-api-with-postman.md
 6d01e0c70751bce244ddc7e34e3e9a08b1f630a4dcf9c88ba181c0e430c16974  ./app-management/distribution.md
@@ -411,10 +411,10 @@ be62f3915d8ab49478af285c6a53812a090b71a7ca49ba2e2f84d6feea02feec  ./reference/bl
 f69c0ad36ce3bdef1222ba4b213d7420fa93adcb68fbf180a1ef3e1992440c01  ./reference/block-kit/block-elements/broadcast-element.md
 69f2712057d5df4324179f56cadc030a91f1421f82cb1a61d5e587ea0ddac744  ./reference/block-kit/block-elements/button-element.md
 d38ebd5f83fad5ae586c314c8ca39be0c01779d1c4aade0c7c409c88814ea9e8  ./reference/block-kit/block-elements/canvas-element.md
-799382a0200e999149280de53413e36f629cee063df7b97dfac4085b9a5ccf17  ./reference/block-kit/block-elements/canvas-message-unfurl-element.md
+888997281a330ad9e9a0bb8272edc69f3cc57c43d6a10f6997e578ae9a043f62  ./reference/block-kit/block-elements/canvas-message-unfurl-element.md
 b29c6976ad88a6c1270270a61a4725e5d3f357070d65451476b04616aa6b56f6  ./reference/block-kit/block-elements/canvas-user-mention-element.md
 234739e3f8e68b237302ca9d01f996a2c0479d4150e6e6eb5ce255dc1107924a  ./reference/block-kit/block-elements/channel-element.md
-efda09a650afc9be1c5ded5826ab60dd27693dca89fd1317a16b5f38dac446dd  ./reference/block-kit/block-elements/checkboxes-element.md
+fe74069568bd68e45e1d634b9a8fc6445e2968594928fe29227d4b4dc8aab448  ./reference/block-kit/block-elements/checkboxes-element.md
 2462efd928442198bc608a318168e462959dc68cc1d435838498c55e7d430783  ./reference/block-kit/block-elements/citation-element.md
 088bab7a4debdbff1141f339eb78535f0f4a770e6286a00dc922270e3a2a770d  ./reference/block-kit/block-elements/color-element.md
 204c38e9577e663690ea1b18829b89bc815e8b4e9410112fba2813557a1e9d49  ./reference/block-kit/block-elements/date-element.md
@@ -462,7 +462,7 @@ db3196ecab0c7a44fd02d228d2e3786ac22207e91bbf09e62ce9d77f6fa47b69  ./reference/bl
 cb69039cdd465ac8624811186347909c3fe299e30bef022964121cc1d5c8777d  ./reference/block-kit/blocks/context-actions-block.md
 1780d999045e1668bf924434d70e6e0de4add4c3500f9f474278546a625e3ba2  ./reference/block-kit/blocks/context-block.md
 46e994c31600066a01747b00e387a3a878c35e2cbe1eb3051ca7f2fd35feae4d  ./reference/block-kit/blocks/data-table-block.md
-0c08da33f4553a2b58fba0822b68682675aaecab5b205aaec0762bccc5625f73  ./reference/block-kit/blocks/data-visualization-block.md
+da93a2f7fcfcacfcb2dc9a5b1adc2caf30c75f1653357d02ec8523660bf2a67b  ./reference/block-kit/blocks/data-visualization-block.md
 e2cd6c55e9b0f8f3e97ad14fafaa5fe81a57fb2499cdd76f03a5b65f3d783fb5  ./reference/block-kit/blocks/divider-block.md
 9fa8b4007fce04e564026c256774b8bf45748e49fb543fbae6bcb04e29daf5b6  ./reference/block-kit/blocks/file-block.md
 a2d6c6bdeed511f007bb4265264fc879cbe48b22ea34b32840b75c050929df8d  ./reference/block-kit/blocks/header-block.md
@@ -566,7 +566,7 @@ ad2474ba2664d4c70dfc0d86ff1ff4d1102edb670dfca077c3c6ef11c4244c4e  ./reference/ev
 5ceadeb90d224fe0c818b731cdb21940f17417e479bf45a2c51c8fafde0f182e  ./reference/events/message.im.md
 54d43c7b3bdda2cb74e8e87d30394104510c6e28a458d26803b0bbb7b2b18c51  ./reference/events/message.mpim.md
 f0db09276568435f3155dbe0c70187faa0f36a243e287c5f5bf7a695cb6e67de  ./reference/events/message.session.md
-7cc89fa2ae92eabae37aafa89320a23f858ef194ea5804300167667dae3b279c  ./reference/events/message/assistant_app_thread.md
+3cdd48db4e1c25a2267c2d3af4c2a9585737a79563cc2acdee00ce72e7292519  ./reference/events/message/assistant_app_thread.md
 aeb66cf06a3ed91aad4163ba3960fad2467c88f2dfa03bde9a3c0f5055db4841  ./reference/events/message/bot_message.md
 293dd56263a03f1d190061875ded7ed501e6eeed90f8506ced2fa50721699e87  ./reference/events/message/channel_archive.md
 9b2054004f3a2836d5b3a54ae77597125f4fc3e407cca0e2ebdf5a6b16863e46  ./reference/events/message/channel_convert_to_private.md
@@ -578,7 +578,7 @@ aeb66cf06a3ed91aad4163ba3960fad2467c88f2dfa03bde9a3c0f5055db4841  ./reference/ev
 ec39b4c8eae4b5e5246831bafbbc5ffd1bb8beb756ca7f149bec1b5ad6e634f5  ./reference/events/message/channel_purpose.md
 5438b3893b609c4bf25998a3ebdbaa6257f46cb254542e4e2383218c9e2fb137  ./reference/events/message/channel_topic.md
 1e87db2fee7de4e2d00b425a5ea5a5770deeca89cf4476becdf49ab3b4af470e  ./reference/events/message/channel_unarchive.md
-9e93dc2d0283b90d9545f5b21b3d529e34399456dde8c149ef9580dd7607d56c  ./reference/events/message/document_mention.md
+b664fe41a10ff2ccc34e8d09d95c0768f1b4bad2f69b3a4da701f275359beae4  ./reference/events/message/document_mention.md
 1dcb6c5d36795f39c1bb259c218d9d00ef7739f80ca5a24281ab4e42aff9dfda  ./reference/events/message/ekm_access_denied.md
 2e02cb3f37c4498727d558b8e31ff79b9315604f253d546962cab9a4021b7baf  ./reference/events/message/file_comment.md
 22a9e50ecdf4ea99be660289d953514521138b3b876b88e212639aa6eabab65f  ./reference/events/message/file_mention.md
@@ -1019,7 +1019,7 @@ da91c43ff90d8177f982945f86495af9597bf1e81d183ad6656a074455a01779  ./reference/ob
 70c63388e241f15cd1dc71a3c3c6c7222590eab67e0d1458fb0afafba0e5abca  ./reference/objects/mpim-object.md
 7a80efbeb357e51b030b8868aea786f5236758b8f98096630920b54bdcd63b44  ./reference/objects/user-object.md
 ca35c287651980ff75302cb083bb5207e0a2e6d7ddfca1935dfa628b6a8e290d  ./reference/objects/usergroup-object.md
-438c1999db65e5bdb0eda450344d3a57ad3882804807ef37db55d73823ebd930  ./reference/scim-api/index.md
+101dad421861d9748a79a8e1c691c1ffd47d228c49f0f9d2f0e409082d8fe4f1  ./reference/scim-api/index.md
 ee4a28b7de863664a926a624337e3531e969ef7468c5d2081f9f0852395afaa6  ./reference/scim-api/rate-limits.md
 96e4b4c9fe5cf2206523bfed6ac8b7fbc276bc2210e7a9580c95943d701c44c2  ./reference/scim-api/scim-api.md
 c227e30da9fcf8a518f9a3e38011735ff9fb3fc5c698879b9c310c93e74acf52  ./reference/scopes/admin.analytics.read.md
@@ -1152,7 +1152,7 @@ c50ad973e92d50cec31486caff35e63769a1f4062825888c97e8af6a8a8de759  ./reference/sc
 86a2d7277e421b14e9fa92a3b2007a4d9fb3d8e94f96000423f4fc069e30f43c  ./reference/slack-connect-api-reference.md
 4bb19052c8bf23807c27920ec9e472fa4f65e4a93a67f9ab4f1a154d9e520604  ./reference/slack-status-api.md
 4c1b98fe621d83868e911a7f7003aea3cb270cc752a36b934605e8a58d194ac1  ./reference/types/array-type.md
-0ddbf13e57a87f54798af639f666e8525d1293271988c3972cfae752c33c6d59  ./reference/types/blocks-type.md
+8e3aa21ef15e0cf706a774804349ac1d7b3d64c940954c0cbfd865e1f9cb8a67  ./reference/types/blocks-type.md
 e88760297c03812e60be0b708410cce93b12f8b9d86e721b806ca321a2ce70b5  ./reference/types/boolean-type.md
 0036d23deaebd46175184f803e0e61aea97c09680292adfa69175f3f103e5ec9  ./reference/types/canvas_id-type.md
 8b30313703a367731659511fe3bfe6ef7e2df5eea92aa28a6db7af954e6796cf  ./reference/types/canvas_template_id-type.md
@@ -1186,13 +1186,13 @@ dfbafd2dddbd1cc8706773f718d07ae13dd0f0fc2793d1b0b66d2fd1a3b87fd4  ./reference/vi
 c54bead1801254364925f424f32a5815a61b1645355a579a351f1497bf119265  ./slack-marketplace/marketplace-terms-conditions/index.md
 e04ad37202e6a8b28a55bd40df99f9082e3a32dca425ff45b1152795b40b8e15  ./slack-marketplace/marketplace-terms-conditions/slack-marketplace-agreement.md
 331671b74c90a028b3403a7f5c24fc0d827c0f8f5d67870fa1aebb1282ce8af6  ./slack-marketplace/marketplace-terms-conditions/slack-security-review.md
-1b30db95df6ceaf0a3fc34ac58e201d3ad949f693f5118d982712f868c62784c  ./slack-marketplace/slack-marketplace-app-guidelines-and-requirements.md
+a1c74f3291515ff4040d74969a2503d95f34435bce92aa1fa6ac7fb5270628b0  ./slack-marketplace/slack-marketplace-app-guidelines-and-requirements.md
 0a25c03a6f8f0f72e9c326908d71f16b98e158121fa850cf5c7e44a47ab2512a  ./slack-marketplace/slack-marketplace-review-guide.md
 3cc66bc362cafdf6422e6022910c55ae68fa7f514ee7f3ee8e7d6c93e7240708  ./surfaces/app-home.md
 70ad3144b1423bec4926bef191b1ea0ed4f8360a3da0c52a379e32e284513289  ./surfaces/canvases.md
 653d0a9164539f6ce6eb5ff7da27d36c269f52575219ac0f49db403579ba60fd  ./surfaces/index.md
 11c883b068dcb591f85bdada0a56527f54effea3fdf83ce7f89d621ca7ce19e3  ./surfaces/lists.md
-245c07a80d4fa217bd1a2db1501b26c53410467c494f8d84f7800148380a2467  ./surfaces/modals.md
+88a1ce20d7a342c6f9d2b1e047e1ea21f4004ee979aa29cc0b6935931d915be0  ./surfaces/modals.md
 8631c78ee94f9d0865b6db6b7042b1b41589928844904d04b8b7c5b83c8f23a4  ./surfaces/split-view.md
 c45e88b39c03cb64163254e1f9e8471f2a030b8ec488c23aa000eab1dfa3ec5c  ./tools/bolt-js/concepts/acknowledge.md
 a61763ebf34d9aab7a8256010210958007990cb7417f8ca7bf1f45a8811957d5  ./tools/bolt-js/concepts/actions.md
@@ -3344,8 +3344,9 @@ b0e5c9c50181ec73dfb5cf5afa8bc383538cdb755af2010b55579f70bd13eb75  ./tools/slack-
 bb3997495b7dfcca464ece9792935e7b732306de60848f5fe4414b5d46a78b12  ./tools/slack-cli/reference/commands/slack_datastore_update.md
 4fabe8c625cdd948ee1889b0c4ccbde53706b3c70daf52a2b156ea1cf40c3cb3  ./tools/slack-cli/reference/commands/slack_delete.md
 f9c2f7ef80eb3f150c951c234552eb05c257660fa73b1ba0ff7d775a485fcf84  ./tools/slack-cli/reference/commands/slack_deploy.md
-79091a30f61de62e13a012d3c8da74f31c9190324207ad5d00da543a4c4e01a3  ./tools/slack-cli/reference/commands/slack_docs.md
-055f8505afb5ab7956a5bf8e34517f7aa085c28a436baa2c418dc1bcd1c242f2  ./tools/slack-cli/reference/commands/slack_docs_search.md
+1533c57d9e2ac50b9dfb95454921da3a2b9ac0cc5f35a80ff6f047aa0faa36bb  ./tools/slack-cli/reference/commands/slack_docs.md
+64f69f43adf3458f7a0bb5732fa3faee54d1ac893d20530b5121a8a0dc1e1fd8  ./tools/slack-cli/reference/commands/slack_docs_get.md
+98f20354b1e743fcecad84eaa1696249fff1690ab10c9a3c081305c2e46ca40b  ./tools/slack-cli/reference/commands/slack_docs_search.md
 c5d6a5a25dcb39a863ff7fab3d20332a34ad4d1bfed17f2703a61a596e8d832e  ./tools/slack-cli/reference/commands/slack_doctor.md
 ef69367a23d1efa1324588ede87cc998a39796bbb5c01008d53192a922e8e759  ./tools/slack-cli/reference/commands/slack_env.md
 23898c02116ff15220bd4f6135e9c8804b79e3250837f89ce6bb841e29b1402e  ./tools/slack-cli/reference/commands/slack_env_init.md
@@ -3360,7 +3361,7 @@ cb5422a1b15b58e3dce3ab08d58fb7be4c3baed07fa80fd7aa962b8f1e26af59  ./tools/slack-
 4390ea7b2076d75084327f72b46e72e3e9c16d6baef01969184a66ce1ff05fba  ./tools/slack-cli/reference/commands/slack_feedback.md
 2528d038e263f58e6966db8b6f2fc19277aec3e95b0585bea770bd97f9fbfaa4  ./tools/slack-cli/reference/commands/slack_function.md
 3c334b7524253ccdea03507046590b92106b186f7b4605ffee3a5f8ad845f2db  ./tools/slack-cli/reference/commands/slack_function_access.md
-e47aa5ef68c27b5f2470fca064037d783a77ef509bf10809436b8c3015351361  ./tools/slack-cli/reference/commands/slack_init.md
+e1cd57747aba6497ae25050be024df0f1815059f0ebac54cbde9f5cf84c2acd1  ./tools/slack-cli/reference/commands/slack_init.md
 d0cf3cbd681f6a95cdbe08ea95d4dc9c7dbd18aa26cba4666c92e3b41f97903b  ./tools/slack-cli/reference/commands/slack_install.md
 6ad56cbaddcb45fc8c5f36c873c5fe68c2e18f6c11ec726d522530424103fde2  ./tools/slack-cli/reference/commands/slack_list.md
 5c7f19b3fb4ec0a227bcadf4095144f10ca6efa08bdae2e83d1100ce3ca6ce44  ./tools/slack-cli/reference/commands/slack_login.md
@@ -3376,7 +3377,7 @@ d292ae2cd27ef88e51fd2822c9ec0888f0b8b0640a481318317193d6b05e759a  ./tools/slack-
 602316ed1f990d2a5e2c8ef940826325980cae6ab79840245bc1edac22d86606  ./tools/slack-cli/reference/commands/slack_platform_run.md
 d9824496cadb253595ee905efb0de916f4be10e55cda8ae9ae162d2f4b497c67  ./tools/slack-cli/reference/commands/slack_project.md
 7e22527fec0aafd91452cb95dab1ece0320c9a703b5d816e97df19f913df66bb  ./tools/slack-cli/reference/commands/slack_project_create.md
-9dccd0cf2951edd476a660a4dd958c02b90937a1152528153d1530f441726a0a  ./tools/slack-cli/reference/commands/slack_project_init.md
+1e9fc8864062b788b5c0a9cbaf66e01b8160afd5de8b38f3efb1e2765d63bc37  ./tools/slack-cli/reference/commands/slack_project_init.md
 5eef293521be2a445c1aa930a64a60b212fbadb3aaeac2833e16025940376e2e  ./tools/slack-cli/reference/commands/slack_project_samples.md
 842b98f272d5b3536cc49ddd8423cc6f370803365910b39b0227ca57f7321946  ./tools/slack-cli/reference/commands/slack_run.md
 9f3f72676927c57023696e7b14a94e06f93ad40fc05c897de3ea817e62d3970b  ./tools/slack-cli/reference/commands/slack_samples.md
