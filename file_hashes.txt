@@ -30,7 +30,7 @@ ca85bb0a7f0c237cf0bc18fff30cef15c152c0e40259584c82759d67052aba00  ./ai/slack-cod
 1349b835dfc9d56a110302a98f69631a1373b01fe1fd02925eab5a2fc8f89b82  ./ai/slack-code/slack-code-out-of-the-box.md
 7c32c52dffaa9eb71d235cb0e47cbc733e443fe0717ece12887abd13c9b790a7  ./ai/slack-mcp-server/connect-to-claude.md
 07cd0bed14fd287cb4e82d2c221aef86a03797f13e76603381fdaf10aec48adc  ./ai/slack-mcp-server/connect-to-cursor.md
-602b99e39c0b5b380c8359d57a25af31a55cc8ef3bb19722526274a835fde8cc  ./ai/slack-mcp-server/connect-to-harnesses.md
+b7b5e6906b2e3c3ff90617129b4709cc18289a36e9688d54663f9d73f6d1623d  ./ai/slack-mcp-server/connect-to-harnesses.md
 4c205e6915d3e3b8a6412340eee3fffbf43dee597da1a174d6943ba3e691c915  ./ai/slack-mcp-server/developing.md
 f03f55c8519d8f41f77adf0418b11584163e9b5b0516b7573b9fd051d1b05d2b  ./ai/slack-mcp-server/index.md
 c5f209e2f979a042545b76ea3c82de717ee3bb1de1f9c755cf8225a9f884fea1  ./ai/slack-skills-plugin.md
@@ -314,9 +314,9 @@ c5be0943b5c016c2d906ceb93f6c5f987feed0d3980717cb0a8e5fb9ecfd5c37  ./changelog/20
 8fa3821db689dc80b9d27a6fe75863a1fa04ab349f401712ff1d762006834dfb  ./changelog/2026/11/02/slack-marketplace-submission-criteria.md
 ec0c639bf5f18db953d77f467297aa85772936101185373fc3d69d80887d2127  ./changelog/2026/11/04/slack-cli.md
 87218f0115bf333c93609f7629f0f37a0e9f4c5688803e2ad4c1d96c8576c7ab  ./changelog/2026/11/04/slack-skills-plugin.md
-0aa55e53b8ac363f5f46b887952b7ded0189626493ab3d4372600aec1725d027  ./changelog/2026/11/06/work-objects-embeds-frame-ancestors.md
-bc0b18a58d4a82f6c1b0e3096f4dc1acb0f8f5fb7e9472be7cb6c6d05594b807  ./changelog/index.md
-1a2829b4af6b135774584c7ce7a281d492c17269aac98907df5c6bbd8e9f05be  ./changelog/tags/announcement.md
+c8677b67fc89182cd70ec59a192f5227a418e162af953be2e1cb23e015752be8  ./changelog/2026/11/06/work-objects-embeds-frame-ancestors.md
+82bbcde48343fe18bbb92a51ad055d2e66b476fcba3c03de8e07aaf64673d9fc  ./changelog/index.md
+ed9240adb8df53d7f264d55dae1242ae7e7cbcccd9b907358a9cf34f440a3efc  ./changelog/tags/announcement.md
 bf824e9aa531596d963fc696e244f8b0f3ebe16b62098c4101c8bac95b45163c  ./changelog/tags/beta.md
 fbf069e83a067622abfb93b2008b16904fe30d89967705204632928f9b8b771c  ./changelog/tags/block-kit.md
 2df18d42041bd0d3b3b41c906ffeac2b38ceef8222e0dffeccdfe77d9465baa7  ./changelog/tags/bolt-js.md
@@ -353,7 +353,7 @@ e3299518792d58af3b4c31b2e8c047be7951826d0c097b2911f032c5603d3a9b  ./enterprise/d
 979e838dcecc5788094b2f604353e8052602808fa60efdfc05ebeb4b1c8c0d9f  ./enterprise/testing-enterprise-org-apps.md
 79314f7b722daf9c8feb650859b995a79f4ae9efd0bcd2585fd45bb421f016ac  ./faq.md
 dfb0f849054bd3dbb4e3351680c0cbccd6126677c3e2a8cca65a662b146397cb  ./govslack.md
-ba05532c995fcc6ac616f82974bcbcaf7992309833e004d851ed028c730c6538  ./index.md
+9d314a02a6297cda62e076a14bc6a224c445f381372d4007246a7b914fda1a39  ./index.md
 1ee75e10b3c31d75f785aaccd60d5c482817c72edec360376b692ed087536edc  ./interactivity/adding-interactive-modals-to-home-tab.md
 7aa4d208d990eb56de5e62cff60af720b0723c0bba2cffb167a6e5c6a912a35d  ./interactivity/deep-linking.md
 d7693fb6b1bf291d249c6b5578640f841437f6434c00cb5f2585069e5b38873a  ./interactivity/handling-user-interaction.md
@@ -397,7 +397,7 @@ cb001a55217d2eaeb697b266db99068edde3ce17b708ad37ce19bfc2d88cf98b  ./messaging/me
 1091e675c67f406fa9d79aaa2ccab021ac06544e7829ba090dc61c86c0045e72  ./messaging/sending-messages-using-incoming-webhooks.md
 ad2ba0af31b0624fd07e14d940772abb9f1867b70694d7ecff93abfdda78b502  ./messaging/unfurling-links-in-messages.md
 67b78fdf76cec6cd39bc2faa2393efeea35eea655a38f3f939a539b3e1084d5a  ./messaging/work-objects-comments.md
-bcf153dad35227c0ac854e5242029796b82e0400b6ac7dfbbbfc3c11d8aed7f5  ./messaging/work-objects-embeds.md
+e500c0320a11498f2a7e1e4a15de9c639d6a59ba0619cad1714d5bd497037f5d  ./messaging/work-objects-embeds.md
 9b2e8d81faf2a0c4279c002bb31d9d065cf1f9b02f3637627be3d5af5a5314fb  ./messaging/work-objects-implementation.md
 7be358651a5b875008b733a8a0c3afc4ac831dd89ab59247c0dae66c9e30ac96  ./messaging/work-objects-overview.md
 9c7620e33121abaedaa4cc0d3e41659547c25cf1b783572f3690f98811c99ab6  ./messaging/working-with-files.md
@@ -1200,11 +1200,11 @@ a61763ebf34d9aab7a8256010210958007990cb7417f8ca7bf1f45a8811957d5  ./tools/bolt-j
 ddf9c8a4e35b14dc77166619211b4019c57fd639c25241fc38b8c22d604d759c  ./tools/bolt-js/concepts/authenticating-oauth.md
 dc3509a540902c5db1f20c3f0196c8ad87a5cc76bada5acd2985b6a67b43673d  ./tools/bolt-js/concepts/authorization.md
 547d156db8675fa92e1a1209d04681f06d8a0a7acb6e6b68541dab910bcbca7b  ./tools/bolt-js/concepts/commands.md
-2098e0bceaa3f402e7f3c1e21616d32ee4a6265a44464babb3959b5165692167  ./tools/bolt-js/concepts/context.md
+4586039c86856674105d8828f6103c46417d985160d3e3f9cf56473b4b7f2ff3  ./tools/bolt-js/concepts/context.md
 cfede36d2c39884364ebd3168cf0083b82e255744916cc81566dacce864fdc98  ./tools/bolt-js/concepts/creating-modals.md
 642d01df7cddcea87edc1781d2049e6d95e117af13fb1a532fa55f06cdb23ff5  ./tools/bolt-js/concepts/custom-routes.md
 4318737a8a50431ada39ece47a691fab07a878057672e7d05a897288d628d1bf  ./tools/bolt-js/concepts/custom-steps-dynamic-options.md
-144653903cca45f57e73e6b48cd6d11f7d78cfa0ff19a1f600b40fc928d4fe78  ./tools/bolt-js/concepts/custom-steps.md
+4b9cb33ae3d788919ce9ff540d8d371c3c317a2fa0e0c4a9c36fc8c37510112b  ./tools/bolt-js/concepts/custom-steps.md
 3d0d5c649f171732130de4f2fc0e19a8837deef1ba09a99bc5afe1ceeed88a44  ./tools/bolt-js/concepts/deferring-initialization.md
 0ffcaac534321d2df681d1d0b06cc4ffbc3f555a0e918fa2f2177ed47375813d  ./tools/bolt-js/concepts/error-handling.md
 d7adc1361f8c36b761d03ee9fe677c55622c3db33d06371dad4f8aca62d44cc2  ./tools/bolt-js/concepts/event-listening.md
