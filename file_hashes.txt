@@ -316,6 +316,7 @@ ec0c639bf5f18db953d77f467297aa85772936101185373fc3d69d80887d2127  ./changelog/20
 87218f0115bf333c93609f7629f0f37a0e9f4c5688803e2ad4c1d96c8576c7ab  ./changelog/2026/11/04/slack-skills-plugin.md
 e67c630b9af3dd74c9fe4d265fe0c239ff78ea1c4f3dcd5572fdf568800e97f5  ./changelog/2026/11/06/work-objects-embeds-frame-ancestors.md
 845c0d23ba62ac5b5766e357b3c56d918d961dd423103d24822f69d660f610bf  ./changelog/2026/11/13/admin-users-set-regular-org-demotion.md
+4c09d6d2e64217acbe16e96eb120a62353e226b128b8b6853d14f4303be3990a  ./changelog/2026/11/13/slack-cli.md
 ec5fc0edb419331aca93a67b9e4bdffb891ce84aee3fa34a9a9569bc8d1968ef  ./changelog/index.md
 c9065e56232bd613dbade2e0b791f9e6d3eeaaae652d7946e429b22431d6084c  ./changelog/tags/announcement.md
 bf824e9aa531596d963fc696e244f8b0f3ebe16b62098c4101c8bac95b45163c  ./changelog/tags/beta.md
@@ -331,8 +332,8 @@ e84b684229b4d12e142fc5ec8813a8d535ceb6782ce9e2137ab809fc944ebdb8  ./changelog/ta
 2780fb0ac9bddff9810ec29acce9302fe6cf6e495421462cc852126265e36015  ./changelog/tags/new-feature.md
 2150d670d06442f044599e262c7e24316044d0ff90e14ed65e604f52d29a5afc  ./changelog/tags/node-slack-sdk.md
 cbc82d3dd13ba9432aba7f762f38c9d31a1fcce62f2eaab6d7ae8eef8fc4b122  ./changelog/tags/python-slack-sdk.md
-e6177257f26670195cc2e6f42f173ef020e2d607d08bbb81232e8ad9a48eae10  ./changelog/tags/release.md
-104541efa9734453ba02dc762de512581006f525357979d60d0175c2e64adf4e  ./changelog/tags/slack-cli.md
+4150c8ca9006adecf6a220a0ec1356e35fd625c7bb01ad0a9aa6127b9d575fdb  ./changelog/tags/release.md
+a923cd986a3e7025024c5ca50d9c87e1dbc44dc4eccd6da2e4c7cbd001289240  ./changelog/tags/slack-cli.md
 0fb7769306568e24414c68349c3ccb789763e6dd9f729ac38e4c9f8617fdf2e3  ./changelog/tags/slack-skills-plugin.md
 dd503224d5ba169b85e6fc5add948ea9accf26770d9d3fc5a30de1af23df0741  ./community-code-of-conduct.md
 37fbf725d843589df7f7f66c024cbeae35dabb742eea387e8b51b7be2cae7513  ./concepts/agent-design.md
@@ -449,7 +450,7 @@ c3e17ddf43b1d334f70c29d1ece453cc216c72acbfd8a5edcd5fb8a13ddc516a  ./reference/bl
 a633f4a48d47895e2b3e0eb36fe49e2a3565b94e4dbdc84473509f26416d561e  ./reference/block-kit/block-elements/text-element.md
 a3fb43f8bf4b885f5a9d2d48c5c802ed87f583fce5a19c3daf256f385966e22d  ./reference/block-kit/block-elements/time-picker-element.md
 c2221c41dda87899e8aa8e320dd21421fc439a209b2417522425561d42d340cb  ./reference/block-kit/block-elements/url-input-element.md
-e224961de7d10ce3b9e6d4d87fc63477de042cba28bee24eb791d3391cae7379  ./reference/block-kit/block-elements/url-source-element.md
+3caddfa3de47f31910e9a8bd115676e7538116a74447c07a16d3ef6f151c964a  ./reference/block-kit/block-elements/url-source-element.md
 0ae163e86d4480d88dfce4033ec151dd3d207bb3d770814be3a20d74df563adf  ./reference/block-kit/block-elements/user-element.md
 f141bbd1d4642a5b60e9e57160b5e268783f983f3e3762fd49bb7c2ea41f4193  ./reference/block-kit/block-elements/usergroup-element.md
 3cf848e4aa8fbc6999e1da3186b333f9a36941058c27434ea1f7b648f6fa9ad4  ./reference/block-kit/block-elements/work-object-mention-element.md
@@ -472,7 +473,7 @@ ecddb31a3263f2b1c039115795ed6858efdc4a7be0ab9940de415cab28209136  ./reference/bl
 f316aee3b0fbfa8075774c715930a88fad854f2777029f894eb01174e4d9c8fe  ./reference/block-kit/blocks/input-block.md
 97de4eb3fa7558fb9768618d67d345c3188cd127db45a84eb210ed3c1cddb0aa  ./reference/block-kit/blocks/layout-block.md
 eccd8984687daf5216237972d8fa4acc5074c2347470399f567b904a924dbb19  ./reference/block-kit/blocks/markdown-block.md
-dc3c249623663a7bf426568c9ca8c9a2659b6d2c2ce41e7e7c4b4960cd005d89  ./reference/block-kit/blocks/plan-block.md
+a890028b9e8dcbea52446a07734d5d5e7f0bac0bf945d55bf752169a8bfde3fd  ./reference/block-kit/blocks/plan-block.md
 c3c2a38d7caf2a598c367bc53b602ef9a90701f5da7beebd3048415ee40dd2b3  ./reference/block-kit/blocks/rich-text-block.md
 846cb5705d4c841252225e9633c082f9bae7fae172f4d53cb5734ce8d990f318  ./reference/block-kit/blocks/section-block.md
 c7d28a0150870cd86808df677fba4fc29af1a5dc183660eebf0ecd21967352c3  ./reference/block-kit/blocks/table-block.md
