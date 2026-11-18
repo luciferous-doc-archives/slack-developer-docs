@@ -8,7 +8,7 @@ abc2db0df2ab43641655240be2aa0877f652b9a166615e688b61b6788108fbe5  ./admins/manag
 5aebc662b77d7f0006d95641a21c94d386bf4dcadaa8c5a1d27482b0239310df  ./admins/managing-invite-requests.md
 d43e2b1d7ccb3415122b8062da7ec7ba70dbf54ee86df95a55587cb88e78c2a0  ./admins/managing-users.md
 d40cbb34bfd03d5b86ac71d106e2683e964cbb1fc3ad45d300daef21c08466bf  ./admins/scim-api.md
-820eff6102dd08e153fcfcb5daff6d5c66b136ef680421801e16f0bb32c22026  ./agent-setup/prompt.md
+38611fd626b7152b056c35fe5a6230e6ff597b97f3884b9e823adf435c2a2f5c  ./agent-setup/prompt.md
 e96f5d772592ba75981f40e4e2b2c61376677b07b4204381b9eb598beb438b1e  ./ai/agent-context-management.md
 65447bdbf520475cfe273e3f4e5bfd6bb60b3066a4b002eaf5645636eadcaf59  ./ai/agent-governance.md
 a71336cb6b4403808f75f8b0aa81b493193e31d2580da7f5b505200b4370aea6  ./ai/agent-quickstart.md
@@ -32,8 +32,8 @@ aac034b1404183dbcfe0cf83aa8481786dc90275016e28b97365b2dffd74a12f  ./ai/slack-mcp
 bc9b7369c2442956dc1fa31b141f6ad177b3f39b0f8057fccbc57bdf124c06df  ./ai/slack-mcp-server/connect-to-cursor.md
 f2c6a2fa217c0e8a55176d65cb5c9e2dc3aa1158e409951bcfadce105467301c  ./ai/slack-mcp-server/connect-to-harnesses.md
 713e0794905451df78946b06a2e5b9f90e735e5399bf665c20981a58ee801d36  ./ai/slack-mcp-server/developing.md
-f03f55c8519d8f41f77adf0418b11584163e9b5b0516b7573b9fd051d1b05d2b  ./ai/slack-mcp-server/index.md
-e6e65b90adce1f4f5c59b1c40272a3aa8000762380c1205175cae3ca6cea1e9d  ./ai/slack-skills-plugin.md
+4adb7d0ed49647ace635b9ba371044c0bd4a516b5b623c7910e75998ad27af73  ./ai/slack-mcp-server/index.md
+35e5c0001781b434aeb7056d60237cd8ebe1069e49112d42c2b5cb6165249f08  ./ai/slack-skills-plugin.md
 f1d2783e71e53e56f48955eca7238cb7f586a5f5532da69e1272f197e817fe41  ./ai/slackbot-mcp-client/admin-approval.md
 40c9e9119f828372129f2929d6da746e1512b50ace1a1d6be5a5c9e2a5f98fe8  ./ai/slackbot-mcp-client/distributing.md
 a14854c397e4eb1ec25860b73ade2e9e49a3e9bc6e319f6efc7f5f7ed031fc4c  ./ai/slackbot-mcp-client/index.md
@@ -318,7 +318,8 @@ be4618cdbb8b2cef49bb9b425ee7c5faa1010ae5b8732a5f583ac480f45f686c  ./changelog/20
 cf0a5a8e89f55f5f729c17459afe5fe58d5e5878e1309237b29c21efe986b2fb  ./changelog/2026/11/06/work-objects-embeds-frame-ancestors.md
 845c0d23ba62ac5b5766e357b3c56d918d961dd423103d24822f69d660f610bf  ./changelog/2026/11/13/admin-users-set-regular-org-demotion.md
 4c09d6d2e64217acbe16e96eb120a62353e226b128b8b6853d14f4303be3990a  ./changelog/2026/11/13/slack-cli.md
-e9fb8e606357b620eb1e45c73b47902b6cac3f05956bdbc76159ced024665cc0  ./changelog/index.md
+f27d029eb24810a6dd31661336fddc87ea127d77a97bc985782d9e87d7493cf9  ./changelog/2026/11/17/slack-skills-plugin.md
+2e0bd147b8d16f100c55b8a5ae7eb96fb0207beda6868d57cdee6b4d1fc024a9  ./changelog/index.md
 50002a6d58536d9692788fce0d739384ff12d4f1a0ce03c0655c7bcb2890e1bf  ./changelog/tags/announcement.md
 bf824e9aa531596d963fc696e244f8b0f3ebe16b62098c4101c8bac95b45163c  ./changelog/tags/beta.md
 fbf069e83a067622abfb93b2008b16904fe30d89967705204632928f9b8b771c  ./changelog/tags/block-kit.md
@@ -333,9 +334,9 @@ dbdc5ca6d1d857cdda00b2da51f18c9e6000685f64fe6c3f6b61b98967a96649  ./changelog/ta
 2780fb0ac9bddff9810ec29acce9302fe6cf6e495421462cc852126265e36015  ./changelog/tags/new-feature.md
 2150d670d06442f044599e262c7e24316044d0ff90e14ed65e604f52d29a5afc  ./changelog/tags/node-slack-sdk.md
 cbc82d3dd13ba9432aba7f762f38c9d31a1fcce62f2eaab6d7ae8eef8fc4b122  ./changelog/tags/python-slack-sdk.md
-4150c8ca9006adecf6a220a0ec1356e35fd625c7bb01ad0a9aa6127b9d575fdb  ./changelog/tags/release.md
+1cee3e833704b8b21bc3f83a002e290c8af78140caae88bf1f129018a1253f5a  ./changelog/tags/release.md
 a923cd986a3e7025024c5ca50d9c87e1dbc44dc4eccd6da2e4c7cbd001289240  ./changelog/tags/slack-cli.md
-01ed72285231c6ece8815678a0f561f87f9ec93ab01e8cc399a25e6cc88f217b  ./changelog/tags/slack-skills-plugin.md
+dc3b9f8fd2f924777e5617165f45e0a7df69881b1b35cd88b7334de5ebdf274b  ./changelog/tags/slack-skills-plugin.md
 dd503224d5ba169b85e6fc5add948ea9accf26770d9d3fc5a30de1af23df0741  ./community-code-of-conduct.md
 2de99f4c463337445229e7d3c8debd2786b19cbf1ab72bc45dff7005af7b3a0a  ./concepts/agent-design.md
 e7b0e59de4ceaf6fff5b2884a62c042cc26745fbd40bfc50b3130a40d3ec0a01  ./concepts/app-design.md
@@ -1189,7 +1190,7 @@ dfbafd2dddbd1cc8706773f718d07ae13dd0f0fc2793d1b0b66d2fd1a3b87fd4  ./reference/vi
 c54bead1801254364925f424f32a5815a61b1645355a579a351f1497bf119265  ./slack-marketplace/marketplace-terms-conditions/index.md
 e04ad37202e6a8b28a55bd40df99f9082e3a32dca425ff45b1152795b40b8e15  ./slack-marketplace/marketplace-terms-conditions/slack-marketplace-agreement.md
 331671b74c90a028b3403a7f5c24fc0d827c0f8f5d67870fa1aebb1282ce8af6  ./slack-marketplace/marketplace-terms-conditions/slack-security-review.md
-89db71c8b72fe9e3e6b40f13158eb01a640ac65c2da1d41017e668bc3582fa6d  ./slack-marketplace/slack-marketplace-app-guidelines-and-requirements.md
+ae0534aa0b2c59f65cfa2f7c92409da7d4cea6b86d160e40d698885c6735403f  ./slack-marketplace/slack-marketplace-app-guidelines-and-requirements.md
 26ab55802cddbe13f87bdea6ca438ab7ffac16d71cad1df67f33c383bd460bea  ./slack-marketplace/slack-marketplace-review-guide.md
 9debbe52e1c38760ec692f146d9fe67fe3ac62cc0d202db1a7ad46b89d2a1c97  ./surfaces/app-home.md
 4e0ad8a4cdd4dc6f571a783d30f16655a1033490fcba76acbc878f677996de27  ./surfaces/canvases.md
@@ -3428,8 +3429,8 @@ f80252307766678c44d5dc95917381e9f18a42034849b62c82841f36b20ffd9c  ./tools/slack-
 260bed4caddfbd73c373dafe88e457d908b27158f2fdc0d456b7751a67f1c0f5  ./tools/slack-cli/reference/commands/slack_uninstall.md
 bb6743214e5aec89e8e80f189a104701657e0edae31bec9007c98161aef543e3  ./tools/slack-cli/reference/commands/slack_upgrade.md
 588b053c0a0e5bbe5200a6531cff1bdcde6eb62ffa0b9308b38a0eb2388c117b  ./tools/slack-cli/reference/commands/slack_version.md
-1b1fd1e83fe8b53c620e9da864f53da0688d7326005d9af1a1c83885f7756ab5  ./tools/slack-cli/reference/errors.md
-69308232e825aef408def1429d6da6fac39603321d9020bc9e1ab5c6d22de0cf  ./tools/slack-cli/reference/experiments.md
+7d859a6e46f5ca3c313478b1921227cb24e15cc3c2c178f9a866238c9e29c601  ./tools/slack-cli/reference/errors.md
+0bd62d37c13da8e9457c8c89fde922b72f90c6d8101754aaeec93e9f8b599483  ./tools/slack-cli/reference/experiments.md
 880302d9056127357faca83b1242b7199b5d3aa8925717b77eb48e0042f19bc0  ./tools/slack-cli/reference/hooks.md
 974b1b6858ff892b708d19ddef15b8a9d804e87935e1b4d9a70814c374f2b0cc  ./tools/slack-github-action/additional-configurations.md
 16ab80670b86b5f865b3de32aa0bc8f720fe94e7c1ae4c452e00bd4614770f81  ./tools/slack-github-action/gathering-variables.md
