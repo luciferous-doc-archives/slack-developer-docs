@@ -460,7 +460,7 @@ beeb5669d82e7b9551c5154e648f9c0eb5858982578ff42e9482e8f2b8511bcf  ./reference/bl
 7e2ed46a91d172c99a36090deee483c94c4be7a075478eb3938b3711096d5746  ./reference/block-kit/block-elements/workflow-button-element.md
 28bf304c4aa74276682b2ec71f1cb04c13483ecf848f49424cef1b23c6d81789  ./reference/block-kit/block-elements/workflow-mention-element.md
 0b5efde82bcae5c69f57b9dc2ae4a727c869cbc653b1b22c4fa08f8b189e82d2  ./reference/block-kit/blocks/actions-block.md
-10b0dd50b4677961abc6cf4096d62e26acd3c776769aa13e7c9cc76ad02d347a  ./reference/block-kit/blocks/alert-block.md
+f11ce427d6d1d89147f9b9b63985565b756f224a5d7926960d7b4366fbca45cb  ./reference/block-kit/blocks/alert-block.md
 63b0e61e34df2fab364729bd13ed10969bdd07154dc6669d9ab12a1c5c067929  ./reference/block-kit/blocks/card-block.md
 dbd55404fa6f3fce62a8909dcd221048e5acc3518fa87b2d296da7f78b4be2f0  ./reference/block-kit/blocks/carousel-block.md
 27997fd422fd2a040a07ded69a46a16713579096b935b3a92d80b003abbc5729  ./reference/block-kit/blocks/container-block.md
